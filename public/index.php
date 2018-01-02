@@ -10,43 +10,16 @@
 		<meta name="author" content="F E Evans">
 		<link rel="stylesheet" href="stylesheets/bootstrap.min.css">
 		<link rel="stylesheet" href="stylesheets/style.css">
-		<script src="resources/javascript/jquery-3.1.0.js"></script>
-		<script src="resources/javascript/bootstrap.min.js"></script>
+		<script src="javascript/jquery-3.1.0.js"></script>
+		<script src="javascript/bootstrap.min.js"></script>
 	</head>
 
 	<body>
 	
 		<div class="container">
-			<div class="row">
-				<div class="col-md-12">
-					<nav class="navbar" role="navigation">
-						<div>			 
-							<a class="navbar-brand" href="http://www.methodist.org.uk/">
-								<img alt="The Methodist Church Logo, featuring a white cross on a red orb, with the wording The Methodist Church" 
-								class="resized-image-35 nav-border-1"
-								src="images/re_methodist_logo_lowres.gif">
-							</a>				
-						</div>
-						<form class="navbar-form search-form" role="search">
-							<div class="form-group">
-								<input type="text" class="form-control" />
-							</div> 
-							<button type="submit" class="btn btn-default">
-								Search »
-							</button>
-						</form>
-					</nav>
-					
-					<div>
-						<div class="banner">
-							<h1 class="banner-heading">
-								South Shore Community Methodist Church
-							</h1>
-							<p class="banner-text">Two buildings, one Methodist community</p>
-						</div>
-					</div>
-				</div>
-			</div>
+		
+			<?php include 'templates/header.php';?>
+			
 			<div class="row">
 				<div class="col-md-1">
 				</div>
@@ -117,22 +90,12 @@
 				</div>
 			</div>
 			
-	 		<footer class="banner">
-	 			<div class="row">
-					<div class="col-md-12">
-	 		
-	 					<p>
-							We hope you enjoy exploring the material that is on this site, finding your way around and discovering more about us.
-							We welcome any feedback to help us make it as good as it can be for all our visitors.
-						</p>
-					</div>
-				</div>
-	 		</footer>
+			<?php include 'templates/footer.php';?>
 			
 		</div>
 		
-		<script src="resources/javascript/jquery-3.1.0.js"></script>
-		<script src="resources/javascript/bootstrap.min.js"></script>
+		<script src="javascript/jquery-3.1.0.js"></script>
+		<script src="javascript/bootstrap.min.js"></script>
 		<!-- add google analytics script  -->
  	</body>
 </html>
