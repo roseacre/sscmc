@@ -1,0 +1,81 @@
+.resized-image-35 {
+	width: 35%;
+	padding-bottom: .5em;
+	margin-left: -0.9em;
+}
+
+.resized-image {
+	width: 100%;
+	padding-bottom: .5em;
+	padding-top: 2em;
+}
+
+.banner-heading {
+	font-size: 3.1em;
+	font-weight: bolder;
+	padding-left: .2em;
+}
+
+.banner {
+	padding-left: 1.5em;
+	padding-top: .4em;
+	padding-bottom: .4em;
+	margin-top: .5em;
+	background-color: #c8102e;
+	color: white;
+	border-radius: .4em;
+}
+
+.banner-text {
+	font-size: 1.5em;
+	text-align: right;
+ 	padding-right: 1.5em;
+ }
+
+.search-form {
+	float: right;
+	padding-top: 1.2em;
+	margin-bottom: -1em;
+	margin-right: -1em;
+}
+
+.btn {
+	background-color: #10c8aa;
+	color: black;
+	border: thin solid #c8102e;
+}
+
+.form-control {
+	border: thin solid #c8102e;
+}
+
+.nav-border-1 {
+	border-bottom: thick solid #c8102e;
+}
+
+.separator {
+	border-bottom: medium solid #c8102e;
+	padding-top:.5em;
+	padding-bottom: .5em;
+}
+
+.welcome-text {
+	font-size: 1.5em;	
+}
+
+p {
+	font-size: 16px;
+}
+
+h2 {
+	font-size: 1.8em;
+}
+
+.centred {
+	text-align: center;
+}
+
+.padded {
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
