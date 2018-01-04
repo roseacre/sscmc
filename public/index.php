@@ -1,24 +1,16 @@
 <!DOCTYPE html>
-<html>
-	<head>
-		<title>South Shore Community Methodist Church</title>
-		<meta name="google-site-verification" content="" />
-		<meta charset="UTF-8">			
-		<meta name="description" content="Index page for the South Shore Community Methodist Church in Blackpool, England.">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="keywords" content="South Shore Community Methodist Church, Highfield, Lindale, Blackpool, SSCMC">
-		<meta name="author" content="F E Evans">
-		<link rel="stylesheet" href="stylesheets/bootstrap.min.css">
-		<link rel="stylesheet" href="stylesheets/style.css">
-		<script src="javascript/jquery-3.1.0.js"></script>
-		<script src="javascript/bootstrap.min.js"></script>
-	</head>
+<html lang="en">
+
+    <?php
+        $title = "South Shore Community Methodist Church";
+        include 'templates/head.php';
+    ?>
 
 	<body>
 	
 		<div class="container">
 		
-			<?php include 'templates/header.php';?>
+			<?php include 'templates/banner.php';?>
 			
 			<div class="row">
 				<div class="col-md-1">
@@ -26,11 +18,11 @@
 				<div/class="col-md-10">
 					<div>
 						<h2>
-							Welcome to the South Shore Community Methodist Church website.
+							Welcome to the South Shore Methodist Community Church website.
 						</h2>
-						<div class="welcome-text">
+						<div class="general-text">
 							<p>
-								South Shore Community Methodist Church is a Christian congregation serving the Blackpool community.
+								South Shore Methodist Community Church is a Christian congregation serving the Blackpool community.
 							</p>
 							<p>
 								We seek to be a loving, friendly community that worships God, and serves others. We place a high priority on 
@@ -49,39 +41,47 @@
 			<div class="row">
 				<div class="col-md-1"></div>
 				<div class="col-md-5">
-					<img alt="Photograph of Highfield Methodist Church" src="images/highfield.jpg" class="resized-image img-rounded" />
+					<img alt="Photograph of Highfield Methodist Church"
+                         longdesc="The image shows the church building photographed from the corner of Mayfield Avenue and Scarsdale Avenue."
+                         src="images/highfield.jpg" class="resized-image img-rounded" />
 					<h2 class="banner">
 						Highfield Methodist Church
 					</h2>
-					<p>Join us on Sunday mornings, at 10:30am,<p>
-					<p>in Mayfield Avenue, Blackpool, FY4 2NP.</p>
-					<p>
-						<a class="btn" href="#">View more about Highfield Methodist Church »</a>
-					</p>
+                    <div class="general-text">
+                        <p>Join us on Sunday mornings, at 10:30 am,<p>
+                        <p>in Mayfield Avenue, Blackpool, FY4 2NP.</p>
+                        <p>
+                            <a class="btn" href="#">View more about Highfield Methodist Church »</a>
+                        </p>
+                    </div>
 				</div>
 				<div class="col-md-5">
-					<img alt="Photograph of Lindale Methodist Church" src="images/lindale.jpg" class="resized-image img-rounded" />
+					<img alt="Photograph of Lindale Methodist Church"
+                         longdesc="The image shows the church building photographed from the corner of Dorritt Road and Margate Avenue"
+                         src="images/lindale.jpg" class="resized-image img-rounded" />
 					<h2 class="banner">
 						Lindale Methodist Church
 					</h2>
-					<p>Join us on Sunday mornings, at </p>
-					<p>in Dorritt Avenue, Blackpool, FY4 3PE.</p>
-					<p>
-						<a class="btn" href="#">View more about Lindale Methodist Church »</a>
-					</p>
+                    <div class="general-text">
+                        <p>Join us on Sunday mornings, at 10:30 am,</p>
+                        <p>in Dorritt Road, Blackpool, FY4 3PE.</p>
+                        <p>
+                            <a class="btn" href="#">View more about Lindale Methodist Church »</a>
+                        </p>
+                    </div>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-1"></div>
 				<div class="col-md-10">
-					<p class="centred padded">Please check our events diary to confirm service times as periodically we celebrate joint services.</p>
+					<p class="centred padded general-text">Please check our events diary to confirm service times as periodically we celebrate joint services.</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-1"></div>
 				<div class="col-md-10">
 					<div class="separator"></div>
-					<p class="padded">
+					<p class="padded general-text">
 						If you wish to speak to our minister xxxx, call <a href="tel:01253341017">01253 341017</a> or email him using 
 						<a href="mailto:example@example.com">Example Email</a>, he will be glad to hear from you. 
 						You can also <a href="mailto:n.g.evans@btinternet.com">contact the Church Secretary</a> with queries and prayer
@@ -93,9 +93,8 @@
 			<?php include 'templates/footer.php';?>
 			
 		</div>
-		
-		<script src="javascript/jquery-3.1.0.js"></script>
-		<script src="javascript/bootstrap.min.js"></script>
-		<!-- add google analytics script  -->
+
+        <?php include 'templates/scripts.php';?>
+
  	</body>
 </html>

@@ -1,3 +1,7 @@
+body {
+    font-size: 1.0em;
+}
+
 .resized-image-35 {
 	width: 35%;
 	padding-bottom: .5em;
@@ -27,7 +31,7 @@
 }
 
 .banner-text {
-	font-size: 1.5em;
+	font-size: 1.8em;
 	text-align: right;
  	padding-right: 1.5em;
  }
@@ -59,16 +63,12 @@
 	padding-bottom: .5em;
 }
 
-.welcome-text {
-	font-size: 1.5em;	
-}
-
-p {
-	font-size: 16px;
+.general-text {
+	font-size: 1.6em;
 }
 
 h2 {
-	font-size: 1.8em;
+	font-size: 2.0em;
 }
 
 .centred {
@@ -78,4 +78,23 @@ h2 {
 .padded {
 	padding-top: 1em;
 	padding-bottom: 1em;
+}
+
+label {
+    font-size: 1.4em;
+}
+
+.footer-link {
+    color:#ccffff; !important;
+    text-decoration:underline; !important;
+}
+
+a.footer-link:focus, a.footer-link:hover {
+    color:#ffffcc; !important;
+    text-decoration:underline; !important;
+    font-weight:bolder; !important;
+}
+
+.copyright-text {
+    font-size: 0.8em;
 }
