@@ -11,7 +11,8 @@
 		<div class="container">
 		
 			<?php include 'templates/banner.php';?>
-			
+            <?php include 'templates/ssmcc-links.php';?>
+
 			<div class="row">
 				<div class="col-md-1">
 				</div>
@@ -45,7 +46,7 @@
                          longdesc="The image shows the church building photographed from the corner of Mayfield Avenue and Scarsdale Avenue."
                          src="images/highfield.jpg" class="resized-image img-rounded" />
 					<h2 class="banner">
-						Highfield Methodist Church
+						Highfield Site
 					</h2>
                     <div class="general-text">
                         <p>Join us on Sunday mornings, at 10:30 am,<p>
@@ -60,13 +61,13 @@
                          longdesc="The image shows the church building photographed from the corner of Dorritt Road and Margate Avenue"
                          src="images/lindale.jpg" class="resized-image img-rounded" />
 					<h2 class="banner">
-						Lindale Methodist Church
+						Lindale Site
 					</h2>
                     <div class="general-text">
                         <p>Join us on Sunday mornings, at 10:30 am,</p>
                         <p>in Dorritt Road, Blackpool, FY4 3PE.</p>
                         <p>
-                            <a class="btn" href="#">View more about Lindale Methodist Church »</a>
+                            <a class="btn" href="pages/lindale.php">View more about Lindale Methodist Church »</a>
                         </p>
                     </div>
 				</div>
@@ -82,7 +83,7 @@
 				<div class="col-md-10">
 					<div class="separator"></div>
 					<p class="padded general-text">
-						If you wish to speak to our minister xxxx, call <a href="tel:01253341017">01253 341017</a> or email him using 
+						If you wish to speak to our minister Rev. Barrie Morris, call <a href="tel:01253341017">01253 341017</a> or email him using
 						<a href="mailto:example@example.com">Example Email</a>, he will be glad to hear from you. 
 						You can also <a href="mailto:n.g.evans@btinternet.com">contact the Church Secretary</a> with queries and prayer
 						intercessions.

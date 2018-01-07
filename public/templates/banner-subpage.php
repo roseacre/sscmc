@@ -6,7 +6,7 @@
 					<img alt="The Methodist Church Logo"
                         longdesc="The Methodist Church Logo features the words 'The Methodist Church' alongside a white cross on a red orb."
 						class="resized-image-35 nav-border-1"
-                        src="images/re_methodist_logo_lowres.gif">
+                        src="../images/re_methodist_logo_lowres.gif">
 				</a>				
 			</div>
 			<form class="navbar-form search-form" role="search">

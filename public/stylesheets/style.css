@@ -98,3 +98,32 @@ a.footer-link:focus, a.footer-link:hover {
 .copyright-text {
     font-size: 0.8em;
 }
+
+.ssmcc-text {
+	font-size: 1.4em;
+}
+
+.navbar-nav>li>a {
+    color: #333333;
+}
+
+.navbar-nav>li>a:hover, .navbar-nav>li>a:focus {
+    color: black;
+}
+
+.panel-heading {
+    border: thin solid #c8102e !important;
+    color: black !important;
+    cursor: pointer !important;
+    background-color: lightgrey !important;
+}
+
+.panel-heading:hover, .panel-heading:active {
+    background-color: #c8102e !important;
+    color: white !important;
+	cursor: pointer !important;
+}
+
+td, th  {
+    font-size: 1.4em ;
+}
