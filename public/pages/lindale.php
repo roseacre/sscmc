@@ -11,7 +11,7 @@ include '../templates/head-subpage.php';
 <div class="container">
 
     <?php include '../templates/banner-subpage.php'; ?>
-    <?php include '../templates/ssmcc-links.php'; ?>
+    <?php include '../templates/ssmcc-links-subpage.php'; ?>
 
 
     <div class="panel-group" id="accordion">
@@ -37,102 +37,103 @@ include '../templates/head-subpage.php';
                 </h4>
             </div>
             <div id="collapse2" class="panel-collapse collapse">
-                <div class="panel-body"></div>
+                <div class="panel-body">
+                    <?php include '../templates/lindale-midweek.php'; ?>
+                </div>
 
             </div>
 
         </div>
-    </div>
 
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion"
-                   href="#collapse3">Dates for your diary  ▼</a>
-            </h4>
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion"
+                       href="#collapse3">Dates for your diary  ▼</a>
+                </h4>
+            </div>
+            <div id="collapse3" class="panel-collapse collapse">
+                <div class="panel-body">
+
+                </div>
+            </div>
         </div>
-        <div id="collapse3" class="panel-collapse collapse">
-            <div class="panel-body">
 
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion"
+                       href="#collapse4">Church groups  ▼</a>
+                </h4>
+            </div>
+            <div id="collapse4" class="panel-collapse collapse">
+                <div class="panel-body">
+
+
+                </div>
+            </div>
+        </div>
+
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion"
+                       href="#collapse5">Church history  ▼</a>
+                </h4>
+            </div>
+            <div id="collapse5" class="panel-collapse collapse">
+                <div class="panel-body">
+
+
+                </div>
+            </div>
+        </div>
+
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion"
+                       href="#collapse6">Gallery  ▼</a>
+                </h4>
+            </div>
+            <div id="collapse6" class="panel-collapse collapse">
+                <div class="panel-body">
+
+
+                </div>
+            </div>
+        </div>
+
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion"
+                       href="#collapse7">Something else  ▼</a>
+                </h4>
+            </div>
+            <div id="collapse7" class="panel-collapse collapse">
+                <div class="panel-body">
+
+
+                </div>
+            </div>
+        </div>
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion"
+                       href="#collapse8">Another category  ▼</a>
+                </h4>
+            </div>
+            <div id="collapse8" class="panel-collapse collapse">
+                <div class="panel-body">
+
+                </div>
             </div>
         </div>
     </div>
 
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion"
-                   href="#collapse4">Church groups  ▼</a>
-            </h4>
-        </div>
-        <div id="collapse4" class="panel-collapse collapse">
-            <div class="panel-body">
-
-
-            </div>
-        </div>
-    </div>
-
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion"
-                   href="#collapse5">Church history  ▼</a>
-            </h4>
-        </div>
-        <div id="collapse5" class="panel-collapse collapse">
-            <div class="panel-body">
-
-
-            </div>
-        </div>
-    </div>
-
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion"
-                   href="#collapse6">Gallery  ▼</a>
-            </h4>
-        </div>
-        <div id="collapse6" class="panel-collapse collapse">
-            <div class="panel-body">
-
-
-            </div>
-        </div>
-    </div>
-
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion"
-                   href="#collapse7">Something else  ▼</a>
-            </h4>
-        </div>
-        <div id="collapse7" class="panel-collapse collapse">
-            <div class="panel-body">
-
-
-            </div>
-        </div>
-    </div>
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion"
-                   href="#collapse8">Another category  ▼</a>
-            </h4>
-        </div>
-        <div id="collapse8" class="panel-collapse collapse">
-            <div class="panel-body">
-
-            </div>
-        </div>
-    </div>
-
-
-<?php include '../templates/footer.php'; ?>
+    <?php include '../templates/footer.php'; ?>
 
 </div>
 

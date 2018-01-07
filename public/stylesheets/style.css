@@ -127,3 +127,32 @@ a.footer-link:focus, a.footer-link:hover {
 td, th  {
     font-size: 1.4em ;
 }
+
+table {
+    width: 100%;
+}
+
+th.table-date-column {
+    width: 20%;
+}
+
+th.table-preacher-column {
+    width: 15%;
+}
+
+th.table-standard-column {
+    width: 10%;
+}
+
+th.table-notes-column {
+    width: 35%;
+}
+
+.indented {
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+.indented-h2 {
+    margin-left: 1.05em;
+}
