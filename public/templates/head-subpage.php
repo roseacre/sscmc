@@ -7,5 +7,6 @@
     <meta name="keywords" content="South Shore Methodist Community Church, Highfield, Lindale, Blackpool, SSMCC">
     <meta name="author" content="F E Evans">
     <link rel="stylesheet" href="../stylesheets/bootstrap.min.css">
+    <link rel="stylesheet" href="../stylesheets/dataTables.bootstrap.min.css">
     <link rel="stylesheet" href="../stylesheets/style.css">
 </head>
