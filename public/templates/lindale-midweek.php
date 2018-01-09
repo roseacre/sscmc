@@ -3,11 +3,11 @@
 <!--    </div>-->
     <div/class="col-md-12">
 
-        <h2>
+        <h2 class="indented-h2">
             Midweek services at the Lindale site of South Shore Methodist Community Church
         </h2>
 
-        <div class = "table-responsive">
+        <div class = "table-responsive indented">
             <table class="table table-bordered table-striped"
                    summary="This table provides details of the midweek services at the Lindale site of
                         South Shore Methodist Community Church.">

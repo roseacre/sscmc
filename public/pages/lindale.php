@@ -40,9 +40,7 @@ include '../templates/head-subpage.php';
                 <div class="panel-body">
                     <?php include '../templates/lindale-midweek.php'; ?>
                 </div>
-
             </div>
-
         </div>
 
         <div class="panel panel-default">
