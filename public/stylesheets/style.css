@@ -132,7 +132,7 @@ table {
     width: 100%;
 }
 
-th.table-date-column {
+th.table-date-time-column {
     width: 20%;
 }
 
@@ -146,6 +146,22 @@ th.table-standard-column {
 
 th.table-notes-column {
     width: 35%;
+}
+
+th.table-date-column {
+	width: 10%;
+}
+
+th.table-time-column {
+	width: 10%;
+}
+
+th.table-location-column {
+	width: 22%;
+}
+
+th.table-notes-column {
+	width: 58%;
 }
 
 .indented {
@@ -162,3 +178,13 @@ th.table-notes-column {
 	src: url('../fonts/glyphicons-halflings-regular.eot');
 	src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
 }
+
+
+
+/*time[datetime^="01-"]:after {*/
+	/*content: " January ";*/
+/*}*/
+/*!* Days (non-USA) *!*/
+/*time[datetime$="-01"]:before {*/
+	/*content: "1";*/
+/*}*/

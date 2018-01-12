@@ -55,11 +55,6 @@ include '../templates/head-subpage.php';
 
 
     <?php include '../templates/scripts-subpage.php'; ?>
-    //
-    // This only line code describes to bind datatable functionalities like searching, sorting and
-    paging to our table.
-    // Here 'myTable' is the ID of our table
-    //
 
     <script>
         $(document).ready(function () {
