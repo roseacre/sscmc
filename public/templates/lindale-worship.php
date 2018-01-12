@@ -12,7 +12,7 @@
                    summary="This table provides details of the Sunday services at the Lindale site of
                         South Shore Methodist Community Church.">
                 <thead>
-                    <th id="header1" class="table-date-column">Date and Time</th>
+                    <th id="header1" class="table-date-time-column">Date and Time</th>
                     <th id="header2" class="table-preacher-column">Led By</th>
                     <th id="header3" class="table-standard-column">Sunday Club</th>
                     <th id="header4" class="table-standard-column">Stewards</th>
