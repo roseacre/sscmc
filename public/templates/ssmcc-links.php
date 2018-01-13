@@ -90,7 +90,7 @@
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                         <li class="active">
-                            <a href="#">Events and Services</a>
+                            <a href="pages/ssmcc-diary.php">Events and Services</a>
                         </li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Useful links<strong class="caret"></strong></a>

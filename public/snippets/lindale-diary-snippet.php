@@ -5,12 +5,6 @@
     <td headers="header4">Stewards' meeting</td>
 </tr>
 <tr>
-    <td headers="header1">09-01-2018</td>
-    <td headers="header2">11:00-12:00</td>
-    <td headers="header3">Lindale Methodist Church</td>
-    <td headers="header4">Elementary Praying: a short course lead by Reverend Barrie Morris</td>
-</tr>
-<tr>
     <td headers="header1">10-01-2018</td>
     <td headers="header2">18:30-19:00</td>
     <td headers="header3">Lindale Methodist Church</td>
@@ -44,12 +38,6 @@
     </td>
 </tr>
 <tr>
-    <td headers="header1">16-01-2018</td>
-    <td headers="header2">11:00-12:00</td>
-    <td headers="header3">Lindale Methodist Church</td>
-    <td headers="header4">Elementary Praying: a short course lead by Reverend Barrie Morris</td>
-</tr>
-<tr>
     <td headers="header1">18-01-2018</td>
     <td headers="header2">10:00</td>
     <td headers="header3">Lindale Methodist Church</td>
@@ -72,12 +60,6 @@
     <td headers="header2">10:30</td>
     <td headers="header3">Lindale Methodist Church</td>
     <td headers="header4">Sunday service, led by Reverend Barrie Morris.</td>
-</tr>
-<tr>
-    <td headers="header1">23-01-2018</td>
-    <td headers="header2">11:00-12:00</td>
-    <td headers="header3">Lindale Methodist Church</td>
-    <td headers="header4">Elementary Praying: a short course lead by Reverend Barrie Morris</td>
 </tr>
 <tr>
     <td headers="header1">24-01-2018</td>
