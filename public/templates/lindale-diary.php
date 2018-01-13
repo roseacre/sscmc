@@ -5,17 +5,10 @@
             Diary of events and meetings at the Lindale site of South Shore Methodist Community Church
         </h2>
 
-        <div class = "table-responsive indented">
-            <table class="table table-bordered table-striped"
-                   summary="This table provides details of the events, services and meetings at the Lindale site of
-                        South Shore Methodist Community Church.">
-                <thead>
-
-                </thead>
-                <tbody>
-
-                </tbody>
-            </table>
+        <div class="indented">
+            <?php include '../snippets/diary-table-header.php'; ?>
+            <?php include '../snippets/lindale-diary-snippet.php'; ?>
+            <?php include '../snippets/diary-table-footer.php'; ?>
         </div>
     </div>
 </div>

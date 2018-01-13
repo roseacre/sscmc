@@ -133,35 +133,35 @@ table {
 }
 
 th.table-date-time-column {
-    width: 20%;
+    width: 20%; !important;
 }
 
 th.table-preacher-column {
-    width: 15%;
+    width: 15%; !important;
 }
 
 th.table-standard-column {
-    width: 10%;
+    width: 10%; !important;
 }
 
 th.table-notes-column {
-    width: 35%;
+    width: 35%; !important;
 }
 
-th.table-date-column {
-	width: 10%;
+th.table-date-column, #header1 {
+	width: 10%; !important;
 }
 
-th.table-time-column {
-	width: 10%;
+th.table-time-column, #header2 {
+	width: 10%; !important;
 }
 
-th.table-location-column {
-	width: 22%;
+th.table-location-column, #header3 {
+	width: 22%; !important;
 }
 
-th.table-notes-column {
-	width: 58%;
+th.table-notes-column2, #header4 {
+	width: 58%; !important;
 }
 
 .indented {

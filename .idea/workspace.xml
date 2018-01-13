@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f23145a1-d1b0-40a1-bd35-933b817a505a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/javascript/ssmcc-tables.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/snippets/diary-table-footer.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/snippets/diary-table-header.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/templates/tables-script-subpage.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/public/pages/lindale.php" afterPath="$PROJECT_DIR$/public/pages/lindale.php" />
       <change beforePath="$PROJECT_DIR$/public/pages/ssmcc-diary.php" afterPath="$PROJECT_DIR$/public/pages/ssmcc-diary.php" />
+      <change beforePath="$PROJECT_DIR$/public/snippets/diary-table-footer.php" afterPath="$PROJECT_DIR$/public/snippets/diary-table-footer.php" />
+      <change beforePath="$PROJECT_DIR$/public/snippets/diary-table-header.php" afterPath="$PROJECT_DIR$/public/snippets/diary-table-header.php" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" />
+      <change beforePath="$PROJECT_DIR$/public/templates/lindale-diary.php" afterPath="$PROJECT_DIR$/public/templates/lindale-diary.php" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ssmcc-tables.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/javascript/ssmcc-tables.js">
+      <file leaf-file-name="lindale-diary.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/templates/lindale-diary.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="210">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -33,7 +34,57 @@
         <entry file="file://$PROJECT_DIR$/public/snippets/diary-table-footer.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lindale-diary-snippet.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/snippets/lindale-diary-snippet.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1185">
+              <caret line="79" column="48" lean-forward="true" selection-start-line="79" selection-start-column="48" selection-end-line="79" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lindale.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/pages/lindale.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lindale-midweek.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/templates/lindale-midweek.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="66" lean-forward="false" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="66" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="166" column="11" lean-forward="true" selection-start-line="166" selection-start-column="11" selection-end-line="166" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ssmcc-diary.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/pages/ssmcc-diary.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="62" />
               <folding />
             </state>
           </provider>
@@ -44,66 +95,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="highfield-diary-snippet.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/snippets/highfield-diary-snippet.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="119" column="4" lean-forward="true" selection-start-line="119" selection-start-column="4" selection-end-line="119" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lindale-diary-snippet.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/snippets/lindale-diary-snippet.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1380">
-              <caret line="92" column="5" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="92" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lindale-diary.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/templates/lindale-diary.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="150" column="22" lean-forward="false" selection-start-line="150" selection-start-column="22" selection-end-line="150" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tables-script-subpage.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/templates/tables-script-subpage.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="53" lean-forward="true" selection-start-line="0" selection-start-column="53" selection-end-line="0" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ssmcc-diary.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/pages/ssmcc-diary.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="32" column="62" lean-forward="false" selection-start-line="32" selection-start-column="62" selection-end-line="32" selection-end-column="62" />
               <folding />
             </state>
           </provider>
@@ -160,20 +151,20 @@
         <option value="$PROJECT_DIR$/public/templates/banner-subpage.php" />
         <option value="$PROJECT_DIR$/public/templates/lindale-worship.php" />
         <option value="$PROJECT_DIR$/public/templates/lindale-midweek.php" />
-        <option value="$PROJECT_DIR$/public/pages/lindale.php" />
         <option value="$PROJECT_DIR$/public/templates/head-subpage.php" />
         <option value="$PROJECT_DIR$/public/templates/scripts-subpage.php" />
-        <option value="$PROJECT_DIR$/public/stylesheets/style.css" />
         <option value="$PROJECT_DIR$/public/templates/ssmcc-links.php" />
         <option value="$PROJECT_DIR$/public/templates/ssmcc-links-subpage.php" />
         <option value="$PROJECT_DIR$/public/snippets/lindale-diary-snippet.php" />
         <option value="$PROJECT_DIR$/public/snippets/highfield-diary-snippet.php" />
-        <option value="$PROJECT_DIR$/public/templates/lindale-diary.php" />
-        <option value="$PROJECT_DIR$/public/snippets/diary-table-header.php" />
-        <option value="$PROJECT_DIR$/public/snippets/diary-table-footer.php" />
         <option value="$PROJECT_DIR$/public/javascript/ssmcc-tables.js" />
         <option value="$PROJECT_DIR$/public/templates/tables-script-subpage.php" />
         <option value="$PROJECT_DIR$/public/pages/ssmcc-diary.php" />
+        <option value="$PROJECT_DIR$/public/pages/lindale.php" />
+        <option value="$PROJECT_DIR$/public/snippets/diary-table-header.php" />
+        <option value="$PROJECT_DIR$/public/snippets/diary-table-footer.php" />
+        <option value="$PROJECT_DIR$/public/templates/lindale-diary.php" />
+        <option value="$PROJECT_DIR$/public/stylesheets/style.css" />
       </list>
     </option>
   </component>
@@ -494,7 +485,7 @@
       <workItem from="1515657470408" duration="4961000" />
       <workItem from="1515692571383" duration="1632000" />
       <workItem from="1515743742430" duration="5289000" />
-      <workItem from="1515851734650" duration="2742000" />
+      <workItem from="1515851734650" duration="5568000" />
     </task>
     <task id="LOCAL-00001" summary="Amend index page">
       <created>1515068801858</created>
@@ -559,11 +550,18 @@
       <option name="project" value="LOCAL" />
       <updated>1515855511111</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Refactor diary page to have reusable components">
+      <created>1515856595982</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1515856595982</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62854000" />
+    <option name="totallyTimeSpent" value="65680000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="723" extended-state="0" />
@@ -634,7 +632,8 @@
     <MESSAGE value="Amend a sortable table for diary events&#10;&#10;Attempt to use &lt;time&gt; and css formatting of date - fail&#10;Use date in format dd/mm/yyyy to facilitate sorting" />
     <MESSAGE value="Amend a sortable table for diary events" />
     <MESSAGE value="Add diary of events for Lindale" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add diary of events for Lindale" />
+    <MESSAGE value="Refactor diary page to have reusable components" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor diary page to have reusable components" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -901,32 +900,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/templates/lindale-midweek.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="66" lean-forward="false" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/pages/lindale.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="802">
-          <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/templates/ssmcc-links-subpage.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="518">
           <caret line="107" column="37" lean-forward="true" selection-start-line="107" selection-start-column="37" selection-end-line="107" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/snippets/highfield-diary-snippet.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="119" column="4" lean-forward="true" selection-start-line="119" selection-start-column="4" selection-end-line="119" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -955,46 +932,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/templates/lindale-diary.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/snippets/lindale-diary-snippet.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1380">
-          <caret line="92" column="5" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="92" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/snippets/diary-table-header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/snippets/diary-table-footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/javascript/ssmcc-tables.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/templates/tables-script-subpage.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1011,10 +948,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+    <entry file="file://$PROJECT_DIR$/public/snippets/highfield-diary-snippet.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="150" column="22" lean-forward="false" selection-start-line="150" selection-start-column="22" selection-end-line="150" selection-end-column="22" />
+        <state relative-caret-position="383">
+          <caret line="119" column="4" lean-forward="true" selection-start-line="119" selection-start-column="4" selection-end-line="119" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascript/ssmcc-tables.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/snippets/lindale-diary-snippet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="79" column="48" lean-forward="true" selection-start-line="79" selection-start-column="48" selection-end-line="79" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/snippets/diary-table-footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/lindale-midweek.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="66" lean-forward="false" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="66" />
           <folding />
         </state>
       </provider>
@@ -1022,7 +991,39 @@
     <entry file="file://$PROJECT_DIR$/public/pages/ssmcc-diary.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
-          <caret line="32" column="62" lean-forward="false" selection-start-line="32" selection-start-column="62" selection-end-line="32" selection-end-column="62" />
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/pages/lindale.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/lindale-diary.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/snippets/diary-table-header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="166" column="11" lean-forward="true" selection-start-line="166" selection-start-column="11" selection-end-line="166" selection-end-column="11" />
           <folding />
         </state>
       </provider>

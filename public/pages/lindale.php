@@ -52,7 +52,7 @@ include '../templates/head-subpage.php';
             </div>
             <div id="collapse3" class="panel-collapse collapse">
                 <div class="panel-body">
-
+                    <?php include '../templates/lindale-diary.php'; ?>
                 </div>
             </div>
         </div>
@@ -136,6 +136,7 @@ include '../templates/head-subpage.php';
 </div>
 
 <?php include '../templates/scripts-subpage.php'; ?>
+<?php include '../templates/tables-script-subpage.php'; ?>
 
 </body>
 </html>
