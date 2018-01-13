@@ -148,19 +148,19 @@ th.table-notes-column {
     width: 35%; !important;
 }
 
-th.table-date-column, #header1 {
+th.table-date-column, #header-date {
 	width: 10%; !important;
 }
 
-th.table-time-column, #header2 {
+th.table-time-column, #header-time {
 	width: 10%; !important;
 }
 
-th.table-location-column, #header3 {
+th.table-location-column, #header-location {
 	width: 22%; !important;
 }
 
-th.table-notes-column2, #header4 {
+th.table-notes-column2, #header-details {
 	width: 58%; !important;
 }
 

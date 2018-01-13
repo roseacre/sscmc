@@ -102,33 +102,33 @@ include '../templates/head-subpage.php';
             </div>
         </div>
 
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion"
-                       href="#collapse7">Something else  ▼</a>
-                </h4>
-            </div>
-            <div id="collapse7" class="panel-collapse collapse">
-                <div class="panel-body">
-
-
-                </div>
-            </div>
-        </div>
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion"
-                       href="#collapse8">Another category  ▼</a>
-                </h4>
-            </div>
-            <div id="collapse8" class="panel-collapse collapse">
-                <div class="panel-body">
-
-                </div>
-            </div>
-        </div>
+<!--        <div class="panel panel-default">-->
+<!--            <div class="panel-heading">-->
+<!--                <h4 class="panel-title">-->
+<!--                    <a data-toggle="collapse" data-parent="#accordion"-->
+<!--                       href="#collapse7">Something else  ▼</a>-->
+<!--                </h4>-->
+<!--            </div>-->
+<!--            <div id="collapse7" class="panel-collapse collapse">-->
+<!--                <div class="panel-body">-->
+<!---->
+<!---->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--        <div class="panel panel-default">-->
+<!--            <div class="panel-heading">-->
+<!--                <h4 class="panel-title">-->
+<!--                    <a data-toggle="collapse" data-parent="#accordion"-->
+<!--                       href="#collapse8">Another category  ▼</a>-->
+<!--                </h4>-->
+<!--            </div>-->
+<!--            <div id="collapse8" class="panel-collapse collapse">-->
+<!--                <div class="panel-body">-->
+<!---->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
     </div>
 
     <?php include '../templates/footer.php'; ?>
