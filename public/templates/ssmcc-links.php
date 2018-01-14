@@ -63,10 +63,10 @@
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Lindale<strong class="caret"></strong></a>
                             <ul class="dropdown-menu">
                                 <li>
-                                    <a href="#">Events and services</a>
+                                    <a href="pages/lindale.php?location=3">Events and services</a>
                                 </li>
                                 <li>
-                                    <a href="#">Church groups</a>
+                                    <a href="pages/lindale.php?location=4">Church groups</a>
                                 </li>
                                 <li>
                                     <a href="#">Contact us</a>
@@ -74,15 +74,15 @@
                                 <li class="divider">
                                 </li>
                                 <li>
-                                    <a href="#">Separated link</a>
+                                    <a href="pages/lindale.php?location=5">Announcements</a>
                                 </li>
                                 <li class="divider">
                                 </li>
                                 <li>
-                                    <a href="#">Church history</a>
+                                    <a href="pages/lindale.php?location=6">Church history</a>
                                 </li>
                                 <li>
-                                    <a href="#">Gallery</a>
+                                    <a href="pages/lindale.php?location=7">Gallery</a>
                                 </li>
                             </ul>
                         </li>

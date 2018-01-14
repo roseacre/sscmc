@@ -22,7 +22,7 @@ include '../templates/head-subpage.php';
                        href="#collapse1">Sunday Worship  ▼</a>
                 </h4>
             </div>
-            <div id="collapse1" class="panel-collapse collapse in">
+            <div id="collapse1" class="panel-collapse collapse">
                 <div class="panel-body">
                     <?php include '../templates/lindale-worship.php'; ?>
                 </div>
@@ -76,7 +76,7 @@ include '../templates/head-subpage.php';
             <div class="panel-heading">
                 <h4 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion"
-                       href="#collapse5">Church history  ▼</a>
+                       href="#collapse5">Announcements  ▼</a>
                 </h4>
             </div>
             <div id="collapse5" class="panel-collapse collapse">
@@ -91,10 +91,25 @@ include '../templates/head-subpage.php';
             <div class="panel-heading">
                 <h4 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion"
-                       href="#collapse6">Gallery  ▼</a>
+                       href="#collapse6">Church history  ▼</a>
                 </h4>
             </div>
             <div id="collapse6" class="panel-collapse collapse">
+                <div class="panel-body">
+
+
+                </div>
+            </div>
+        </div>
+
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion"
+                       href="#collapse7">Gallery  ▼</a>
+                </h4>
+            </div>
+            <div id="collapse7" class="panel-collapse collapse">
                 <div class="panel-body">
 
 
@@ -137,6 +152,9 @@ include '../templates/head-subpage.php';
 
 <?php include '../templates/scripts-subpage.php'; ?>
 <?php include '../templates/tables-script-subpage.php'; ?>
+<?php include '../templates/panels-script-subpage.php'; ?>
 
+</body>
+</body>
 </body>
 </html>

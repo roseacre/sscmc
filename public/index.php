@@ -67,7 +67,7 @@
                         <p>Join us on Sunday mornings, at 10:30 am,</p>
                         <p>in Dorritt Road, Blackpool, FY4 3PE.</p>
                         <p>
-                            <a class="btn" href="pages/lindale.php">View more about Lindale Methodist Church »</a>
+                            <a class="btn" href="pages/lindale.php?location=1">View more about Lindale Methodist Church »</a>
                         </p>
                     </div>
 				</div>
