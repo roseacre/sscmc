@@ -66,8 +66,7 @@ include '../templates/head-subpage.php';
             </div>
             <div id="collapse4" class="panel-collapse collapse">
                 <div class="panel-body">
-
-
+                    <?php include '../templates/lindale-groups.php'; ?>
                 </div>
             </div>
         </div>
@@ -96,8 +95,7 @@ include '../templates/head-subpage.php';
             </div>
             <div id="collapse6" class="panel-collapse collapse">
                 <div class="panel-body">
-
-
+                    <?php include '../templates/lindale-history.php'; ?>
                 </div>
             </div>
         </div>
@@ -111,8 +109,7 @@ include '../templates/head-subpage.php';
             </div>
             <div id="collapse7" class="panel-collapse collapse">
                 <div class="panel-body">
-
-
+                    <?php include '../templates/lindale-gallery.php'; ?>
                 </div>
             </div>
         </div>
