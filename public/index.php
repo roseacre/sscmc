@@ -52,7 +52,7 @@
                         <p>Join us on Sunday mornings, at 10:30 am,<p>
                         <p>in Mayfield Avenue, Blackpool, FY4 2NP.</p>
                         <p>
-                            <a class="btn" href="#">View more about Highfield Methodist Church »</a>
+                            <a class="btn" href="pages/highfield.php?location=1">View more about Highfield Methodist Church »</a>
                         </p>
                     </div>
 				</div>
