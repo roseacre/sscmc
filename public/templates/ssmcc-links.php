@@ -18,12 +18,12 @@
                                     <a href="#">Our pastoral team</a>
                                 </li>
                                 <li>
-                                    <a href="#">History of our church</a>
+                                    <a href="pages/ssmcc-history.php">History of our church</a>
                                 </li>
                                 <li class="divider">
                                 </li>
                                 <li>
-                                    <a href="#">Separated link</a>
+                                    <a href="pages/ssmcc-contact-us.php">Contact us</a>
                                 </li>
                                 <li class="divider">
                                 </li>

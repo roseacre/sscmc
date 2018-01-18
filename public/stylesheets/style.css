@@ -71,6 +71,10 @@ h2 {
 	font-size: 2.0em;
 }
 
+h3 {
+    font-size: 1.7em;
+}
+
 .centred {
 	text-align: center;
 }
@@ -178,13 +182,3 @@ th.table-notes-column2, #header-details {
 	src: url('../fonts/glyphicons-halflings-regular.eot');
 	src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
 }
-
-
-
-/*time[datetime^="01-"]:after {*/
-	/*content: " January ";*/
-/*}*/
-/*!* Days (non-USA) *!*/
-/*time[datetime$="-01"]:before {*/
-	/*content: "1";*/
-/*}*/

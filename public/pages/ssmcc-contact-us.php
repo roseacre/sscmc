@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<?php
+$title = "SSMCC Contact Us";
+include '../templates/head-subpage.php';
+?>
+
+<body>
+
+    <div class="container">
+
+        <?php include '../templates/banner-subpage.php'; ?>
+        <?php include '../templates/ssmcc-links-subpage.php'; ?>
+
+        <div class="row">
+            <div class="col-md-1">
+            </div>
+            <div class="col-md-10">
+
+                <h2>
+                    South Shore Methodist Community Church
+                </h2>
+                <h3>Contact Our Minister</h3>
+
+                <div class="general-text">
+                    <p>The Church is established at two sites within South Shore, Blackpool, but we share
+                        a Minister, Reverend Barrie Morris who is contactable by telephone on
+                        <a href="tel:01253341017">01253 341017</a> or via email using
+                        <a href="mailto:example@example.com">Example Email</a>. He will be glad to hear
+                        from you.</p>
+                </div>
+
+                <h3>Contact Our Church Secretary</h3>
+                <div class="general-text">
+                    <p>For general enquiries and requests for prayer intercessions, you can
+                        <a href="mailto:n.g.evans@btinternet.com">email our Church Secretary</a>, Nigel Evans.</p>
+                </div>
+
+                <h3>Contact Details For Our Churches</h3>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-5">
+
+                <?php include '../templates/highfield-contact-us.php'; ?>
+            </div>
+            <div class="col-md-5">
+                <?php include '../templates/lindale-contact-us.php'; ?>
+            </div>
+        </div>
+
+    </div>
+
+    <?php include '../templates/footer.php'; ?>
+
+    <?php include '../templates/scripts-subpage.php'; ?>
+
+</body>
+</html>
