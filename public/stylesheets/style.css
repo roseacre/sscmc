@@ -1,7 +1,21 @@
+/*override defaults*/
 body {
     font-size: 1.0em;
 }
 
+h2 {
+    font-size: 2.0em;
+}
+
+h3 {
+    font-size: 1.7em;
+}
+
+label {
+    font-size: 1.4em;
+}
+
+/*images*/
 .resized-image-35 {
 	width: 35%;
 	padding-bottom: .5em;
@@ -14,6 +28,7 @@ body {
 	padding-top: 2em;
 }
 
+/*banner*/
 .banner-heading {
 	font-size: 3.1em;
 	font-weight: bolder;
@@ -36,98 +51,7 @@ body {
  	padding-right: 1.5em;
  }
 
-.search-form {
-	float: right;
-	padding-top: 1.2em;
-	margin-bottom: -1em;
-	margin-right: -1em;
-}
-
-.btn {
-	background-color: #10c8aa;
-	color: black;
-	border: thin solid #c8102e;
-}
-
-.form-control {
-	border: thin solid #c8102e;
-}
-
-.nav-border-1 {
-	border-bottom: thick solid #c8102e;
-}
-
-.separator {
-	border-bottom: medium solid #c8102e;
-	padding-top:.5em;
-	padding-bottom: .5em;
-}
-
-.general-text {
-	font-size: 1.6em;
-}
-
-h2 {
-	font-size: 2.0em;
-}
-
-h3 {
-    font-size: 1.7em;
-}
-
-.centred {
-	text-align: center;
-}
-
-.padded {
-	padding-top: 1em;
-	padding-bottom: 1em;
-}
-
-label {
-    font-size: 1.4em;
-}
-
-.footer-link {
-    color:#ccffff; !important;
-    text-decoration:underline; !important;
-}
-
-a.footer-link:focus, a.footer-link:hover {
-    color:#ffffcc; !important;
-    text-decoration:underline; !important;
-    font-weight:bolder; !important;
-}
-
-.copyright-text {
-    font-size: 0.8em;
-}
-
-.ssmcc-text {
-	font-size: 1.4em;
-}
-
-.navbar-nav>li>a {
-    color: #333333;
-}
-
-.navbar-nav>li>a:hover, .navbar-nav>li>a:focus {
-    color: black;
-}
-
-.panel-heading {
-    border: thin solid #c8102e !important;
-    color: black !important;
-    cursor: pointer !important;
-    background-color: lightgrey !important;
-}
-
-.panel-heading:hover, .panel-heading:active {
-    background-color: #c8102e !important;
-    color: white !important;
-	cursor: pointer !important;
-}
-
+/*tables*/
 td, th  {
     font-size: 1.4em ;
 }
@@ -153,19 +77,95 @@ th.table-notes-column {
 }
 
 th.table-date-column, #header-date {
-	width: 10%; !important;
+    width: 10%; !important;
 }
 
 th.table-time-column, #header-time {
-	width: 10%; !important;
+    width: 10%; !important;
 }
 
 th.table-location-column, #header-location {
-	width: 22%; !important;
+    width: 22%; !important;
 }
 
 th.table-notes-column2, #header-details {
-	width: 58%; !important;
+    width: 58%; !important;
+}
+
+/*footer*/
+.footer-link {
+    color:#ccffff; !important;
+    text-decoration:underline; !important;
+}
+
+a.footer-link:focus, a.footer-link:hover {
+    color:#ffffcc; !important;
+    text-decoration:underline; !important;
+    font-weight:bolder; !important;
+}
+
+.copyright-text {
+    font-size: 0.8em;
+}
+
+/*nav*/
+.navbar-nav>li>a {
+    color: #333333;
+}
+
+.navbar-nav>li>a:hover, .navbar-nav>li>a:focus {
+    color: black;
+}
+
+.nav-border-1 {
+    border-bottom: thick solid #c8102e;
+}
+
+/*accordion*/
+.panel-heading {
+    border: thin solid #c8102e !important;
+    color: black !important;
+    cursor: pointer !important;
+    background-color: lightgrey !important;
+}
+
+.panel-heading:hover, .panel-heading:active {
+    background-color: #c8102e !important;
+    color: white !important;
+    cursor: pointer !important;
+}
+
+/*font*/
+.ssmcc-text {
+    font-size: 1.4em;
+}
+
+.general-text {
+    font-size: 1.6em;
+}
+
+.search-form {
+	float: right;
+	padding-top: 1.2em;
+	margin-bottom: -1em;
+	margin-right: -1em;
+}
+
+@font-face {
+    font-family: 'Glyphicons Halflings';
+    src: url('../fonts/glyphicons-halflings-regular.eot');
+    src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
+}
+
+/*position*/
+
+.centred {
+    text-align: center;
+}
+
+.padded {
+    padding-top: 1em;
+    padding-bottom: 1em;
 }
 
 .indented {
@@ -177,8 +177,38 @@ th.table-notes-column2, #header-details {
     margin-left: 1.05em;
 }
 
-@font-face {
-	font-family: 'Glyphicons Halflings';
-	src: url('../fonts/glyphicons-halflings-regular.eot');
-	src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
+.space-above {
+    margin-top: 2em;
 }
+
+/*maps*/
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+.btn {
+	background-color: #10c8aa;
+	color: black;
+	border: thin solid #c8102e;
+}
+
+.form-control {
+	border: thin solid #c8102e;
+}
+
+.separator {
+	border-bottom: medium solid #c8102e;
+	padding-top:.5em;
+	padding-bottom: .5em;
+}
+

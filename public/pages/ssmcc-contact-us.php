@@ -21,7 +21,7 @@ include '../templates/head-subpage.php';
                 <h2>
                     South Shore Methodist Community Church
                 </h2>
-                <h3>Contact Our Minister</h3>
+                <h3 class="space-above">Contact Our Minister</h3>
 
                 <div class="general-text">
                     <p>The Church is established at two sites within South Shore, Blackpool, but we share
@@ -31,26 +31,25 @@ include '../templates/head-subpage.php';
                         from you.</p>
                 </div>
 
-                <h3>Contact Our Church Secretary</h3>
+                <h3 class="space-above">Contact Our Church Secretary</h3>
                 <div class="general-text">
                     <p>For general enquiries and requests for prayer intercessions, you can
                         <a href="mailto:n.g.evans@btinternet.com">email our Church Secretary</a>, Nigel Evans.</p>
                 </div>
 
-                <h3>Contact Details For Our Churches</h3>
+                <h3 class="space-above">Contact Details For Highfield Methodist Church</h3>
+                    <div>
+                        <?php include '../templates/highfield-contact-us.php'; ?>
+                    </div>
+
+                <h3 class="space-above">Contact Details For Lindale Methodist Church</h3>
+                <div>
+                    <?php include '../templates/lindale-contact-us.php'; ?>
+                </div>
+
             </div>
         </div>
 
-        <div class="row">
-            <div class="col-md-1"></div>
-            <div class="col-md-5">
-
-                <?php include '../templates/highfield-contact-us.php'; ?>
-            </div>
-            <div class="col-md-5">
-                <?php include '../templates/lindale-contact-us.php'; ?>
-            </div>
-        </div>
 
     </div>
 
