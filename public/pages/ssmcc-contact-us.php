@@ -50,12 +50,11 @@ include '../templates/head-subpage.php';
             </div>
         </div>
 
+        <?php include '../templates/footer.php'; ?>
+
+        <?php include '../templates/scripts-subpage.php'; ?>
 
     </div>
-
-    <?php include '../templates/footer.php'; ?>
-
-    <?php include '../templates/scripts-subpage.php'; ?>
 
 </body>
 </html>
