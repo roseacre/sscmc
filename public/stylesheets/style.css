@@ -181,6 +181,10 @@ a.footer-link:focus, a.footer-link:hover {
     margin-top: 2em;
 }
 
+.footer {
+    margin-top: 5em;
+}
+
 /*maps*/
 .map-responsive{
     overflow:hidden;

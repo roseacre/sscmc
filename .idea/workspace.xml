@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f23145a1-d1b0-40a1-bd35-933b817a505a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/public/pages/ssmcc-contact-us.php" afterPath="$PROJECT_DIR$/public/pages/ssmcc-contact-us.php" />
-      <change beforePath="$PROJECT_DIR$/public/templates/highfield-contact-us.php" afterPath="$PROJECT_DIR$/public/templates/highfield-contact-us.php" />
-      <change beforePath="$PROJECT_DIR$/public/templates/lindale-contact-us.php" afterPath="$PROJECT_DIR$/public/templates/lindale-contact-us.php" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" />
+      <change beforePath="$PROJECT_DIR$/public/templates/footer.php" afterPath="$PROJECT_DIR$/public/templates/footer.php" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,43 +26,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="197" column="0" lean-forward="true" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
+            <state relative-caret-position="135">
+              <caret line="180" column="20" lean-forward="true" selection-start-line="180" selection-start-column="20" selection-end-line="180" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/index.php">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/templates/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1035">
-              <caret line="69" column="42" lean-forward="false" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="highfield-contact-us.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/templates/highfield-contact-us.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-              <folding>
-                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lindale-contact-us.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/templates/lindale-contact-us.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+            <state relative-caret-position="195">
+              <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -116,7 +93,6 @@
         <option value="$PROJECT_DIR$/public/templates/header.php" />
         <option value="$PROJECT_DIR$/public/stylesheets/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/public/templates/scripts.php" />
-        <option value="$PROJECT_DIR$/public/templates/footer.php" />
         <option value="$PROJECT_DIR$/public/templates/banner.php" />
         <option value="$PROJECT_DIR$/public/templates/lindale.php" />
         <option value="$PROJECT_DIR$/public/templates/head.php" />
@@ -150,10 +126,11 @@
         <option value="$PROJECT_DIR$/public/pages/ssmcc-history.php" />
         <option value="$PROJECT_DIR$/public/templates/ssmcc-links.php" />
         <option value="$PROJECT_DIR$/public/templates/ssmcc-links-subpage.php" />
-        <option value="$PROJECT_DIR$/public/stylesheets/style.css" />
         <option value="$PROJECT_DIR$/public/pages/ssmcc-contact-us.php" />
         <option value="$PROJECT_DIR$/public/templates/lindale-contact-us.php" />
         <option value="$PROJECT_DIR$/public/templates/highfield-contact-us.php" />
+        <option value="$PROJECT_DIR$/public/templates/footer.php" />
+        <option value="$PROJECT_DIR$/public/stylesheets/style.css" />
       </list>
     </option>
   </component>
@@ -286,6 +263,12 @@
               <item name="sscmc" type="b2602c69:ProjectViewProjectNode" />
               <item name="sscmc" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sscmc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sscmc" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -450,7 +433,7 @@
       <workItem from="1516261863450" duration="215000" />
       <workItem from="1516296430343" duration="3579000" />
       <workItem from="1516348177038" duration="5738000" />
-      <workItem from="1516391967604" duration="4666000" />
+      <workItem from="1516391967604" duration="5218000" />
     </task>
     <task id="LOCAL-00001" summary="Amend index page">
       <created>1515068801858</created>
@@ -571,11 +554,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516397564027</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Amend Lindale contact page">
+      <created>1516398112867</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1516398112867</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93440000" />
+    <option name="totallyTimeSpent" value="93992000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="723" extended-state="0" />
@@ -655,7 +645,8 @@
     <MESSAGE value="Add pages for highfield links" />
     <MESSAGE value="Amend the contact pages" />
     <MESSAGE value="Add maps to contact pages&#10;&#10;Configure map for Highfield to be responsive" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add maps to contact pages&#10;&#10;Configure map for Highfield to be responsive" />
+    <MESSAGE value="Amend Lindale contact page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Amend Lindale contact page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -725,13 +716,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/templates/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -987,22 +971,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="69" column="42" lean-forward="false" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="197" column="0" lean-forward="true" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/pages/ssmcc-contact-us.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="341">
@@ -1026,6 +994,30 @@
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="69" column="42" lean-forward="false" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="180" column="20" lean-forward="true" selection-start-line="180" selection-start-column="20" selection-end-line="180" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>

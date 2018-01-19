@@ -1,5 +1,5 @@
 
-<footer class="banner">
+<footer class="banner footer">
     <div class="row">
         <div class="col-md-12">
 
