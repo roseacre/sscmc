@@ -96,19 +96,21 @@
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Useful links<strong class="caret"></strong></a>
                             <ul class="dropdown-menu">
                                 <li>
-                                    <a href="#">Action</a>
-                                </li>
-                                <li>
-                                    <a href="#">Another action</a>
-                                </li>
-                                <li>
-                                    <a href="#">Something else here</a>
+                                    <a href="http://www.methodist.org.uk/">The Methodist Church in Britain</a>
                                 </li>
                                 <li class="divider">
                                 </li>
                                 <li>
-                                    <a href="#">Separated link</a>
+                                    <a href="http://www.lancashiremethodist.org.uk/">Lancashire Methodist District</a>
                                 </li>
+                                <li>
+                                    <a href="http://newcentralmethodistchurch.weebly.com/">New Central Methodist Church</a>
+                                </li>
+                                <!--  <li class="divider">-->
+                                <!--  </li>-->
+                                <!--  <li>-->
+                                <!--  <a href="#">Separated link</a>-->
+                                <!--  </li>-->
                             </ul>
                         </li>
                     </ul>
