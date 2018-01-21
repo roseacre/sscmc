@@ -28,7 +28,7 @@
                                 <li class="divider">
                                 </li>
                                 <li>
-                                    <a href="#">Hire our halls</a>
+                                    <a href="pages/ssmcc-hall-hire.php">Hire our halls</a>
                                 </li>
                             </ul>
                         </li>
