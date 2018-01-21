@@ -3,13 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="f23145a1-d1b0-40a1-bd35-933b817a505a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/public/templates/highfield-diary.php" afterPath="$PROJECT_DIR$/public/templates/highfield-diary.php" />
-      <change beforePath="$PROJECT_DIR$/public/templates/highfield-history.php" afterPath="$PROJECT_DIR$/public/templates/highfield-history.php" />
-      <change beforePath="$PROJECT_DIR$/public/templates/highfield-midweek.php" afterPath="$PROJECT_DIR$/public/templates/highfield-midweek.php" />
-      <change beforePath="$PROJECT_DIR$/public/templates/lindale-diary.php" afterPath="$PROJECT_DIR$/public/templates/lindale-diary.php" />
-      <change beforePath="$PROJECT_DIR$/public/templates/lindale-history.php" afterPath="$PROJECT_DIR$/public/templates/lindale-history.php" />
-      <change beforePath="$PROJECT_DIR$/public/templates/lindale-midweek.php" afterPath="$PROJECT_DIR$/public/templates/lindale-midweek.php" />
-      <change beforePath="$PROJECT_DIR$/public/templates/lindale-worship.php" afterPath="$PROJECT_DIR$/public/templates/lindale-worship.php" />
+      <change beforePath="$PROJECT_DIR$/public/pages/ssmcc-contact-us.php" afterPath="$PROJECT_DIR$/public/pages/ssmcc-contact-us.php" />
+      <change beforePath="$PROJECT_DIR$/public/templates/ssmcc-links-subpage.php" afterPath="$PROJECT_DIR$/public/templates/ssmcc-links-subpage.php" />
+      <change beforePath="$PROJECT_DIR$/public/templates/ssmcc-links.php" afterPath="$PROJECT_DIR$/public/templates/ssmcc-links.php" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +16,38 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ssmcc-contact-us.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/pages/ssmcc-contact-us.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ssmcc-links-subpage.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/templates/ssmcc-links-subpage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="71" column="90" lean-forward="false" selection-start-line="71" selection-start-column="90" selection-end-line="71" selection-end-column="90" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ssmcc-links.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/templates/ssmcc-links.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="81" column="93" lean-forward="true" selection-start-line="81" selection-start-column="93" selection-end-line="81" selection-end-column="93" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -88,7 +115,6 @@
         <option value="$PROJECT_DIR$/public/templates/higfield-diary.php" />
         <option value="$PROJECT_DIR$/public/templates/higfield-midweek.php" />
         <option value="$PROJECT_DIR$/public/templates/highfield-worship.php" />
-        <option value="$PROJECT_DIR$/public/pages/ssmcc-contact-us.php" />
         <option value="$PROJECT_DIR$/public/templates/lindale-contact-us.php" />
         <option value="$PROJECT_DIR$/public/templates/highfield-contact-us.php" />
         <option value="$PROJECT_DIR$/public/templates/footer.php" />
@@ -98,8 +124,6 @@
         <option value="$PROJECT_DIR$/public/templates/highfield-gallery.php" />
         <option value="$PROJECT_DIR$/public/templates/lindale-gallery.php" />
         <option value="$PROJECT_DIR$/public/pages/ssmcc-about.php" />
-        <option value="$PROJECT_DIR$/public/templates/ssmcc-links.php" />
-        <option value="$PROJECT_DIR$/public/templates/ssmcc-links-subpage.php" />
         <option value="$PROJECT_DIR$/public/stylesheets/style.css" />
         <option value="$PROJECT_DIR$/public/templates/ssmcc-faith-statement.php" />
         <option value="$PROJECT_DIR$/public/templates/ssmcc-pastoral-team.php" />
@@ -110,6 +134,9 @@
         <option value="$PROJECT_DIR$/public/templates/highfield-midweek.php" />
         <option value="$PROJECT_DIR$/public/templates/highfield-history.php" />
         <option value="$PROJECT_DIR$/public/templates/highfield-diary.php" />
+        <option value="$PROJECT_DIR$/public/pages/ssmcc-contact-us.php" />
+        <option value="$PROJECT_DIR$/public/templates/ssmcc-links-subpage.php" />
+        <option value="$PROJECT_DIR$/public/templates/ssmcc-links.php" />
       </list>
     </option>
   </component>
@@ -420,7 +447,7 @@
       <workItem from="1516348177038" duration="5738000" />
       <workItem from="1516391967604" duration="5332000" />
       <workItem from="1516448366972" duration="507000" />
-      <workItem from="1516532170210" duration="4999000" />
+      <workItem from="1516532170210" duration="5319000" />
     </task>
     <task id="LOCAL-00001" summary="Amend index page">
       <created>1515068801858</created>
@@ -590,14 +617,22 @@
       <option name="project" value="LOCAL" />
       <updated>1516537548125</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Fix typos">
+      <created>1516538169176</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1516538169176</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99612000" />
+    <option name="totallyTimeSpent" value="99932000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="671" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -608,7 +643,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34394905" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09201389" sideWeight="0.49676898" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22374798" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22374798" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -680,7 +715,8 @@
     <MESSAGE value="Amend font size and indentation on gallery pages" />
     <MESSAGE value="Add about us page and templates" />
     <MESSAGE value="Amend links to headers within about us page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Amend links to headers within about us page" />
+    <MESSAGE value="Fix typos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix typos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -880,14 +916,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/pages/ssmcc-contact-us.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/templates/lindale-gallery.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -904,14 +932,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/templates/ssmcc-links.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="80" lean-forward="false" selection-start-line="17" selection-start-column="80" selection-end-line="17" selection-end-column="80" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/templates/ssmcc-faith-statement.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -924,14 +944,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/templates/ssmcc-links-subpage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
           <folding />
         </state>
       </provider>
@@ -964,14 +976,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/templates/lindale-contact-us.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
           <folding />
         </state>
       </provider>
@@ -1032,14 +1036,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/templates/highfield-contact-us.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/templates/highfield-diary.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1068,6 +1064,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/highfield-contact-us.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/lindale-contact-us.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/pages/ssmcc-contact-us.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/ssmcc-links-subpage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="71" column="90" lean-forward="false" selection-start-line="71" selection-start-column="90" selection-end-line="71" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/ssmcc-links.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="81" column="93" lean-forward="true" selection-start-line="81" selection-start-column="93" selection-end-line="81" selection-end-column="93" />
           <folding />
         </state>
       </provider>

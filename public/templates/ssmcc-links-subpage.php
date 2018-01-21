@@ -42,7 +42,7 @@
                                     <a href="../pages/highfield.php?location=4">Church groups</a>
                                 </li>
                                 <li>
-                                    <a href="#">Contact us</a>
+                                    <a href="../pages/ssmcc-contact-us.php#highfield-contact">Contact us</a>
                                 </li>
                                 <li class="divider">
                                 </li>
@@ -69,7 +69,7 @@
                                     <a href="../pages/lindale.php?location=4">Church groups</a>
                                 </li>
                                 <li>
-                                    <a href="#">Contact us</a>
+                                    <a href="../pages/ssmcc-contact-us.php#lindale-contact">Contact us</a>
                                 </li>
                                 <li class="divider">
                                 </li>

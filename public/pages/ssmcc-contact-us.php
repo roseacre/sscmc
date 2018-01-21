@@ -37,12 +37,12 @@ include '../templates/head-subpage.php';
                         <a href="mailto:n.g.evans@btinternet.com">email our Church Secretary</a>, Nigel Evans.</p>
                 </div>
 
-                <h3 class="space-above">Contact Details For Highfield Methodist Church</h3>
+                <h3 class="space-above" id="highfield-contact">Contact Details For Highfield Methodist Church</h3>
                     <div>
                         <?php include '../templates/highfield-contact-us.php'; ?>
                     </div>
 
-                <h3 class="space-above">Contact Details For Lindale Methodist Church</h3>
+                <h3 class="space-above" id="lindale-contact">Contact Details For Lindale Methodist Church</h3>
                 <div>
                     <?php include '../templates/lindale-contact-us.php'; ?>
                 </div>
