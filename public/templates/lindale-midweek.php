@@ -1,7 +1,6 @@
 <div class="row">
-<!--    <div class="col-md-1">-->
-<!--    </div>-->
-    <div/class="col-md-12">
+
+    <div class="col-md-12">
 
         <h2 class="indented-h2">
             Midweek services at the Lindale site of South Shore Methodist Community Church

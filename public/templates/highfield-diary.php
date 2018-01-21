@@ -1,5 +1,5 @@
 <div class="row">
-    <div/class="col-md-12">
+    <div class="col-md-12">
 
         <h2 class="indented-h2">
             Diary of events and meetings at the Highfield site of South Shore Methodist Community Church
