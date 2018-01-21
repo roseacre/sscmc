@@ -18,11 +18,11 @@ include '../templates/head-subpage.php';
             </div>
             <div class="col-md-10">
 
-                <h2 class="indented-h2">
+                <h2>
                     South Shore Methodist Community Church
                 </h2>
 
-                <div class="indented">
+                <div class="general-text">
 
                     <p>A short history of the recent history of the South Shore Methodist Community Church will be
                         presented here.</p>
@@ -32,11 +32,11 @@ include '../templates/head-subpage.php';
                 <?php include '../templates/lindale-history.php'; ?>
             </div>
         </div>
+
+        <?php include '../templates/footer.php'; ?>
+
+        <?php include '../templates/scripts-subpage.php'; ?>
+
     </div>
-
-    <?php include '../templates/footer.php'; ?>
-
-    <?php include '../templates/scripts-subpage.php'; ?>
-
 </body>
 </html>

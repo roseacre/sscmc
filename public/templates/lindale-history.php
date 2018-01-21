@@ -1,11 +1,11 @@
 <div class="row">
     <div/class="col-md-12">
 
-    <h2 class="indented-h2">
+    <h2>
         History of Lindale Methodist Church
     </h2>
 
-    <div class="indented">
+    <div class="general-text">
 
         <p>A short history of the Lindale Methodist Church will be
         presented here.</p>
