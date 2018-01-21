@@ -80,8 +80,7 @@ include '../templates/head-subpage.php';
             </div>
             <div id="collapse5" class="panel-collapse collapse">
                 <div class="panel-body">
-
-
+                    <?php include '../templates/lindale-announcements.php'; ?>
                 </div>
             </div>
         </div>
