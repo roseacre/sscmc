@@ -12,10 +12,10 @@
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us<strong class="caret"></strong></a>
                             <ul class="dropdown-menu">
                                 <li>
-                                    <a href="../pages/ssmcc-about.php">Our faith</a>
+                                    <a href="../pages/ssmcc-about.php#our-faith">Our faith</a>
                                 </li>
                                 <li>
-                                    <a href="../pages/ssmcc-about.php">Our pastoral team</a>
+                                    <a href="../pages/ssmcc-about.php#pastoraL-team">Our pastoral team</a>
                                 </li>
                                 <li>
                                     <a href="../pages/ssmcc-history.php">History of our church</a>
