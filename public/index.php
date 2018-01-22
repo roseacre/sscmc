@@ -42,8 +42,7 @@
 			<div class="row">
 				<div class="col-md-1"></div>
 				<div class="col-md-5">
-					<img alt="Photograph of Highfield Methodist Church"
-                         longdesc="The image shows the church building photographed from the corner of Mayfield Avenue and Scarsdale Avenue."
+					<img alt="Photograph of Highfield Methodist Church, taken from the corner of Mayfield Avenue and Scarsdale Avenue."
                          src="images/highfield.jpg" class="resized-image img-rounded" />
 					<h2 class="banner">
 						Highfield Site
@@ -57,8 +56,7 @@
                     </div>
 				</div>
 				<div class="col-md-5">
-					<img alt="Photograph of Lindale Methodist Church"
-                         longdesc="The image shows the church building photographed from the corner of Dorritt Road and Margate Avenue"
+					<img alt="Photograph of Lindale Methodist Church, taken from the corner of Dorritt Road and Margate Avenue"
                          src="images/lindale.jpg" class="resized-image img-rounded" />
 					<h2 class="banner">
 						Lindale Site
