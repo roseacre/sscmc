@@ -1,6 +1,11 @@
 /*override defaults*/
 body {
-    font-size: 1.0em;
+    font-size: .8em;
+}
+
+.col-md-2 {
+    padding-right: .5em;
+    padding-left: 0;
 }
 
 h2 {
@@ -14,6 +19,7 @@ h3 {
 label {
     font-size: 1.4em;
 }
+
 
 /*images*/
 .resized-image-35 {
@@ -46,7 +52,7 @@ label {
 }
 
 .banner-text {
-	font-size: 1.8em;
+	font-size: 1.5em;
 	text-align: right;
  	padding-right: 1.5em;
  }
@@ -216,4 +222,32 @@ a.footer-link:focus, a.footer-link:hover {
 	padding-bottom: .5em;
 }
 
+/*cards*/
+.card-body {
+	padding: .5em;
+}
 
+.card-text {
+	font-size: 1.4em;
+}
+
+.card-sub-heading {
+	margin-bottom: .2em;
+	font-weight: 500;
+}
+
+.card-title {
+	font-weight: 500;
+}
+
+.card-address {
+	margin-bottom: .2em;
+}
+
+.card-link {
+	font-size: 1.4em;
+}
+
+card {
+	padding-top: 1.5em;
+}

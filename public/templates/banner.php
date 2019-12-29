@@ -22,9 +22,9 @@
 		<div>
 			<div class="banner">
 				<h1 class="banner-heading">
-					South Shore Methodist Community Church
+					The Blackpool Methodist Circuit
 				</h1>
-				<p class="banner-text">Two buildings, one Methodist community</p>
+				<p class="banner-text">Linking the individual churches in The Blackpool Methodist Circuit</p>
 			</div>
 		</div>
     </div>
