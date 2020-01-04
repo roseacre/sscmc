@@ -19,7 +19,7 @@ include '../templates/head-subpage.php';
             <div class="col-md-10">
 
                 <h2>
-                    South Shore Methodist Community Church
+                    The Blackpool Methodist Circuit
                 </h2>
                 <h3 class="space-above">Contact Our Minister</h3>
 

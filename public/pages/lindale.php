@@ -11,7 +11,7 @@ include '../templates/head-subpage.php';
 <div class="container">
 
     <?php include '../templates/banner-subpage.php'; ?>
-    <?php include '../templates/ssmcc-links-subpage.php'; ?>
+    <?php include '../templates/navbar-subpage.php'; ?>
 
 
     <div class="panel-group" id="accordion">

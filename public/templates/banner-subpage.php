@@ -3,7 +3,7 @@
 		<nav class="navbar" role="navigation">
 			<div>			 
 				<a class="navbar-brand" href="http://www.methodist.org.uk/">
-					<img alt="The Methodist Church Logo, featuring the words 'The Methodist Church' alongside a white cross on a red orb."
+					<img alt="The Methodist Church Logo"
 						class="resized-image-35 nav-border-1"
                         src="../images/re_methodist_logo_lowres.gif">
 				</a>				

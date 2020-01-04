@@ -18,18 +18,16 @@ include '../templates/head-subpage.php';
             </div>
             <div class="col-md-10">
 
-                <h2>
-                    South Shore Methodist Community Church
+                <h2 class="padded">
+                    Photo Gallery for The Blackpool Methodist Circuit
                 </h2>
 
                 <div class="general-text">
 
-                    <p>A short history of the recent history of the South Shore Methodist Community Church will be
-                        presented here.</p>
+                    <p>Any pictures that the different churches want to display can be added here, eg interior pictures of the churches,
+                     events, historical images etc</p>
                 </div>
 
-                <?php include '../templates/highfield-history.php'; ?>
-                <?php include '../templates/lindale-history.php'; ?>
             </div>
         </div>
 

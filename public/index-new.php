@@ -9,12 +9,12 @@
        		<div class="container">
 
        			<?php include 'templates/banner.php';?>
-                <?php include 'templates/ssmcc-links.php';?>
+                <?php include 'templates/navbar.php';?>
 
        			<div class="row">
        				<div/class="col-md-12">
        					<div>
-       						<h2>
+       						<h2 class="padded">
        							Welcome to the Blackpool Methodist Circuit website.
        						</h2>
        						<div class="general-text">
@@ -111,7 +111,7 @@
 
 					<div class="col-md-2">
 						<div class="card">
-						  	<img src="images/highfield.jpg" class="card-img-top" alt="Photograph of New Central Methodist Church.">
+						  	<img src="images/newcentral.jpg" class="card-img-top" alt="Photograph of New Central Methodist Church.">
 						  	<div class="card-body">
 								<h5 class="card-title">New Central Methodist Church</h5>
 						   		<p class="card-text card-sub-heading">Sunday service:</p>
@@ -131,19 +131,9 @@
 
        			<div class="row">
        				<div class="col-md-12">
-       					<p class="centred padded general-text">Please check our events diary to confirm service times as periodically we celebrate joint services.</p>
-       				</div>
-       			</div>
-
-       			<div class="row">
-       				<div class="col-md-12">
-       					<div class="separator"></div>
-       					<p class="padded general-text">
-       						If you wish to speak to our minister Rev. Barrie Morris, call <a href="tel:01253341017">01253 341017</a> or email him using
-       						<a href="mailto:example@example.com">Example Email</a>, he will be glad to hear from you.
-       						You can also <a href="mailto:n.g.evans@btinternet.com">contact the Church Secretary</a> with queries and prayer
-       						intercessions.
-       					</p>
+       					<p class="padded general-text">Please note that Highfield and Lindale Methodist Churches periodically celebrate joint services.
+       					You can check the <a href="pages/highfield.php?location=3">Highfield events diary</a> or the
+       					<a href="pages/lindale.php?location=3">Lindale events diary</a> if you want to confirm service times.</p>
        				</div>
        			</div>
 

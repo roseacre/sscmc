@@ -10,5 +10,6 @@
     <link rel="stylesheet" href="../stylesheets/bootstrap/bootstrap.min.css">
     <link rel="stylesheet" href="../stylesheets/datatables/dataTables.bootstrap.min.css">
     <link rel="stylesheet" href="../stylesheets/datatables/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="../stylesheets/datatables/datatables.min.css">
     <link rel="stylesheet" href="../stylesheets/style.css">
 </head>

@@ -1,4 +1,13 @@
 /*override defaults*/
+a {
+	color: #c8102e;
+}
+
+a:hover, a:focus {
+	color: white;
+	background-color: #c8102e;
+}
+
 body {
     font-size: .8em;
 }
@@ -10,6 +19,7 @@ body {
 
 h2 {
     font-size: 2.0em;
+    padding-top: 1em;
 }
 
 h3 {
@@ -26,6 +36,11 @@ label {
 	width: 35%;
 	padding-bottom: .5em;
 	margin-left: -0.9em;
+}
+
+.resized-image-75 {
+	width: 75%;
+	padding-bottom: .5em;
 }
 
 .resized-image {
@@ -115,6 +130,18 @@ a.footer-link:focus, a.footer-link:hover {
 }
 
 /*nav*/
+#navbardrop {
+    color: #333333;
+}
+#navbardrop:active, #navbardrop:hover, #navbardrop:focus {
+    color: white;
+}
+
+.dropdown-item:focus, .dropdown-item:hover {
+	color: white;
+	background-color: #c8102e;
+}
+
 .navbar-nav>li>a {
     color: #333333;
 }
@@ -130,15 +157,20 @@ a.footer-link:focus, a.footer-link:hover {
 /*accordion*/
 .panel-heading {
     border: thin solid #c8102e !important;
-    color: black !important;
+    color: #ffffff !important;
     cursor: pointer !important;
-    background-color: lightgrey !important;
+    background-color: #c8102e !important;
+    padding-top: .5em;
 }
 
 .panel-heading:hover, .panel-heading:active {
     background-color: #c8102e !important;
     color: white !important;
     cursor: pointer !important;
+}
+
+.panel-title {
+	color: #ffffff;
 }
 
 /*font*/
@@ -174,6 +206,10 @@ a.footer-link:focus, a.footer-link:hover {
     padding-bottom: 1em;
 }
 
+.padded-top {
+    padding-top: 1em;
+}
+
 .indented {
     margin-left: 2em;
     margin-right: 2em;
@@ -181,6 +217,14 @@ a.footer-link:focus, a.footer-link:hover {
 
 .indented-h2 {
     margin-left: 1.05em;
+}
+
+.indented-h3 {
+    margin-left: .90em;
+}
+
+.indented-subpage {
+    margin-left: 1.0em;
 }
 
 .space-above {
@@ -207,9 +251,17 @@ a.footer-link:focus, a.footer-link:hover {
 }
 
 .btn {
-	background-color: #10c8aa;
+	font-size: 1.4em;
+    background-color: #10c8aa;
 	color: black;
 	border: thin solid #c8102e;
+}
+
+.btn:hover, .btn:focus {
+	font-size: 1.4em;
+    background-color: #c8102e;
+	color: white;
+	border: thin solid black;
 }
 
 .form-control {
@@ -218,7 +270,7 @@ a.footer-link:focus, a.footer-link:hover {
 
 .separator {
 	border-bottom: medium solid #c8102e;
-	padding-top:.5em;
+	padding-top: .5em;
 	padding-bottom: .5em;
 }
 
@@ -244,10 +296,18 @@ a.footer-link:focus, a.footer-link:hover {
 	margin-bottom: .2em;
 }
 
+
 .card-link {
-	font-size: 1.4em;
+	font-size: 1.2em;
+	color: black;
+    text-align: left;
 }
 
-card {
+.card-link:hover, .card-link:focus {
+	font-size: 1.2em;
+    color: white;
+}
+
+.card {
 	padding-top: 1.5em;
 }

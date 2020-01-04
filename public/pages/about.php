@@ -2,7 +2,7 @@
 <html lang="en">
 
 <?php
-$title = "SSMCC History";
+$title = "About The Blackpool Methodist Circuit";
 include '../templates/head-subpage.php';
 ?>
 
@@ -17,19 +17,8 @@ include '../templates/head-subpage.php';
             <div class="col-md-1">
             </div>
             <div class="col-md-10">
-
-                <h2>
-                    South Shore Methodist Community Church
-                </h2>
-
-                <div class="general-text">
-
-                    <p>A short history of the recent history of the South Shore Methodist Community Church will be
-                        presented here.</p>
-                </div>
-
-                <?php include '../templates/highfield-history.php'; ?>
-                <?php include '../templates/lindale-history.php'; ?>
+                <?php include '../templates/faith-statement.php'; ?>
+                <?php include '../templates/pastoral-team.php'; ?>
             </div>
         </div>
 

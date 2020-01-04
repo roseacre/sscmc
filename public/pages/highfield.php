@@ -11,43 +11,43 @@ include '../templates/head-subpage.php';
 <div class="container">
 
     <?php include '../templates/banner-subpage.php'; ?>
-    <?php include '../templates/ssmcc-links-subpage.php'; ?>
+    <?php include '../templates/navbar-subpage.php'; ?>
 
 
     <div class="panel-group" id="accordion">
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion"
-                       href="#collapse1">Sunday Worship  ▼</a>
-                </h4>
-            </div>
-            <div id="collapse1" class="panel-collapse collapse">
-                <div class="panel-body">
-                    <?php include '../templates/highfield-worship.php'; ?>
-                </div>
-            </div>
-        </div>
+//         <div class="panel panel-default">
+//             <div class="panel-heading">
+//                 <h4 class="panel-title">
+//                     <a data-toggle="collapse" data-parent="#accordion"
+//                        href="#collapse1">Sunday Worship  ▼</a>
+//                 </h4>
+//             </div>
+//             <div id="collapse1" class="panel-collapse collapse">
+//                 <div class="panel-body">
+//                     <?php include '../templates/highfield-worship.php'; ?>
+//                 </div>
+//             </div>
+//         </div>
+//
+//         <div class="panel panel-default">
+//             <div class="panel-heading">
+//                 <h4 class="panel-title">
+//                     <a data-toggle="collapse" data-parent="#accordion"
+//                        href="#collapse2">Midweek Services  ▼</a>
+//                 </h4>
+//             </div>
+//             <div id="collapse2" class="panel-collapse collapse">
+//                 <div class="panel-body">
+//                     <?php include '../templates/highfield-midweek.php'; ?>
+//                 </div>
+//             </div>
+//         </div>
 
         <div class="panel panel-default">
             <div class="panel-heading">
                 <h4 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion"
-                       href="#collapse2">Midweek Services  ▼</a>
-                </h4>
-            </div>
-            <div id="collapse2" class="panel-collapse collapse">
-                <div class="panel-body">
-                    <?php include '../templates/highfield-midweek.php'; ?>
-                </div>
-            </div>
-        </div>
-
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion"
-                       href="#collapse3">Dates for your diary  ▼</a>
+                       href="#collapse3">Events and services  ▼</a>
                 </h4>
             </div>
             <div id="collapse3" class="panel-collapse collapse">
@@ -85,33 +85,33 @@ include '../templates/head-subpage.php';
             </div>
         </div>
 
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion"
-                       href="#collapse6">Church history  ▼</a>
-                </h4>
-            </div>
-            <div id="collapse6" class="panel-collapse collapse">
-                <div class="panel-body">
-                    <?php include '../templates/highfield-history.php'; ?>
-                </div>
-            </div>
-        </div>
-
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion"
-                       href="#collapse7">Gallery  ▼</a>
-                </h4>
-            </div>
-            <div id="collapse7" class="panel-collapse collapse">
-                <div class="panel-body">
-                    <?php include '../templates/highfield-gallery.php'; ?>
-                </div>
-            </div>
-        </div>
+//         <div class="panel panel-default">
+//             <div class="panel-heading">
+//                 <h4 class="panel-title">
+//                     <a data-toggle="collapse" data-parent="#accordion"
+//                        href="#collapse6">Church history  ▼</a>
+//                 </h4>
+//             </div>
+//             <div id="collapse6" class="panel-collapse collapse">
+//                 <div class="panel-body">
+//                     <?php include '../templates/highfield-history.php'; ?>
+//                 </div>
+//             </div>
+//         </div>
+//
+//         <div class="panel panel-default">
+//             <div class="panel-heading">
+//                 <h4 class="panel-title">
+//                     <a data-toggle="collapse" data-parent="#accordion"
+//                        href="#collapse7">Gallery  ▼</a>
+//                 </h4>
+//             </div>
+//             <div id="collapse7" class="panel-collapse collapse">
+//                 <div class="panel-body">
+//                     <?php include '../templates/highfield-gallery.php'; ?>
+//                 </div>
+//             </div>
+//         </div>
 
 <!--        <div class="panel panel-default">-->
 <!--            <div class="panel-heading">-->
