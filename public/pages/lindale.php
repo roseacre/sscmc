@@ -2,7 +2,7 @@
 <html lang="en">
 
 <?php
-$title = "Layton Methodist Church";
+$title = "Lindale Methodist Church";
 include '../templates/head-subpage.php';
 ?>
 
@@ -19,7 +19,7 @@ include '../templates/head-subpage.php';
         </div>
         <div class="col-md-10">
 			<h2 class="padded-top" id="page-subheading">
-				Layton Methodist Church
+				Lindale Methodist Church
 			</h2>
 		</div>
 	</div>
@@ -29,24 +29,37 @@ include '../templates/head-subpage.php';
 		</div>
 
 		<div class="col-md-8">
-			<img src="../images/layton.jpg" class="resized-image" alt="Photograph of Layton Methodist Church.">
+			<img src="../images/lindale.jpg" class="resized-image" alt="Photograph of Lindale Methodist Church.">
 
 			<div class="panel-group space-above" id="accordion">
 				<div class="panel panel-default">
 					<div class="panel-heading">
-						<h3 class="panel-title" id="panel-title">
+						<h3 class="panel-title" id="panel-title-announcements">
 							<a class="indented-subpage panel-title" data-toggle="collapse" data-parent="#accordion"
 							   href="#collapse1">Announcements  ▼</a>
 						</h3>
 					</div>
 					<div id="collapse1" class="panel-collapse collapse">
 						<div class="panel-body">
-							<?php include '../templates/layton-announcements.php'; ?>
+							<?php include '../templates/lindale-announcements.php'; ?>
+						</div>
+					</div>
+				</div>
+
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						<h3 class="panel-title" id="panel-title-groups">
+							<a class="indented-subpage panel-title" data-toggle="collapse" data-parent="#accordion"
+							   href="#collapse3">Church groups  ▼</a>
+						</h3>
+					</div>
+					<div id="collapse3" class="panel-collapse collapse">
+						<div class="panel-body">
+							<?php include '../templates/lindale-groups.php'; ?>
 						</div>
 					</div>
 				</div>
 			</div>
-
 		</div>
 	</div>
 
@@ -65,17 +78,17 @@ include '../templates/head-subpage.php';
 
 		<div class="col-md-2">
 			<h3 class="padded-top indented-h3" id="title-contact-details">Contact Details</h3>
-			<p class="ssmcc-text indented-subpage padded-top" id="address-1">Westcliffe Drive</p>
+			<p class="ssmcc-text indented-subpage padded-top" id="address-1">Dorritt Road</p>
 			<p class="ssmcc-text indented-subpage" id="address-2">Blackpool</p>
-			<p class="ssmcc-text indented-subpage" id="address-3">FY3 7DZ</p>
+			<p class="ssmcc-text indented-subpage" id="address-3">FY4 3PE</p>
 			<br />
 			<p class="ssmcc-text indented-subpage padded-top" id="title-phone"> Telephone:</p>
-			<p class="ssmcc-text indented-subpage" id="telephone-1"><a href="tel:01253395481">01253 395481</a> </p>
+			<p class="ssmcc-text indented-subpage" id="telephone-1"><a href="tel:01253111111">01253 111111</a> </p>
 		</div>
 		<div class="col-md-6">
 			<div id="mapDivH" class="collapse padded">
 				<div class="map-responsive padded">
-					<iframe width='100%' height='150%' id='mapcanvas' src='https://maps.google.com/maps?q=fy3%207dz&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=&amp;output=embed' frameborder='0' scrolling='no' marginheight='0' marginwidth='0'>
+					<iframe width='100%' height='150%' id='mapcanvas' src='https://maps.google.com/maps?q=fy4%203pe&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=&amp;output=embed' frameborder='0' scrolling='no' marginheight='0' marginwidth='0'>
 						<div style='overflow:hidden;'>
 							<div id='gmap_canvas' style='height:100%;width:150%;'>
 							</div>
@@ -91,7 +104,7 @@ include '../templates/head-subpage.php';
 		</div>
 		<div class="col-md-3">
 			<button id="mapButton" href="#mapDivH" class="btn padded" data-toggle="collapse">
-            	View or hide a map of Layton Methodist Church
+            	View or hide a map of Lindale Methodist Church
             </button>
 		</div>
 	</div>
@@ -111,28 +124,26 @@ include '../templates/head-subpage.php';
 		<div class="col-md-8">
 			<h3 class="padded-top" id="title-services">Services</h3>
 			<p class="ssmcc-text padded-top">10:30 am every Sunday</p>
-		</div>
-	</div>
+			<p class="padded-top ssmcc-text">Please note that Highfield and Lindale Methodist Churches periodically celebrate joint services.
+            	You can check the Highfield events diary by clicking the Events and Services button below or the
+                <a href="../pages/highfield.php?location=2">Highfield events diary</a> if you want to confirm service times.</p>
 
+			<div class="panel-group space-above" id="accordion">
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						<h3 class="panel-title" id="panel-title-events">
+							<a class="indented-subpage panel-title" data-toggle="collapse" data-parent="#accordion"
+							   href="#collapse2">Events and services  ▼</a>
+						</h3>
+					</div>
+					<div id="collapse2" class="panel-collapse collapse">
+						<div class="panel-body">
+							<?php include '../templates/lindale-diary.php'; ?>
+						</div>
+					</div>
+				</div>
+			</div>
 
-	<div class="row space-above">
-		<div class="col-md-1">
-    	</div>
-
-		<div class="col-md-10">
-			<div class="padded separator"></div>
-		</div>
-	</div>
-
-	<div class="row">
-		<div class="col-md-2">
-		</div>
-		<div class="col-md-8">
-			<p class="ssmcc-text indented-sub-page padded-top" id-"facebook-link-title">
-				<a href="https://www.facebook.com/laytonmethodist/">
-				<img src="../images/fb-icon.jpg" alt="Facebook logo">
-				Find Layton Methodist Church on Facebook</a>
-			</p>
 		</div>
 	</div>
 

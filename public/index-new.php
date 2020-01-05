@@ -132,8 +132,8 @@
        			<div class="row">
        				<div class="col-md-12">
        					<p class="padded general-text">Please note that Highfield and Lindale Methodist Churches periodically celebrate joint services.
-       					You can check the <a href="pages/highfield.php?location=3">Highfield events diary</a> or the
-       					<a href="pages/lindale.php?location=3">Lindale events diary</a> if you want to confirm service times.</p>
+       					You can check the <a href="pages/highfield.php#title-services">Highfield events diary</a> or the
+       					<a href="pages/lindale.php#title-services">Lindale events diary</a> if you want to confirm service times.</p>
        				</div>
        			</div>
 
