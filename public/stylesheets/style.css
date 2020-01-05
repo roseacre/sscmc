@@ -130,10 +130,63 @@ a.footer-link:focus, a.footer-link:hover {
 }
 
 /*nav*/
-#navbardrop {
-    color: #333333;
+
+#navbar-link-home:hover,
+#navbardrop-about:hover,
+#navbar-link-highfield:hover,
+#navbardrop-layton:hover,
+#navbar-link-lindale:hover,
+#navbardrop-marton:hover,
+#navbardrop-newcentral:hover,
+#navbardrop-useful-links:hover,
+#navbar-link-home:focus,
+#navbardrop-about:focus,
+#navbar-link-highfield:focus,
+#navbardrop-layton:focus,
+#navbar-link-lindale:focus,
+#navbardrop-marton:focus,
+#navbardrop-newcentral:focus,
+#navbardrop-useful-links:focus,
+#navbar-link-home:active,
+#navbardrop-about:active,
+#navbar-link-highfield:active,
+#navbardrop-layton:active,
+#navbar-link-lindale:active,
+#navbardrop-marton:active,
+#navbardrop-newcentral:active,
+#navbardrop-useful-links:active
+{
+    color: white;
 }
-#navbardrop:active, #navbardrop:hover, #navbardrop:focus {
+
+#navbar-link-home,
+#navbardrop-about,
+#navbar-link-highfield,
+#navbardrop-layton,
+#navbar-link-lindale,
+#navbardrop-marton,
+#navbardrop-newcentral,
+#navbardrop-useful-links
+{
+    color: black;
+}
+
+.nav-link {
+    color: black;
+}
+
+.nav-item {
+    padding-left: 1em;
+}
+
+#navigation-bar {
+    border-style: solid;
+    border-width: .1em;
+    border-color: #c8102e;
+    border-radius: .4em;
+}
+
+.nav-link:active, .nav-link:hover, .nav-link:focus {
     color: white;
 }
 
@@ -143,11 +196,11 @@ a.footer-link:focus, a.footer-link:hover {
 }
 
 .navbar-nav>li>a {
-    color: #333333;
+    color: black;
 }
 
 .navbar-nav>li>a:hover, .navbar-nav>li>a:focus {
-    color: black;
+    color: white;
 }
 
 .nav-border-1 {

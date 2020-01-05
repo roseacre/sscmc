@@ -114,6 +114,27 @@ include '../templates/head-subpage.php';
 		</div>
 	</div>
 
+	<div class="row space-above">
+		<div class="col-md-1">
+    	</div>
+
+		<div class="col-md-10">
+			<div class="padded separator"></div>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-md-2">
+		</div>
+		<div class="col-md-8">
+			<p class="ssmcc-text indented-sub-page padded-top" id-"facebook-link-title">
+				<a href="https://www.facebook.com/pages/Marton-Methodist-Church-Migeland-Road-Blackpool/200143949996674">
+				<img src="../images/fb-icon.jpg" alt="Facebook logo">
+				Find Marton Methodist Church on Facebook</a>
+			</p>
+		</div>
+	</div>
+
     <?php include '../templates/footer.php'; ?>
 
 </div>
