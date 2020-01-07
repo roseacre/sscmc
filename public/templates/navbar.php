@@ -4,7 +4,7 @@
         <div class="col-md-12">
 
             <div class="ssmcc-text">
-                <nav class="navbar navbar-expand-lg navbar-light bg-light" role="navigation”>
+                <nav class="navbar navbar-expand-lg navbar-light bg-light">
 
                     <!-- toggler -->
                     <button id="navbar-toggler" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -63,7 +63,7 @@
 									New Central
 								</a>
 								<div class="dropdown-menu">
-									<a class="dropdown-item" href="#">About New Central Methodist Church</a>
+									<a class="dropdown-item" href="pages/newcentral.php">About New Central Methodist Church</a>
 									<a class="dropdown-item" href="https://www.facebook.com/newcentralblackpool">New Central Methodist Church on Facebook</a>
 									<a class="dropdown-item" href="http://newcentralmethodistchurch.weebly.com/">New Central on the Internet</a>
 								</div>
@@ -84,3 +84,5 @@
             </div>
         </div>
     </div>
+
+	<div id="main-content">

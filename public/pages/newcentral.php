@@ -110,7 +110,7 @@ include '../templates/head-subpage.php';
 		</div>
 		<div class="col-md-8">
 			<h3 class="padded-top" id="title-services">Services</h3>
-			<p class="ssmcc-text padded-top">10:45 am every Sunday</p>
+			<p class="ssmcc-text padded-top">10:30 am every Sunday</p>
 		</div>
 	</div>
 

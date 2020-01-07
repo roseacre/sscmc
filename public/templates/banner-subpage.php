@@ -1,6 +1,8 @@
+<?php include '../snippets/skip-to-main.php'; ?>
+
 <div class="row">
 	<div class="col-md-12">
-		<nav class="navbar" role="navigation">
+		<nav class="navbar">
 			<div>			 
 				<a class="navbar-brand" href="http://www.methodist.org.uk/">
 					<img alt="The Methodist Church Logo"

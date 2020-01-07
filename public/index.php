@@ -50,7 +50,7 @@
 						   		<p class="card-text card-address">FY4 2NP</p>
 						  	</div>
 						  	<div class="card-body">
-						  		<a class="card-link" href="pages/highfield.php?location=1">View more about Highfield Methodist Church »</a>
+						  		<a class="card-link btn" href="pages/highfield.php?location=1">View more about Highfield Methodist Church »</a>
 						  	</div>
 						</div>
       				</div>
@@ -61,14 +61,14 @@
  						  	<div class="card-body">
  								<h5 class="card-title">Layton Methodist Church</h5>
  								<p class="card-text card-sub-heading">Sunday service:</p>
- 						   		<p class="card-text">10:30 am</p>
+ 						   		<p class="card-text">10:45 am</p>
 						   		<p class="card-text card-sub-heading">Address:</p>
 								<p class="card-text card-address">Westcliffe Drive</p>
 								<p class="card-text card-address">Blackpool</p>
 								<p class="card-text card-address">FY3 7DZ</p>
  						  	</div>
  						  	<div class="card-body">
- 						  		<a class="card-link" href="pages/layton.php?location=1">View more about Layton Methodist Church »</a>
+ 						  		<a class="card-link btn" href="pages/layton.php?location=1">View more about Layton Methodist Church »</a>
  						  	</div>
  						</div>
  					</div>
@@ -86,7 +86,7 @@
 								<p class="card-text card-address">FY4 3PE</p>
 						  	</div>
 						  	<div class="card-body">
-						  		<a class="card-link" href="pages/lindale.php?location=1">View more about Lindale Methodist Church »</a>
+						  		<a class="card-link btn" href="pages/lindale.php?location=1">View more about Lindale Methodist Church »</a>
 						  	</div>
 						</div>
        				</div>
@@ -104,7 +104,7 @@
 								<p class="card-text card-address">FY4 5HL</p>
 						  	</div>
 						  	<div class="card-body">
-						  		<a class="card-link" href="pages/marton.php?location=1">View more about Marton Methodist Church »</a>
+						  		<a class="card-link btn" href="pages/marton.php?location=1">View more about Marton Methodist Church »</a>
 						  	</div>
 						</div>
 					</div>
@@ -115,14 +115,14 @@
 						  	<div class="card-body">
 								<h5 class="card-title">New Central Methodist Church</h5>
 						   		<p class="card-text card-sub-heading">Sunday service:</p>
-						   		<p class="card-text">10:45 am</p>
+						   		<p class="card-text">10:30 am</p>
 						   		<p class="card-text card-sub-heading">Address:</p>
 								<p class="card-text card-address">Adelaide St West</p>
 								<p class="card-text card-address">Blackpool</p>
 								<p class="card-text card-address">FY1 4SR</p>
 						  	</div>
 						  	<div class="card-body">
-						  		<a class="card-link" href="pages/newcentral.php?location=1">View more about New Central Methodist Church »</a>
+						  		<a class="card-link btn" href="pages/newcentral.php?location=1">View more about New Central Methodist Church »</a>
 						  	</div>
 						</div>
 					</div>

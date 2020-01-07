@@ -126,13 +126,13 @@ include '../templates/head-subpage.php';
 			<p class="ssmcc-text padded-top">10:30 am every Sunday</p>
 			<p class="padded-top ssmcc-text">Please note that Highfield and Lindale Methodist Churches periodically celebrate joint services.
             	You can check the Highfield events diary by clicking the Events and Services button below or the
-                <a href="../pages/highfield.php?location=2">Highfield events diary</a> if you want to confirm service times.</p>
+                <a href="../pages/highfield.php#title-services">Highfield events diary</a> if you want to confirm service times.</p>
 
-			<div class="panel-group space-above" id="accordion">
+			<div class="panel-group space-above" id="accordion2">
 				<div class="panel panel-default">
 					<div class="panel-heading">
 						<h3 class="panel-title" id="panel-title-events">
-							<a class="indented-subpage panel-title" data-toggle="collapse" data-parent="#accordion"
+							<a class="indented-subpage panel-title" data-toggle="collapse" data-parent="#accordion2"
 							   href="#collapse2">Events and services  ▼</a>
 						</h3>
 					</div>
