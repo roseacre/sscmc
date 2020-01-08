@@ -17,7 +17,7 @@
 		</div>
 		<div class="col-md-1"></div>
 		<div class="col-md-4">
-			<p><a class="accessibility-link" href="../pages/accessibility.php">Accessibility statement</a></p>
+			<p><a class="accessibility-link" href="pages/accessibility.php">Accessibility statement</a></p>
 		</div>
 	</div>
 

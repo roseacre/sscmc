@@ -35,7 +35,7 @@
        				</div>
        			</div>
 
-       			<div class="row">
+       			<div class="row space-above">
        				<div class="col-md-1"></div>
        				<div class="col-md-2">
 						<div class="card">
@@ -137,7 +137,7 @@
        				</div>
        			</div>
 
-       			<?php include 'templates/footer.php';?>
+       			<?php include 'templates/footer-indexpage.php';?>
 
        		</div>
 

@@ -18,9 +18,10 @@ include '../templates/head-subpage.php';
             </div>
             <div class="col-md-10">
                 <?php include '../templates/faith-statement.php'; ?>
-                <?php include '../templates/pastoral-team.php'; ?>
             </div>
         </div>
+
+		<?php include '../templates/pastoral-team.php'; ?>
 
         <?php include '../templates/footer.php'; ?>
 
