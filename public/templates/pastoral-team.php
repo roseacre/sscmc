@@ -11,7 +11,7 @@
 		<div class="col-md-1"></div>
 		<div class="col-md-3">
 			<div class="card">
-				<img src="" class="card-img-top" alt="Reverend Janet Pybon">
+				<img src="../images/janet-pybon.jpg" class="card-img-top" alt="Reverend Janet Pybon">
 				<div class="card-body">
 					<h5 class="card-title">Rev. Janet Pybon</h5>
 					<p class="card-text card-sub-heading">Superintendent Minister</p>

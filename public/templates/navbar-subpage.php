@@ -23,8 +23,8 @@
 								About us
 							  	</a>
 							  	<div class="dropdown-menu">
-									<a class="dropdown-item" href="../pages/about.php#our-faith">Our faith</a>
-									<a class="dropdown-item" href="../pages/about.php#pastoral-team">Our pastoral team</a>
+									<a class="dropdown-item" href="../pages/about-faith.php">Our faith</a>
+									<a class="dropdown-item" href="../pages/about-pastoral.php">Our pastoral team</a>
 									<a class="dropdown-item" href="../pages/history.php">History of our churches</a>
 									<a class="dropdown-item" href="../pages/gallery.php">Gallery</a>
 							  	</div>
