@@ -4,7 +4,7 @@
         <div class="col-md-12">
 
             <div class="ssmcc-text">
-                <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <nav class="navbar navbar-expand-lg navbar-light bg-light" id="navigation-bar">
 
                     <!-- toggler -->
                     <button id="navbar-toggler" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">

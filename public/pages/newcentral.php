@@ -136,6 +136,18 @@ include '../templates/head-subpage.php';
 		</div>
 	</div>
 
+	<div class="row">
+		<div class="col-md-2">
+		</div>
+		<div class="col-md-8">
+			<p class="ssmcc-text indented-sub-page padded-top" id-"new-central-www-link-title">
+				<a href="http://newcentralmethodistchurch.weebly.com/">
+				<img src="../images/browsers.jpg" alt="browser logos">
+				Find New Central Methodist Church on the Internet</a>
+			</p>
+		</div>
+	</div>
+
 
     <?php include '../templates/footer.php'; ?>
 

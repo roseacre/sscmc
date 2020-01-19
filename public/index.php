@@ -39,9 +39,9 @@
        				<div class="col-md-1"></div>
        				<div class="col-md-2">
 						<div class="card">
-						  	<img src="images/highfield.jpg" class="card-img-top" alt="Photograph of Highfield Methodist Church, taken from the corner of Mayfield Avenue and Scarsdale Avenue.">
+						  	<img src="images/highfield.jpg" class="card-img-top" alt="Photograph of Highfield Methodist Church taken from Mayfield Avenue.">
 						  	<div class="card-body">
-								<h5 class="card-title">Highfield Methodist Church</h5>
+								<h3 class="card-title">Highfield Methodist Church</h3>
 						   		<p class="card-text card-sub-heading">Sunday service:</p>
 						   		<p class="card-text">10:30 am</p>
 						   		<p class="card-text card-sub-heading">Address:</p>
@@ -59,7 +59,7 @@
  						<div class="card">
  						  	<img src="images/layton.jpg" class="card-img-top" alt="Photograph of Layton Methodist Church, taken from Talbot Road.">
  						  	<div class="card-body">
- 								<h5 class="card-title">Layton Methodist Church</h5>
+ 								<h3 class="card-title">Layton Methodist Church</h3>
  								<p class="card-text card-sub-heading">Sunday service:</p>
  						   		<p class="card-text">10:45 am</p>
 						   		<p class="card-text card-sub-heading">Address:</p>
@@ -75,9 +75,9 @@
 
       				<div class="col-md-2">
 						<div class="card">
-						  	<img src="images/lindale.jpg" class="card-img-top" alt="Photograph of Highfield Methodist Church, taken from the corner of Mayfield Avenue and Scarsdale Avenue.">
+						  	<img src="images/lindale.jpg" class="card-img-top" alt="Photograph of Lindale Methodist Church taken from Dorritt Road.">
 						  	<div class="card-body">
-								<h5 class="card-title">Lindale Methodist Church</h5>
+								<h3 class="card-title">Lindale Methodist Church</h3>
 						   		<p class="card-text card-sub-heading">Sunday service:</p>
 						   		<p class="card-text">10:30 am</p>
 						   		<p class="card-text card-sub-heading">Address:</p>
@@ -95,7 +95,7 @@
 						<div class="card">
 						  	<img src="images/marton.jpg" class="card-img-top" alt="Photograph of Marton Methodist Church.">
 						  	<div class="card-body">
-								<h5 class="card-title">Marton Methodist Church</h5>
+								<h3 class="card-title">Marton Methodist Church</h3>
 						   		<p class="card-text card-sub-heading">Sunday service:</p>
 						   		<p class="card-text">10:30 am</p>
 						   		<p class="card-text card-sub-heading">Address:</p>
@@ -113,7 +113,7 @@
 						<div class="card">
 						  	<img src="images/newcentral.jpg" class="card-img-top" alt="Photograph of New Central Methodist Church.">
 						  	<div class="card-body">
-								<h5 class="card-title">New Central Methodist Church</h5>
+								<h3 class="card-title">New Central Methodist Church</h3>
 						   		<p class="card-text card-sub-heading">Sunday service:</p>
 						   		<p class="card-text">10:30 am</p>
 						   		<p class="card-text card-sub-heading">Address:</p>

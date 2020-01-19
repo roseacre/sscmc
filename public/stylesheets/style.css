@@ -292,6 +292,7 @@ a.footer-link:focus, a.footer-link:hover {
 
 .card-title {
 	font-weight: 500;
+	font-size: 1.25em;
 }
 
 .card-address {

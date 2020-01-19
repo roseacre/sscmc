@@ -13,7 +13,7 @@
 			<div class="card">
 				<img src="../images/janet-pybon.jpg" class="card-img-top" alt="Reverend Janet Pybon">
 				<div class="card-body">
-					<h5 class="card-title">Rev. Janet Pybon</h5>
+					<h3 class="card-title">Rev. Janet Pybon</h3>
 					<p class="card-text card-sub-heading">Superintendent Minister</p>
 					<p class="card-text card-sub-heading">Telephone</p>
 					<p class="card-text"><a href="tel:01253302895">01253 302895</a></p>
@@ -27,9 +27,9 @@
 
 		<div class="col-md-3">
 			<div class="card">
-				<img src="" class="card-img-top" alt="Reverend John Morton">
+				<img src="../images/temporary.jpg" class="card-img-top" alt="Reverend John Morton">
 				<div class="card-body">
-					<h5 class="card-title">Rev. John Morton</h5>
+					<h3 class="card-title">Rev. John Morton</h3>
 					<p class="card-text card-sub-heading">Minister</p>
 					<p class="card-text card-sub-heading">Telephone</p>
 					<p class="card-text"><a href="tel:01253695527">01253 695527</a></p>
@@ -43,9 +43,9 @@
 
 		<div class="col-md-3">
 			<div class="card">
-				<img src="" class="card-img-top" alt="Reverend Barrie Lees">
+				<img src="../images/temporary.jpg" class="card-img-top" alt="Reverend Barrie Lees">
 				<div class="card-body">
-					<h5 class="card-title">Rev. Barrie Lees</h5>
+					<h3 class="card-title">Rev. Barrie Lees</h3>
 					<p class="card-text card-sub-heading">Supernumerary</p>
 					<p class="card-text card-sub-heading">Telephone</p>
 					<p class="card-text"><a href="tel:01253367966">01253 367966</a></p>
