@@ -1,4 +1,3 @@
-
 </div>
 
 <footer class="banner footer">
@@ -15,8 +14,8 @@
 		<div class="col-md-7">
 				<p class="footer-text=small">Copyright &copy <?php echo date("Y"); ?> The Blackpool Methodist Circuit. All Rights Reserved.</p>
 		</div>
-		<div class="col-md-1"></div>
-		<div class="col-md-4">
+		<div class="col-md-3"></div>
+		<div class="col-md-2">
 			<p><a class="accessibility-link" href="../pages/accessibility.php">Accessibility statement</a></p>
 		</div>
 	</div>

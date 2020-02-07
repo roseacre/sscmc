@@ -334,3 +334,14 @@ a.accessibility-link:hover, a.accessibility-link:focus {
 	color: white;
 	background-color: black;
 }
+
+.large-centered {
+	font-size: 2em;
+	text-align: center;
+}
+
+.center img {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
