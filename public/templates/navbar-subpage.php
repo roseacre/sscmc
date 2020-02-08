@@ -30,10 +30,6 @@
 							  	</div>
 							</li>
 
-                            <li class="nav-item active" id="navbar-item-highfield">
-                                <a id="navbar-link-highfield" class="nav-link" href="../pages/highfield.php">About Highfield</a>
-							</li>
-
 							<li class="nav-item dropdown" id="navbar-item-layton">
 								<a class="nav-link dropdown-toggle" href="#" id="navbardrop-layton" data-toggle="dropdown">
 									Layton
@@ -42,10 +38,6 @@
 									<a class="dropdown-item" href="../pages/layton.php">About Layton Methodist Church</a>
 									<a class="dropdown-item" href="https://www.facebook.com/laytonmethodist/">Layton Methodist Church on Facebook</a>
 								</div>
-							</li>
-
-                            <li class="nav-item active" id="navbar-item-lindale">
-                                <a id="navbar-link-lindale" class="nav-link" href="../pages/lindale.php">About Lindale</a>
 							</li>
 
 							<li class="nav-item dropdown" id="navbar-item-marton">
@@ -69,6 +61,16 @@
 								</div>
 							</li>
 
+							<li class="nav-item dropdown" id="navbar-item-ssmcc">
+								<a class="nav-link dropdown-toggle" href="../pages/ssmcc.php" id="navbardrop-ssmcc" data-toggle="dropdown">
+									South Shore
+								</a>
+								<div class="dropdown-menu">
+									<a class="dropdown-item" href="../pages/highfield.php">About SSMCC - Scarsdale Avenue</a>
+									<a class="dropdown-item" href="../pages/lindale.php">About SSMCC - Dorritt Avenue</a>
+								</div>
+							</li>
+
 							<li class="nav-item dropdown" id="navbar-item-useful-links">
 								<a class="nav-link dropdown-toggle" href="#" id="navbardrop-useful-links" data-toggle="dropdown">
 									Useful links
@@ -76,6 +78,7 @@
 								<div class="dropdown-menu">
 									<a class="dropdown-item" href="http://www.methodist.org.uk/">The Methodist Church in Briain</a>
 									<a class="dropdown-item" href="http://www.lancashiremethodist.org.uk/">Lancashire Methodist District</a>
+									<a class="dropdown-item" href="http://northfyldemethodistcircuit.org.uk/">North Fylde Methodist Circuit</a>
 								</div>
 							</li>
                         </ul>

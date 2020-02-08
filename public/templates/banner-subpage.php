@@ -3,22 +3,13 @@
 <div class="row">
 	<div class="col-md-12">
 		<nav class="navbar">
-			<div>			 
-				<a class="navbar-brand" href="http://www.methodist.org.uk/">
+			<div class="nav-brand">
+				<a href="http://www.methodist.org.uk/">
 					<img alt="The Methodist Church Logo"
-						class="resized-image-35 nav-border-1"
+						class="resized-image-35 nav-border-1" id="logo"
                         src="../images/re_methodist_logo_lowres.gif">
 				</a>				
 			</div>
-			<form class="navbar-form search-form" role="search">
-				<div class="form-group">
-                    <label for="search">Search our site: </label>
-					<input type="text" class="form-control"  id="search"/>
-				</div> 
-				<button type="submit" class="btn btn-default">
-					Search »
-				</button>
-			</form>
 		</nav>
 					
 		<div>

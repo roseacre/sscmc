@@ -101,6 +101,7 @@ a.footer-link:focus, a.footer-link:hover {
 #navbar-link-lindale:hover,
 #navbardrop-marton:hover,
 #navbardrop-newcentral:hover,
+#navbardrop-ssmcc:hover,
 #navbardrop-useful-links:hover,
 #navbar-link-home:focus,
 #navbardrop-about:focus,
@@ -109,6 +110,7 @@ a.footer-link:focus, a.footer-link:hover {
 #navbar-link-lindale:focus,
 #navbardrop-marton:focus,
 #navbardrop-newcentral:focus,
+#navbardrop-ssmcc:focus,
 #navbardrop-useful-links:focus,
 #navbar-link-home:active,
 #navbardrop-about:active,
@@ -117,6 +119,7 @@ a.footer-link:focus, a.footer-link:hover {
 #navbar-link-lindale:active,
 #navbardrop-marton:active,
 #navbardrop-newcentral:active,
+#navbardrop-ssmcc:active,
 #navbardrop-useful-links:active
 {
     color: white;
@@ -129,6 +132,7 @@ a.footer-link:focus, a.footer-link:hover {
 #navbar-link-lindale,
 #navbardrop-marton,
 #navbardrop-newcentral,
+#navbardrop-ssmcc,
 #navbardrop-useful-links
 {
     color: black;
@@ -344,4 +348,19 @@ a.accessibility-link:hover, a.accessibility-link:focus {
   display:block;
   margin-left:auto;
   margin-right:auto;
+}
+
+#logo:focus,#logo:hover {
+	border-top: thin solid #c8102e;
+	border-right: thin solid #c8102e;
+	border-left: thin solid #c8102e;
+	border-bottom: thick solid #c8102e;
+}
+
+#logo {
+	background-color: white;
+}
+
+img#logo:focus,img#logo:hover {
+	background-color: white;
 }

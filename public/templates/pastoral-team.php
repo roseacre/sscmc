@@ -27,7 +27,7 @@
 
 		<div class="col-md-3">
 			<div class="card">
-				<img src="../images/temporary.jpg" class="card-img-top" alt="Reverend John Morton">
+				<img src="../images/john_morton.png" class="card-img-top" alt="Reverend John Morton">
 				<div class="card-body">
 					<h3 class="card-title">Rev. John Morton</h3>
 					<p class="card-text card-sub-heading">Minister</p>

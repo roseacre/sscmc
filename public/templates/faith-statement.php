@@ -14,7 +14,7 @@
 
             <p>A member of the Methodist Church is called to:</p>
 			<ul>
-            	<li>>worship within the local church, including regular sharing in Holy Communion, and through personal prayer</li>
+            	<li>worship within the local church, including regular sharing in Holy Communion, and through personal prayer</li>
 				<li>learning and caring, through Bible study and meeting for fellowship, so that they may grow in faith and support
 				others in their discipleship</li>
 				<li>service, by being a good neighbour in the community, challenging injustice and using their resources to support

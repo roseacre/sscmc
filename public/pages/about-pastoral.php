@@ -13,14 +13,6 @@ include '../templates/head-subpage.php';
         <?php include '../templates/banner-subpage.php'; ?>
         <?php include '../templates/navbar-subpage.php'; ?>
 
-        <div class="row">
-            <div class="col-md-1">
-            </div>
-            <div class="col-md-10">
-                <?php include '../templates/faith-statement.php'; ?>
-            </div>
-        </div>
-
 		<?php include '../templates/pastoral-team.php'; ?>
 
         <?php include '../templates/footer.php'; ?>
