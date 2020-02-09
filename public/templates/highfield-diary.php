@@ -3,8 +3,8 @@
 
         <div>
 
-            <p class="general-text padded-top">Table of events and services scheduled to take place at Highfield will be
-            presented here.</p>
+            <p class="general-text padded-top">Table of events and services scheduled to take place at South Shore Methodist Community Church
+            (Mayfield Avenue) will be presented here.</p>
 
         </div>
 

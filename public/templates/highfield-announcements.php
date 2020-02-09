@@ -2,7 +2,7 @@
     <div class="col-md-12">
 
         <div>
-            <p class="general-text padded">Announcements (as are currently detailed in the newsletter) will be displayed here.</p>
+            <p class="general-text padded">Announcements for South Shore Methodist Community Church (Mayfield Avenue) will be displayed here.</p>
         </div>
 
     </div>

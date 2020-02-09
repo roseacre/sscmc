@@ -2,7 +2,7 @@
 <html lang="en">
 
 <?php
-$title = "Highfield Methodist Church";
+$title = "South Shore Methodist Community Church (Mayfield Avenue)";
 include '../templates/head-subpage.php';
 ?>
 
@@ -19,7 +19,7 @@ include '../templates/head-subpage.php';
         </div>
         <div class="col-md-10">
 			<h2 class="padded-top" id="page-subheading">
-				Highfield Methodist Church
+				South Shore Methodist Community Church (Mayfield Avenue)
 			</h2>
 		</div>
 	</div>
@@ -29,7 +29,7 @@ include '../templates/head-subpage.php';
 		</div>
 
 		<div class="col-md-8">
-			<img src="../images/highfield.jpg" class="resized-image" alt="Photograph of Highfield Methodist Church.">
+			<img src="../images/highfield.jpg" class="resized-image" alt="Photograph of South Shore Methodist Community Church (Mayfield Avenue).">
 
 			<div class="panel-group space-above" id="accordion">
 				<div class="panel panel-default">
@@ -106,7 +106,7 @@ include '../templates/head-subpage.php';
 		</div>
 		<div class="col-md-3">
 			<button id="mapButton" href="#mapDivH" class="btn padded" data-toggle="collapse">
-            	View or hide a map of Highfield Methodist Church
+            	View or hide a map of <br /> South Shore Methodist Community Church (Mayfield Avenue)
             </button>
 		</div>
 	</div>
@@ -126,9 +126,9 @@ include '../templates/head-subpage.php';
 		<div class="col-md-8">
 			<h3 class="padded-top" id="title-services">Services</h3>
 			<p class="ssmcc-text padded-top">10:30 am every Sunday</p>
-			<p class="padded-top ssmcc-text">Please note that Highfield and Lindale Methodist Churches periodically celebrate joint services.
-            	You can check the Highfield events diary by clicking the Events and Services button below or the
-                <a href="../pages/lindale.php#title-services">Lindale events diary</a> if you want to confirm service times.</p>
+			<p class="padded-top ssmcc-text">Please note that South Shore Methodist Community Church periodically celebrates joint services.
+            	You can check the events diary for the Mayfield Avenue site by clicking the Events and Services button below or the
+                <a href="../pages/lindale.php#title-services">Dorritt Road site events diary</a> if you want to confirm service times.</p>
 
 			<div class="panel-group space-above" id="accordion2">
 				<div class="panel panel-default">
