@@ -8,8 +8,5 @@
     	content="Blackpool Methodist Circuit, Marton Methodist Church, New Central Methodist Church, North Shore Methodist Church, South Shore Methodist Community Church, Highfield, Lindale, Blackpool, SSMCC">
     <meta name="author" content="F E Evans">
     <link rel="stylesheet" href="../stylesheets/bootstrap/bootstrap.min.css">
-    <link rel="stylesheet" href="../stylesheets/datatables/dataTables.bootstrap.min.css">
-    <link rel="stylesheet" href="../stylesheets/datatables/dataTables.bootstrap4.min.css">
-    <link rel="stylesheet" href="../stylesheets/datatables/datatables.min.css">
     <link rel="stylesheet" href="../stylesheets/style.css">
 </head>

@@ -1,9 +1,7 @@
 <div class="row">
-	<div class="col-md-1"></div>
-    <div class="col-md-10">
+    <div class="col-md-12">
 
         <div>
-			<h4>End of an era for North Shore Methodist Church</h4>
 			<p class="general-text">Blackpool Gazette, Monday, 24th September 2018</p>
 
 			<p class="general-text">A prominent Blackpool church will close at the end of this month After 111 years of being a place of worship.</p>
@@ -68,5 +66,4 @@
         </div>
 
     </div>
-    <div class="col-md-1"></div>
 </div>
