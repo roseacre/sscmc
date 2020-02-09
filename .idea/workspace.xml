@@ -2,19 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e656c261-74e9-4cc3-84c1-10a39d0a0b15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/images/history/grosvenor-st.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/history/raikes-parade1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/history/raikes-parade2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/history/raikes-parade3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/history/waterloo-rd-interior.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/history/waterloo-rd-roll-of-honour.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/history/waterloo-rd1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/history/waterloo-rd2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/templates/history/grosvenor-st.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/templates/history/highfield.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/templates/history/lindale.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/templates/history/raikes-parade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/templates/history/waterloo-rd.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/history/north-shore-exterior.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/history/north-shore-gazette-picture1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/history/north-shore-gazette-picture2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/history/north-shore-gazette-picture3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/history/north-shore-gazette-picture4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/history/north-shore-gazette-picture5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/history/north-shore-gazette-picture6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/history/north-shore-interior.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/history/north-shore-organ-pipes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/history/north-shore-window1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/history/north-shore-window2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/templates/history/north-shore-closure-gazette.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/templates/history/north-shore.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,6 +58,7 @@
       <recent name="$PROJECT_DIR$/public/pages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images/history" />
       <recent name="$PROJECT_DIR$/public/templates" />
       <recent name="$PROJECT_DIR$/public/pages" />
       <recent name="$PROJECT_DIR$/archives" />
