@@ -5,7 +5,9 @@
 
     <div class="col-md-6">
         <div>
-            <p class="general-text padded-top">1876 – Chapel Street Primitive Methodist Church was founded.</p>
+        	<p class="general-text padded-top">An Independent Methodist (later Primitive Methodist) Church was established in Chapel Street in 1826.
+        	This is recorded as having closed in 1849.</p>
+            <p class="general-text">1876 – Chapel Street Primitive Methodist Church was founded.</p>
             <p class="general-text">1997 – the church closed.</p>
 
             <p class="general-text">The congregation moved on closure in July 1997 to join the congregation at Central Methodist Church,

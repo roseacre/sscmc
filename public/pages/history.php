@@ -23,6 +23,10 @@ include '../templates/head-subpage.php';
 
                 <div class="general-text">
 
+                	<p>When John Roskell, a veteran of the Napoleonic Wars, came to live at Little Carleton, he and Robert Bird
+                	established a Methodist Class Meeting at Bonny’s Bathing House on the South Beach. When the community outgrew
+                	those premises, they relocated to a large room at Robert Bird’s bazaar (where the Tower now stands).</p>
+
                     <p>The Fylde was originally served by Methodist ministers from Preston, but, in 1811, it was included in the
                     new Garstang Wesleyan Circuit. In 1855, the circuit was renamed the Blackpool and Garstang Wesleyan Circuit.</p>
 
@@ -54,12 +58,12 @@ include '../templates/head-subpage.php';
 
 					<div class="panel panel-default space-above">
 						<div class="panel-heading">
-							<h3 class="panel-title" id="panel-title-adelaide-st">
+							<h3 class="panel-title" id="panel-title-central">
 								<a class="indented-subpage panel-title" data-toggle="collapse" data-parent="#accordion"
-								   href="#collapse1">Adelaide Street Methodist Church  ▼</a>
+								   href="#collapse3">Central (Adelaide Street) (Bank Hey Street) Methodist Church  ▼</a>
 							</h3>
 						</div>
-						<div id="collapse1" class="panel-collapse collapse">
+						<div id="collapse3" class="panel-collapse collapse">
 							<div class="panel-body">
 								<?php include '../templates/history/adelaide-st.php'; ?>
 							</div>
@@ -68,37 +72,9 @@ include '../templates/head-subpage.php';
 
 					<div class="panel panel-default space-above">
 						<div class="panel-heading">
-							<h3 class="panel-title" id="panel-title-bank-hey-st">
-								<a class="indented-subpage panel-title" data-toggle="collapse" data-parent="#accordion"
-								   href="#collapse2">Bank Hey Street Wesleyan Methodist Church  ▼</a>
-							</h3>
-						</div>
-						<div id="collapse2" class="panel-collapse collapse">
-							<div class="panel-body">
-								<?php include '../templates/history/bank-hey-st.php'; ?>
-							</div>
-						</div>
-					</div>
-
-					<div class="panel panel-default space-above">
-						<div class="panel-heading">
-							<h3 class="panel-title" id="panel-title-central">
-								<a class="indented-subpage panel-title" data-toggle="collapse" data-parent="#accordion"
-								   href="#collapse3">Central Methodist Church  ▼</a>
-							</h3>
-						</div>
-						<div id="collapse3" class="panel-collapse collapse">
-							<div class="panel-body">
-								<?php include '../templates/history/central.php'; ?>
-							</div>
-						</div>
-					</div>
-
-					<div class="panel panel-default space-above">
-						<div class="panel-heading">
 							<h3 class="panel-title" id="panel-title-chapel-st">
 								<a class="indented-subpage panel-title" data-toggle="collapse" data-parent="#accordion"
-								   href="#collapse4">Chapel Street Primitive Methodist Church  ▼</a>
+								   href="#collapse4">Chapel Street Methodist Church  ▼</a>
 							</h3>
 						</div>
 						<div id="collapse4" class="panel-collapse collapse">
@@ -174,6 +150,20 @@ include '../templates/head-subpage.php';
 						<div id="collapse9" class="panel-collapse collapse">
 							<div class="panel-body">
 								<?php include '../templates/history/lindale.php'; ?>
+							</div>
+						</div>
+					</div>
+
+					<div class="panel panel-default space-above">
+						<div class="panel-heading">
+							<h3 class="panel-title" id="panel-title-marton">
+								<a class="indented-subpage panel-title" data-toggle="collapse" data-parent="#accordion"
+								   href="#collapse13">Marton Methodist Church  ▼</a>
+							</h3>
+						</div>
+						<div id="collapse13" class="panel-collapse collapse">
+							<div class="panel-body">
+								<?php include '../templates/history/marton.php'; ?>
 							</div>
 						</div>
 					</div>
