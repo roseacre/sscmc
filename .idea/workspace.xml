@@ -2,17 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e656c261-74e9-4cc3-84c1-10a39d0a0b15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/images/history/adelaide_st.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/history/chapel_st.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/history/ebenezer-rawcliffe-st1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/history/ebenezer-rawcliffe-st2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/john_morton.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/templates/history/adelaide-st.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/templates/history/bank-hey-st.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/templates/history/chapel-st.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/templates/history/ebenezer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/history/grosvenor-st.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/history/raikes-parade1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/history/raikes-parade2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/history/raikes-parade3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/history/waterloo-rd-interior.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/history/waterloo-rd-roll-of-honour.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/history/waterloo-rd1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/history/waterloo-rd2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/templates/history/grosvenor-st.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/templates/history/highfield.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/templates/history/lindale.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/templates/history/raikes-parade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/templates/history/waterloo-rd.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages/history.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/pages/history.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -141,6 +144,7 @@
     <MESSAGE value="Revisions for Blackpool Circuit&#10;Incl faith statemennt" />
     <MESSAGE value="Revisions for Blackpool Circuit" />
     <MESSAGE value="Revisions for Blackpool Circuit following review" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revisions for Blackpool Circuit following review" />
+    <MESSAGE value="Revisions for Blackpool Circuit following review - add history" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revisions for Blackpool Circuit following review - add history" />
   </component>
 </project>
