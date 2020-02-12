@@ -29,7 +29,9 @@ include '../templates/head-subpage.php';
 		</div>
 
 		<div class="col-md-8">
-			<img src="../images/layton.jpg" class="resized-image" alt="Photograph of Layton Methodist Church.">
+			<img src="../images/layton.jpg" class="resized-image"
+				alt="Photograph of Layton Methodist Church"
+				title="Layton Methodist Church.">
 
 			<div class="panel-group space-above" id="accordion">
 				<div class="panel panel-default">

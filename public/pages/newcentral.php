@@ -29,7 +29,9 @@ include '../templates/head-subpage.php';
 		</div>
 
 		<div class="col-md-8">
-			<img src="../images/newcentral.jpg" class="resized-image" alt="Photograph of New Central Methodist Church.">
+			<img src="../images/newcentral.jpg" class="resized-image"
+				alt="Photograph of New Central Methodist Church"
+				title="New Central Methodist Church">
 
 			<div class="panel-group space-above" id="accordion">
 				<div class="panel panel-default">

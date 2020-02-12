@@ -29,7 +29,9 @@ include '../templates/head-subpage.php';
 		</div>
 
 		<div class="col-md-8">
-			<img src="../images/highfield.jpg" class="resized-image" alt="Photograph of South Shore Methodist Community Church (Mayfield Avenue).">
+			<img src="../images/highfield.jpg" class="resized-image"
+				alt="Photograph of South Shore Methodist Community Church (Mayfield Avenue)"
+				title="South Shore Methodist Community Church (Mayfield Avenue)">
 
 			<div class="panel-group space-above" id="accordion">
 				<div class="panel panel-default">

@@ -29,7 +29,9 @@ include '../templates/head-subpage.php';
 		</div>
 
 		<div class="col-md-8">
-			<img src="../images/lindale.jpg" class="resized-image" alt="Photograph of South Shore Methodist Community Church (Dorritt Road)">
+			<img src="../images/lindale.jpg" class="resized-image"
+				alt="Photograph of South Shore Methodist Community Church (Dorritt Road)"
+				title="South Shore Methodist Community Church (Dorritt Road)">
 
 			<div class="panel-group space-above" id="accordion">
 				<div class="panel panel-default">
