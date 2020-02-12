@@ -1,15 +1,21 @@
 <div class="row">
 	<div class="col-md-6">
-        <img src="../images/history/waterloo-rd1.png" class="resized-image padded" alt="Photograph of Waterloo Road Methodist Church.">
+        <img src="../images/history/waterloo-rd1.png" class="resized-image padded"
+        	alt="Photograph of Waterloo Road Methodist Church"
+        	title="Waterloo Road Methodist Church">
 	</div>
 	<div class="col-md-6">
-        <img src="../images/history/waterloo-rd2.png" class="resized-image padded" alt="Photograph of Waterloo Road Methodist Church.">
+        <img src="../images/history/waterloo-rd2.png" class="resized-image padded"
+        	alt="Photograph of Waterloo Road Methodist Church"
+        	title="Waterloo Road Methodist Church">
 	</div>
 </div>
 
 <div class="row">
     <div class="col-md-6">
-    	<img src="../images/history/waterloo-rd-interior.png" class="resized-image padded" alt="Photograph of interior of Waterloo Road Methodist Church">
+    	<img src="../images/history/waterloo-rd-interior.png" class="resized-image padded"
+    		alt="Photograph of interior of Waterloo Road Methodist Church"
+    		title="Interior of Waterloo Road Methodist Church">
 	</div>
     <div class="col-md-6">
     	<p class="general-text padded-top">1924 – Waterloo Road Methodist Church was founded.</p>
@@ -19,7 +25,9 @@
 
 <div class="row">
     <div class="col-md-6">
-    	<img src="../images/history/waterloo-rd-roll-of-honour.jpg" class="resized-image padded" alt="Framed roll of honour for Waterloo Road Methodist Mission">
+    	<img src="../images/history/waterloo-rd-roll-of-honour.jpg" class="resized-image padded"
+    		alt="Framed roll of honour for Waterloo Road Methodist Mission"
+    		title="Roll of honour, Waterloo Road Methodist Mission">
     </div>
     <div class="col-md-6">
     	<p class="general-text padded-top">Framed and glazed, illuminated roll of honour for Waterloo Road Methodist Mission, with details on

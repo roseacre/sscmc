@@ -1,6 +1,8 @@
 <div class="row">
 	<div class="col-md-6">
-		<img src="../images/history/north-shore-exterior.png" class="resized-image padded" alt="Photograph of North Shore Methodist Church.">
+		<img src="../images/history/north-shore-exterior.png" class="resized-image padded"
+			alt="Photograph of North Shore Methodist Church"
+			title="North Shore Methodist Church">
 	</div>
 	<div class="col-md-6">
 		<p class="general-text padded-top">1875 - a Trust was formed to purchase land bounded by Dickson Road and Cocker Street</p>
@@ -51,19 +53,27 @@
 
 <div class="row">
 	<div class="col-md-6">
-        <img src="../images/history/north-shore-window1.jpg" class="resized-image space-above" alt="Photograph of stained glass window.">
+        <img src="../images/history/north-shore-window1.jpg" class="resized-image space-above"
+        	alt="Photograph of stained glass window."
+        	title="Stained glass window in North Shore Methodist Church">
 	</div>
 	<div class="col-md-6">
-        <img src="../images/history/north-shore-window2.jpg" class="resized-image space-above" alt="Photograph of cross sihouetted in stained glass window.">
+        <img src="../images/history/north-shore-window2.jpg" class="resized-image space-above"
+        	alt="Photograph of cross sihouetted in stained glass window"
+        	title="Stained glass window in North Shore Methodist Church">
 	</div>
 </div>
 
 <div class="row">
 	<div class="col-md-6">
-        <img src="../images/history/north-shore-interior.png" class="resized-image padded" alt="Photograph of interior of North Shore Methodist Church.">
+        <img src="../images/history/north-shore-interior.png" class="resized-image padded"
+        	alt="Photograph of interior of North Shore Methodist Church"
+        	title="Interior of North Shore Methodist Church">
 	</div>
 	<div class="col-md-6">
-        <img src="../images/history/north-shore-organ-pipes.jpg" class="resized-image padded" alt="Photograph of organ pipes.">
+        <img src="../images/history/north-shore-organ-pipes.jpg" class="resized-image padded"
+        	alt="Photograph of organ pipes"
+        	title="Organ pipes in North Shore Methodist Church">
 	</div>
 </div>
 

@@ -11,7 +11,9 @@
 		<div class="col-md-1"></div>
 		<div class="col-md-3">
 			<div class="card">
-				<img src="../images/janet-pybon.jpg" class="card-img-top" alt="Reverend Janet Pybon">
+				<img src="../images/janet-pybon.jpg" class="card-img-top"
+					alt="Reverend Janet Pybon"
+					title="Reverend Janet Pybon">
 				<div class="card-body">
 					<h3 class="card-title">Rev. Janet Pybon</h3>
 					<p class="card-text card-sub-heading">Superintendent Minister</p>
@@ -27,7 +29,9 @@
 
 		<div class="col-md-3">
 			<div class="card">
-				<img src="../images/john_morton.png" class="card-img-top" alt="Reverend John Morton">
+				<img src="../images/john_morton.png" class="card-img-top"
+					alt="Reverend John Morton"
+					title="Reverend John Morton">
 				<div class="card-body">
 					<h3 class="card-title">Rev. John Morton</h3>
 					<p class="card-text card-sub-heading">Minister</p>

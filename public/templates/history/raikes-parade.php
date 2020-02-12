@@ -1,15 +1,21 @@
 <div class="row">
 	<div class="col-md-6">
-        <img src="../images/history/raikes-parade1.png" class="resized-image padded" alt="Photograph of Raikes Parade Methodist Church.">
+        <img src="../images/history/raikes-parade1.png" class="resized-image padded"
+        	alt="Photograph of Raikes Parade Methodist Church"
+        	title="Raikes Parade Methodist Church">
 	</div>
     <div class="col-md-6">
-        <img src="../images/history/raikes-parade3.png" class="resized-image padded" alt="Photograph of Raikes Parade Methodist Church.">
+        <img src="../images/history/raikes-parade3.png" class="resized-image padded"
+        	alt="Photograph of Raikes Parade Methodist Church"
+        	title="Raikes Parade Methodist Church">
 	</div>
 </div>
 
 <div class="row">
 	<div class="col-md-6">
-        <img src="../images/history/raikes-parade2.png" class="resized-image padded" alt="Photograph of Raikes Parade Methodist Church.">
+        <img src="../images/history/raikes-parade2.png" class="resized-image padded"
+        	alt="Photograph of Raikes Parade Methodist Church"
+        	title="Raikes Parade Methodist Church">
 	</div>
 	<div class="col-md-6">
         <div>

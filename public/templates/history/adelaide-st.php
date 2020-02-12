@@ -9,7 +9,9 @@
 
 <div class="row">
 	<div class="col-md-6">
-		<img src="../images/history/adelaide_st.jpg" class="resized-image padded" alt="Black and white photograph of Adelaide Street Methodist Church.">
+		<img src="../images/history/adelaide_st.jpg" class="resized-image padded"
+			alt="Black and white photograph of Adelaide Street Methodist Church"
+			title="Adelaide Street Methodist Church">
 	</div>
     <div class="col-md-6">
         <div>
@@ -22,7 +24,9 @@
 
 <div class="row">
 	<div class="col-md-6">
-		<img src="../images/history/central.jpg" class="resized-image padded" alt="Black and white extract from a publication showing the Central Methodist Chapel">
+		<img src="../images/history/central.jpg" class="resized-image padded"
+			alt="Black and white extract from a publication showing the Central Methodist Chapel"
+			title="Central Methodist Chapel">
 	</div>
     <div class="col-md-6">
     </div>

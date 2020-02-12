@@ -39,7 +39,9 @@
        				<div class="col-md-1"></div>
  					<div class="col-md-2">
  						<div class="card">
- 						  	<img src="images/layton.jpg" class="card-img-top" alt="Photograph of Layton Methodist Church, taken from Talbot Road.">
+ 						  	<img src="images/layton.jpg" class="card-img-top"
+ 						  		alt="Photograph of Layton Methodist Church, taken from Talbot Road"
+ 						  		title="Layton Methodist Church">
  						  	<div class="card-body">
  								<h3 class="card-title">Layton Methodist Church</h3>
  								<br />
@@ -59,7 +61,9 @@
 
 					<div class="col-md-2">
 						<div class="card">
-						  	<img src="images/marton.jpg" class="card-img-top" alt="Photograph of Marton Methodist Church.">
+						  	<img src="images/marton.jpg" class="card-img-top"
+						  		alt="Photograph of Marton Methodist Church"
+						  		title="Marton Methodist Church">
 						  	<div class="card-body">
 								<h3 class="card-title">Marton Methodist Church</h3>
 								<br />
@@ -79,7 +83,9 @@
 
 					<div class="col-md-2">
 						<div class="card">
-						  	<img src="images/newcentral.jpg" class="card-img-top" alt="Photograph of New Central Methodist Church.">
+						  	<img src="images/newcentral.jpg" class="card-img-top"
+						  	title="New Central Methodist Church"
+						  	alt="Photograph of New Central Methodist Church">
 						  	<div class="card-body">
 								<h3 class="card-title">New Central Methodist Church</h3>
 								<br />
@@ -99,7 +105,9 @@
 
        				<div class="col-md-2">
 						<div class="card">
-						  	<img src="images/highfield.jpg" class="card-img-top" alt="Photograph of Highfield Methodist Church taken from Mayfield Avenue.">
+						  	<img src="images/highfield.jpg" class="card-img-top"
+						  		alt="Photograph of South Shore Methodist Community Church (Mayfield Avenue)"
+						  		title="South Shore Methodist Community Church (Mayfield Avenue)">
 						  	<div class="card-body">
 								<h3 class="card-title">South Shore Methodist Community Church <br />(Mayfield Avenue)</h3>
 						   		<p class="card-text card-sub-heading">Sunday service:</p>
@@ -117,7 +125,9 @@
 
       				<div class="col-md-2">
 						<div class="card">
-						  	<img src="images/lindale.jpg" class="card-img-top" alt="Photograph of Lindale Methodist Church taken from Dorritt Road.">
+						  	<img src="images/lindale.jpg" class="card-img-top"
+						  		alt="Photograph of South Shore Methodist Community Church (Dorritt Road)"
+						  		title="South Shore Methodist Community Church (Dorritt Road)">
 						  	<div class="card-body">
 								<h3 class="card-title">South Shore Methodist Community Church <br />(Dorritt Road)</h3>
 						   		<p class="card-text card-sub-heading">Sunday service:</p>

@@ -5,11 +5,6 @@
       <change afterPath="$PROJECT_DIR$/public/templates/history/marton.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index-proper.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index-proper.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages/highfield.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/pages/highfield.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages/layton.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/pages/layton.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages/lindale.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/pages/lindale.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages/marton.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/pages/marton.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages/newcentral.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/pages/newcentral.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/templates/history/adelaide-st.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/history/adelaide-st.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/templates/history/ebenezer.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/history/ebenezer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/templates/history/highfield.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/history/highfield.php" afterDir="false" />
@@ -150,6 +145,7 @@
     <MESSAGE value="Revisions for Blackpool Circuit following review" />
     <MESSAGE value="Revisions for Blackpool Circuit following review - north shore history" />
     <MESSAGE value="Revisions for Blackpool Circuit following review - add history" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revisions for Blackpool Circuit following review - add history" />
+    <MESSAGE value="add title attribute to images" />
+    <option name="LAST_COMMIT_MESSAGE" value="add title attribute to images" />
   </component>
 </project>
