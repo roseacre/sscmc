@@ -22,6 +22,16 @@
 
         <p class="general-text">1889 - The new church opened on 14 June 1889 and the old church was then used as a school.</p>
 
+        <p class="general-text">1895 - Kelly’s Directory (Lancashire), page 107, details
+        'The Wesleyan chapel, Rawcliffe Street, South Shore, opened in 1889, in a mixed Gothic style; the tower is not yet completed;
+        the cost, including the organ was £5,050, and there is accommodation for 700 persons; there is a memorial window to the late
+        Francis Parnell in the chancel at the West end; there are two other memorial windows, one given by Thomas Ward, the other by
+        William Kenyon in memory of his mother.'</p>
+
+		<p class="general-text">1924 - Kelly’s Directory (Lancashire), page 194, details
+		'The Wesleyan Methodist Chapel, Rawcliffe Steet, South Shore, opened in 1889, is in the Gothic style; there are memorial windows
+		to Francis Parnell and others, and sittings for 700 persons.'</p>
+
         <p class="general-text">1971 – Rawcliffe Street Methodist Church was closed on 25 July 1971, and demolished in 1972. The church had been
         replaced by Clarence Court flats by 1974.</p>
 

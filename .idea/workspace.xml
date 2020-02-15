@@ -2,18 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e656c261-74e9-4cc3-84c1-10a39d0a0b15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/templates/history/marton.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index-proper.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index-proper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pages/history.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/pages/history.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/templates/history/adelaide-st.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/history/adelaide-st.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/templates/history/chapel-st.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/history/chapel-st.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/templates/history/ebenezer.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/history/ebenezer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/templates/history/highfield.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/history/highfield.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/templates/history/lindale.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/history/lindale.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/templates/history/north-shore-closure-gazette.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/history/north-shore-closure-gazette.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/templates/history/layton.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/history/layton.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/templates/history/marton.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/history/marton.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/templates/history/north-shore.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/history/north-shore.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/templates/history/raikes-parade.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/history/raikes-parade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/templates/history/waterloo-rd.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/history/waterloo-rd.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/templates/pastoral-team.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/pastoral-team.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -146,6 +143,7 @@
     <MESSAGE value="Revisions for Blackpool Circuit following review - north shore history" />
     <MESSAGE value="Revisions for Blackpool Circuit following review - add history" />
     <MESSAGE value="add title attribute to images" />
-    <option name="LAST_COMMIT_MESSAGE" value="add title attribute to images" />
+    <MESSAGE value="add title attribute to images and additional history" />
+    <option name="LAST_COMMIT_MESSAGE" value="add title attribute to images and additional history" />
   </component>
 </project>

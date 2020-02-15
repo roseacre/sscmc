@@ -6,23 +6,34 @@
 	</div>
 	<div class="col-md-6">
 		<p class="general-text padded-top">1875 - a Trust was formed to purchase land bounded by Dickson Road and Cocker Street</p>
-        <p class="general-text">1888 – the Mount Pleasant Wesleyan Chapel opened on July 3rd 1888.
+        <p class="general-text">1888 – the Mount Pleasant Wesleyan Chapel opened on 3 July 1888.</p>
+
+		<p class="general-text">1895 - Kelly’s Directory (Lancashire), page 109, the Places of Worship section includes:
+		'Wesleyan, Dickson Road, North Shore; 10:30 am & 6:30pm; Wed 7pm, seats 350'.</p>
 
         <p class="general-text">1899 - Major William Hinksman gave the Trustees a gift of the land adjoining the site.
-        A new Trust was formed on December 29th 1899 with the intention of building a new Church and school, utilising the whole
+        A new Trust was formed on 29 December 1899 with the intention of building a new Church and school, utilising the whole
         of the land.</p>
 	</div>
 </div>
 
 <div class="row">
 	<div class="col-md-12">
-		<p class="general-text padded-top">1906 - Foundation Stones were officially laid April 4th 1906 by
+
+		<p class="general-text padded-top">1906 - Foundation Stones were officially laid on 4 April 1906 by
 		Alderman Joseph Heap J.P., Mrs. Farrar, Mr. R. Hughes, Mr. W. Robinson, Rev. H.R. Glanville, and Mr. Wm. Thompson J.P.</p>
 
-		<p class="general-text">The Church was built by Messrs. S. Butterworth & Sons Ltd, the architect, a Mr. George Payton of Birmingham.</p>
+		<p class="general-text">The Church was built by Messrs. S. Butterworth & Sons Ltd, the architect, a Mr. George Payton of Birmingham.
+		It is built in red brick, with ashlar dressings, an octagonal tower and a 4-bay nave.</p>
 
-		<p class="general-text">1907 - Mrs. Wm. Thompson opened the Church on April 24th 1907, in the presence of
+		<p class="general-text">1907 - Mrs. Wm. Thompson opened the Church on 24 April 1907, in the presence of
 		Rev. Albert Clayton, the president of the Wesleyan Methodist Church.</p>
+
+		<p class="general-text">1924 - Kelly’s Directory (Lancashire), page 194, details
+		'The Unitarian Chapel in Dickson Road, North Shore, is an edifice in the Gothic style, built in 1883 and will seat 280 persons.'</p>
+
+		<p class="general-text">1998 - the Church became a Statutory Grade 2 Listed Building on 27 August 1998.</p>
+		<p class="general-text">2018 - the Church closed on 30 September 2018.</p>
 	</div>
 </div>
 

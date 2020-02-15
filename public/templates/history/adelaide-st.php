@@ -3,6 +3,9 @@
         <div>
             <p class="general-text padded-top">1835 – the first Wesleyan chapel, able to accommodate 250 to 300 worshippers, was erected in Adelaide Street.
             In 1852, when more school accommodation was required, a larger school was erected facing into Bank Hey Street.</p>
+
+			<p class="general-text">1848 - Slater’s Directory (Lancashire), page 25, the Places of Worship section includes:
+             'Independent Chapel, Bonny’s Lane, (ministers various)' and 'Wesleyan Chapel, Bank Hey St (ministers various)'.</p>
         </div>
     </div>
 </div>
@@ -29,6 +32,12 @@
 			title="Central Methodist Chapel">
 	</div>
     <div class="col-md-6">
+		<p class="general-text padded-top">1869 - Slater’s Directory (Lancashire), page 95, the Places of Worship section includes:
+		'Methodist (United) Chapel, Adelaide St, Rev Joseph Baton' and
+        'Methodist (Wesleyan) Chapel, Adelaide St, Rev James Parks'.</p>
+		<p class="general-text padded-top">1895 - Kelly’s Directory (Lancashire), page 109, the Places of Worship section includes:
+		'Wesleyan, Bank Hey Street and Adelaide Street, Rev J Holland Brown; 10:30am & 6:30pm; Tues 7pm; seats 750' and
+        'Methodist Free Church, Adelaide Street, Rev James Stubbs Palmer; 10:30 am & 6:30pm; Tues & Thurs 7:30pm, seats 600'.</p>
     </div>
 </div>
 

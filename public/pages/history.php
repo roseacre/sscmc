@@ -23,10 +23,6 @@ include '../templates/head-subpage.php';
 
                 <div class="general-text">
 
-                	<p>When John Roskell, a veteran of the Napoleonic Wars, came to live at Little Carleton, he and Robert Bird
-                	established a Methodist Class Meeting at Bonny’s Bathing House on the South Beach. When the community outgrew
-                	those premises, they relocated to a large room at Robert Bird’s bazaar (where the Tower now stands).</p>
-
                     <p>The Fylde was originally served by Methodist ministers from Preston, but, in 1811, it was included in the
                     new Garstang Wesleyan Circuit. In 1855, the circuit was renamed the Blackpool and Garstang Wesleyan Circuit.</p>
 
