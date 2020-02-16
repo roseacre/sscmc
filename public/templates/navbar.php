@@ -81,6 +81,11 @@
 									<a class="dropdown-item" href="http://northfyldemethodistcircuit.org.uk/">North Fylde Methodist Circuit</a>
 								</div>
 							</li>
+
+							<li class="nav-item" id="navbar-item-contact">
+								<a id="navbar-link-contact" class="nav-link" href="pages/contact-us.php">Contact us</a>
+							</li>
+
                         </ul>
                     </div>
                 </nav>

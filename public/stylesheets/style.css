@@ -103,6 +103,7 @@ a.footer-link:focus, a.footer-link:hover {
 #navbardrop-newcentral:hover,
 #navbardrop-ssmcc:hover,
 #navbardrop-useful-links:hover,
+#navbar-link-contact:hover,
 #navbar-link-home:focus,
 #navbardrop-about:focus,
 #navbar-link-highfield:focus,
@@ -112,6 +113,7 @@ a.footer-link:focus, a.footer-link:hover {
 #navbardrop-newcentral:focus,
 #navbardrop-ssmcc:focus,
 #navbardrop-useful-links:focus,
+#navbar-link-contact:focus,
 #navbar-link-home:active,
 #navbardrop-about:active,
 #navbar-link-highfield:active,
@@ -120,7 +122,8 @@ a.footer-link:focus, a.footer-link:hover {
 #navbardrop-marton:active,
 #navbardrop-newcentral:active,
 #navbardrop-ssmcc:active,
-#navbardrop-useful-links:active
+#navbardrop-useful-links:active,
+#navbar-link-contact:active,
 {
     color: white;
 }
@@ -133,7 +136,8 @@ a.footer-link:focus, a.footer-link:hover {
 #navbardrop-marton,
 #navbardrop-newcentral,
 #navbardrop-ssmcc,
-#navbardrop-useful-links
+#navbardrop-useful-links,
+#navbar-link-contact
 {
     color: black;
 }
@@ -363,4 +367,27 @@ a.accessibility-link:hover, a.accessibility-link:focus {
 
 img#logo:focus,img#logo:hover {
 	background-color: white;
+}
+
+.col-form-label {
+font-size: 1.4em
+}
+
+a#lnk100 {
+	color: white;
+}
+
+a#lnk100:focus a#lnk100:hover {
+	color: white;
+	background-color: white;
+}
+
+.hidden {
+	display: none;
+}
+
+.feedback {
+    font-size: 2.0em;
+    font-weight: bold:
+    color: black
 }

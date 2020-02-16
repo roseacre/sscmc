@@ -11,12 +11,12 @@
        			<?php include 'templates/banner.php';?>
 
        			<div class="row space-above">
-       				<div class="col-md-2"></div>
-       				<div class="col-md-8">
+       				<div class="col-md-4"></div>
+       				<div class="col-md-4">
        				<img src="images/website-under-development.jpg" alt="The Blackpool Methodist Circuit website underdevelopment" class="center">
       				</div>
 
- 					<div class="col-md-2">
+ 					<div class="col-md-4">
  					</div>
        			</div>
        			<div class="row space-above">
