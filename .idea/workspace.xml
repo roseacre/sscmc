@@ -3,19 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="e656c261-74e9-4cc3-84c1-10a39d0a0b15" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/contactform.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/contactscript.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/form.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index-proper.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index-proper.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages/highfield.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/pages/highfield.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages/lindale.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/pages/lindale.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/templates/highfield-announcements.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/highfield-announcements.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/templates/highfield-diary.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/highfield-diary.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/templates/highfield-groups.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/highfield-groups.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pages/layton.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/pages/layton.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pages/marton.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/pages/marton.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pages/newcentral.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/pages/newcentral.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/templates/navbar-subpage.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/navbar-subpage.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/templates/navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/navbar.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/thanks.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -151,6 +143,7 @@
     <MESSAGE value="add title attribute to images and additional history" />
     <MESSAGE value="add history" />
     <MESSAGE value="add contact form and google analytics" />
-    <option name="LAST_COMMIT_MESSAGE" value="add contact form and google analytics" />
+    <MESSAGE value="Change address of Highfield Methodist Church" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change address of Highfield Methodist Church" />
   </component>
 </project>

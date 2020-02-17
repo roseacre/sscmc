@@ -131,7 +131,7 @@ include '../templates/head-subpage.php';
 		</div>
 		<div class="col-md-8">
 			<p class="ssmcc-text indented-sub-page padded-top" id-"facebook-link-title">
-				<a href="https://www.facebook.com/laytonmethodist/">
+				<a href="https://www.facebook.com/laytonmethodist/" rel="noopener noreferrer" target="_blank">
 				<img src="../images/fb-icon.jpg" alt="Facebook logo">
 				Find Layton Methodist Church on Facebook</a>
 			</p>
