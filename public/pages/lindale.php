@@ -128,7 +128,7 @@ include '../templates/head-subpage.php';
 			<p class="ssmcc-text padded-top">10:30 am every Sunday</p>
 			<p class="padded-top ssmcc-text">Please note that South Shore Methodist Community Church periodically celebrates joint services.
             	You can check the Dorritt Road site events diary by clicking the Events and Services button below or the
-                <a href="../pages/highfield.php#title-services">Mayfield Road site events diary</a> if you want to confirm service times.</p>
+                <a href="../pages/highfield.php#title-services">Scarsdale Road site events diary</a> if you want to confirm service times.</p>
 
 			<div class="panel-group space-above" id="accordion2">
 				<div class="panel panel-default">

@@ -66,7 +66,7 @@
 									South Shore
 								</a>
 								<div class="dropdown-menu">
-									<a class="dropdown-item" href="../pages/highfield.php">About SSMCC - Mayfield Avenue</a>
+									<a class="dropdown-item" href="../pages/highfield.php">About SSMCC - Scarsdale Avenue</a>
 									<a class="dropdown-item" href="../pages/lindale.php">About SSMCC - Dorritt Road</a>
 								</div>
 							</li>

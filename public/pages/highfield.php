@@ -2,7 +2,7 @@
 <html lang="en">
 
 <?php
-$title = "South Shore Methodist Community Church (Mayfield Avenue)";
+$title = "South Shore Methodist Community Church (Scarsdale Avenue)";
 include '../templates/head-subpage.php';
 ?>
 
@@ -19,7 +19,7 @@ include '../templates/head-subpage.php';
         </div>
         <div class="col-md-10">
 			<h2 class="padded-top" id="page-subheading">
-				South Shore Methodist Community Church (Mayfield Avenue)
+				South Shore Methodist Community Church (Scarsdale Avenue)
 			</h2>
 		</div>
 	</div>
@@ -30,8 +30,8 @@ include '../templates/head-subpage.php';
 
 		<div class="col-md-8">
 			<img src="../images/highfield.jpg" class="resized-image"
-				alt="Photograph of South Shore Methodist Community Church (Mayfield Avenue)"
-				title="South Shore Methodist Community Church (Mayfield Avenue)">
+				alt="Photograph of South Shore Methodist Community Church (Scarsdale Avenue)"
+				title="South Shore Methodist Community Church (Scarsdale Avenue)">
 
 			<div class="panel-group space-above" id="accordion">
 				<div class="panel panel-default">
@@ -82,12 +82,12 @@ include '../templates/head-subpage.php';
 
 		<div class="col-md-2">
 			<h3 class="padded-top indented-h3" id="title-contact-details">Contact Details</h3>
-			<p class="ssmcc-text indented-subpage padded-top" id="address-1">Mayfield Avenue</p>
+			<p class="ssmcc-text indented-subpage padded-top" id="address-1">Scarsdale Avenue</p>
 			<p class="ssmcc-text indented-subpage" id="address-2">Blackpool</p>
 			<p class="ssmcc-text indented-subpage" id="address-3">FY4 2NP</p>
 			<br />
 			<p class="ssmcc-text indented-subpage padded-top" id="title-phone"> Telephone:</p>
-			<p class="ssmcc-text indented-subpage" id="telephone-1"><a href="tel:01253111111">01253 111111</a> </p>
+			<p class="ssmcc-text indented-subpage" id="telephone-1"><a href="tel:01253344789">01253 344789</a> </p>
 		</div>
 		<div class="col-md-6">
 			<div id="mapDivH" class="collapse padded">
@@ -108,7 +108,7 @@ include '../templates/head-subpage.php';
 		</div>
 		<div class="col-md-3">
 			<button id="mapButton" href="#mapDivH" class="btn padded" data-toggle="collapse">
-            	View or hide a map of <br /> South Shore Methodist Community Church (Mayfield Avenue)
+            	View or hide a map of <br /> South Shore Methodist Community Church (Scarsdale Avenue)
             </button>
 		</div>
 	</div>
@@ -129,7 +129,7 @@ include '../templates/head-subpage.php';
 			<h3 class="padded-top" id="title-services">Services</h3>
 			<p class="ssmcc-text padded-top">10:30 am every Sunday</p>
 			<p class="padded-top ssmcc-text">Please note that South Shore Methodist Community Church periodically celebrates joint services.
-            	You can check the events diary for the Mayfield Avenue site by clicking the Events and Services button below or the
+            	You can check the events diary for the Scarsdale Avenue site by clicking the Events and Services button below or the
                 <a href="../pages/lindale.php#title-services">Dorritt Road site events diary</a> if you want to confirm service times.</p>
 
 			<div class="panel-group space-above" id="accordion2">

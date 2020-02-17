@@ -106,19 +106,19 @@
        				<div class="col-md-2">
 						<div class="card">
 						  	<img src="images/highfield.jpg" class="card-img-top"
-						  		alt="Photograph of South Shore Methodist Community Church (Mayfield Avenue)"
-						  		title="South Shore Methodist Community Church (Mayfield Avenue)">
+						  		alt="Photograph of South Shore Methodist Community Church (Scarsdale Avenue)"
+						  		title="South Shore Methodist Community Church (Scarsdale Avenue)">
 						  	<div class="card-body">
-								<h3 class="card-title">South Shore Methodist Community Church <br />(Mayfield Avenue)</h3>
+								<h3 class="card-title">South Shore Methodist Community Church <br />(Scarsdale Avenue)</h3>
 						   		<p class="card-text card-sub-heading">Sunday service:</p>
 						   		<p class="card-text">10:30 am</p>
 						   		<p class="card-text card-sub-heading">Address:</p>
-						   		<p class="card-text card-address">Mayfield Avenue</p>
+						   		<p class="card-text card-address">Scarsdale Avenue</p>
 						   		<p class="card-text card-address">Blackpool</p>
 						   		<p class="card-text card-address">FY4 2NP</p>
 						  	</div>
 						  	<div class="card-body">
-						  		<a class="card-link btn" href="pages/highfield.php?location=1">View more about SSMCC (Mayfield Avenue) »</a>
+						  		<a class="card-link btn" href="pages/highfield.php?location=1">View more about SSMCC (Scarsdale Avenue) »</a>
 						  	</div>
 						</div>
       				</div>
