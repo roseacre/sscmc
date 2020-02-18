@@ -45,7 +45,8 @@
     </div>
     <div class="col-md-6">
     	<p class="general-text padded-top">Framed and glazed, illuminated roll of honour for Waterloo Road Methodist Mission, with details on
-    	<a href="https://www.warmemorialsonline.org.uk/memorial/205337/">warmemorialsonline.org.uk</a></p>
+    	<a href="https://www.warmemorialsonline.org.uk/memorial/205337/" rel="noopener noreferrer" target="_blank">War Memorials Online
+    	(opens in new window)</a></p>
     	<p class="general-text">The names recorded are: Harold Leach, Donald S Smith, Robert Foulkes, Harold Mottershead, Norman Tugwell,
     	Arthur Waterhouse, Alan Smith, Eric A. Price, Gordon Trenery, James McKay, Harry Fisher, Eric George Holland, Leonard Howarth,
     	Douglas Fisher, John D. Gee, Norman Howarth, Charles Aldersley, Donald Crowther, Robert N. McKay, Cedric Stansfield, Bernard Stansfield.</p>

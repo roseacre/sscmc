@@ -133,7 +133,7 @@ include '../templates/head-subpage.php';
 			<p class="ssmcc-text indented-sub-page padded-top" id-"facebook-link-title">
 				<a href="https://www.facebook.com/newcentralblackpool" rel="noopener noreferrer" target="_blank">
 				<img src="../images/fb-icon.jpg" alt="Facebook logo">
-				Find New Central Methodist Church on Facebook</a>
+				Find New Central Methodist Church on Facebook (opens in new window)</a>
 			</p>
 		</div>
 	</div>
@@ -145,7 +145,7 @@ include '../templates/head-subpage.php';
 			<p class="ssmcc-text indented-sub-page padded-top" id-"new-central-www-link-title">
 				<a href="http://newcentralmethodistchurch.weebly.com/" rel="noopener noreferrer" target="_blank">
 				<img src="../images/browsers.jpg" alt="browser logos">
-				Find New Central Methodist Church on the Internet</a>
+				Find New Central Methodist Church on the Internet (opens in new window)</a>
 			</p>
 		</div>
 	</div>

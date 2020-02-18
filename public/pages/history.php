@@ -34,7 +34,7 @@ include '../templates/head-subpage.php';
 
                     <p>Currently, the Fylde is served by the Blackpool Methodist Circuit and the North Fylde Methodist Circuit.
                     The Blackpool Methodist Circuit comprises the four churches in South Shore, Marton, Laytopn and Central Blackpool. The
-                    <a href="http://www.northfyldemethodistcircuit.org.uk/churches">North Fylde Methodist Circuit</a> comprises seven churches in
+                    <a href="http://www.northfyldemethodistcircuit.org.uk/churches" rel="noopener noreferrer" target="_blank">North Fylde Methodist Circuit</a> comprises seven churches in
                     Pilling, Knott End, Poulton Le Fylde, Thornton Cleveleys, and Fleetwood.</p>
 
                     <p>The area covered by the present Blackpool Methodist Circuit has been served by a number of churches over the years.

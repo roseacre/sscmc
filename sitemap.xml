@@ -1,42 +1,96 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-	<!--  index  -->
-	<url>
-		<loc>https://www.something.something.com/</loc>
-		<changefreq>weekly</changefreq>
-		<priority>1.00</priority>
-	</url>
-
+<urlset
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>https://www.something.something.com/highfield.php</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-    </url>
-    <url>
-        <loc>https://www.something.something.com/lindale.php</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-    </url>
-    <url>
-        <loc>https://www.something.something.com/ssmcc-about.php</loc>
-        <priority>0.7</priority>
-    </url>
-    <url>
-        <loc>https://www.something.something.com/ssmcc-contact-us.php</loc>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://www.something.something.com/ssmcc-diary.php</loc>
-        <changefreq>weekly</changefreq>
+        <loc>http://blackpoolmethodist.org.uk/</loc>
         <priority>1.00</priority>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
-        <loc>https://www.something.something.com/ssmcc-hall-hire.php</loc>
-        <priority>0.8</priority>
+        <loc>http://blackpoolmethodist.org.uk/index.php</loc>
+        <priority>1.00</priority>
+        <changefreq>monthly</changefreq>
     </url>
     <url>
-        <loc>https://www.something.something.com/ssmcc-history.php</loc>
-        <priority>0.5</priority>
+        <loc>http://blackpoolmethodist.org.uk/pages/about-faith.php</loc>
+        <priority>0.80</priority>
+        <changefreq>monthly</changefreq>
     </url>
-
+    <url>
+        <loc>http://blackpoolmethodist.org.uk/pages/about-pastoral.php</loc>
+        <priority>0.80</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://blackpoolmethodist.org.uk/pages/history.php</loc>
+        <priority>0.80</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://blackpoolmethodist.org.uk/pages/gallery.php</loc>
+        <priority>0.80</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://blackpoolmethodist.org.uk/pages/layton.php</loc>
+        <priority>0.80</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://blackpoolmethodist.org.uk/pages/marton.php</loc>
+        <priority>0.80</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://blackpoolmethodist.org.uk/pages/newcentral.php</loc>
+        <priority>0.80</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://blackpoolmethodist.org.uk/pages/highfield.php</loc>
+        <priority>0.80</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://blackpoolmethodist.org.uk/pages/lindale.php</loc>
+        <priority>0.80</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://blackpoolmethodist.org.uk/pages/contact-us.php</loc>
+        <priority>0.80</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://blackpoolmethodist.org.uk/pages/layton.php?location=1</loc>
+        <priority>0.80</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://blackpoolmethodist.org.uk/pages/marton.php?location=1</loc>
+        <priority>0.80</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://blackpoolmethodist.org.uk/pages/newcentral.php?location=1</loc>
+        <priority>0.80</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://blackpoolmethodist.org.uk/pages/highfield.php?location=1</loc>
+        <priority>0.80</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://blackpoolmethodist.org.uk/pages/lindale.php?location=1</loc>
+        <priority>0.80</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://blackpoolmethodist.org.uk/pages/accessibility.php</loc>
+        <priority>0.80</priority>
+        <changefreq>monthly</changefreq>
+    </url>
 </urlset>

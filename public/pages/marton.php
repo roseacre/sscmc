@@ -132,7 +132,7 @@ include '../templates/head-subpage.php';
 			<p class="ssmcc-text indented-sub-page padded-top" id-"facebook-link-title">
 				<a href="https://www.facebook.com/pages/Marton-Methodist-Church-Migeland-Road-Blackpool/200143949996674" rel="noopener noreferrer" target="_blank">
 				<img src="../images/fb-icon.jpg" alt="Facebook logo">
-				Find Marton Methodist Church on Facebook</a>
+				Find Marton Methodist Church on Facebook (opens in new window)</a>
 			</p>
 		</div>
 	</div>

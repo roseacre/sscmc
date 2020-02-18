@@ -36,7 +36,7 @@
 								</a>
 								<div class="dropdown-menu">
 									<a class="dropdown-item" href="../pages/layton.php">About Layton Methodist Church</a>
-									<a class="dropdown-item" href="https://www.facebook.com/laytonmethodist/" rel="noopener noreferrer" target="_blank">Layton Methodist Church on Facebook</a>
+									<a class="dropdown-item" href="https://www.facebook.com/laytonmethodist/" rel="noopener noreferrer" target="_blank">Layton Methodist Church on Facebook (opens in new window)</a>
 								</div>
 							</li>
 
@@ -46,7 +46,8 @@
 								</a>
 								<div class="dropdown-menu">
 									<a class="dropdown-item" href="../pages/marton.php">About Marton Methodist Church</a>
-									<a class="dropdown-item" href="https://www.facebook.com/pages/Marton-Methodist-Church-Migeland-Road-Blackpool/200143949996674" rel="noopener noreferrer" target="_blank">Marton Methodist Church on Facebook</a>
+									<a class="dropdown-item" href="https://www.facebook.com/pages/Marton-Methodist-Church-Migeland-Road-Blackpool/200143949996674" rel="noopener noreferrer" target="_blank">
+									Marton Methodist Church on Facebook (opens in new window)</a>
 								</div>
 							</li>
 
@@ -56,8 +57,8 @@
 								</a>
 								<div class="dropdown-menu">
 									<a class="dropdown-item" href="../pages/newcentral.php">About New Central Methodist Church</a>
-									<a class="dropdown-item" href="https://www.facebook.com/newcentralblackpool" rel="noopener noreferrer" target="_blank">New Central Methodist Church on Facebook</a>
-									<a class="dropdown-item" href="http://newcentralmethodistchurch.weebly.com/" rel="noopener noreferrer" target="_blank">New Central on the Internet</a>
+									<a class="dropdown-item" href="https://www.facebook.com/newcentralblackpool" rel="noopener noreferrer" target="_blank">New Central Methodist Church on Facebook (opens in new window)</a>
+									<a class="dropdown-item" href="http://newcentralmethodistchurch.weebly.com/" rel="noopener noreferrer" target="_blank">New Central on the Internet (opens in new window)</a>
 								</div>
 							</li>
 
@@ -76,9 +77,9 @@
 									Useful links
 								</a>
 								<div class="dropdown-menu">
-									<a class="dropdown-item" href="http://www.methodist.org.uk/" rel="noopener noreferrer" target="_blank">The Methodist Church in Briain</a>
-									<a class="dropdown-item" href="http://www.lancashiremethodist.org.uk/" rel="noopener noreferrer" target="_blank">Lancashire Methodist District</a>
-									<a class="dropdown-item" href="http://northfyldemethodistcircuit.org.uk/" rel="noopener noreferrer" target="_blank">North Fylde Methodist Circuit</a>
+									<a class="dropdown-item" href="http://www.methodist.org.uk/" rel="noopener noreferrer" target="_blank">The Methodist Church in Briain (opens in new window)</a>
+									<a class="dropdown-item" href="http://www.lancashiremethodist.org.uk/" rel="noopener noreferrer" target="_blank">Lancashire Methodist District (opens in new window)</a>
+									<a class="dropdown-item" href="http://northfyldemethodistcircuit.org.uk/" rel="noopener noreferrer" target="_blank">North Fylde Methodist Circuit (opens in new window)</a>
 								</div>
 							</li>
 
