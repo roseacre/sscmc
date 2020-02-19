@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e656c261-74e9-4cc3-84c1-10a39d0a0b15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages/history.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/pages/history.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages/layton.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/pages/layton.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages/marton.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/pages/marton.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages/newcentral.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/pages/newcentral.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/templates/history/waterloo-rd.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/history/waterloo-rd.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/templates/navbar-subpage.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/navbar-subpage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/templates/navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/navbar.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/templates/highfield-groups.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/highfield-groups.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -149,6 +142,7 @@
     <MESSAGE value="add contact form and google analytics" />
     <MESSAGE value="Change address of Highfield Methodist Church" />
     <MESSAGE value="open links in new window" />
-    <option name="LAST_COMMIT_MESSAGE" value="open links in new window" />
+    <MESSAGE value="amendments following 2nd review" />
+    <option name="LAST_COMMIT_MESSAGE" value="amendments following 2nd review" />
   </component>
 </project>

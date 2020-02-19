@@ -391,3 +391,14 @@ a#lnk100:focus a#lnk100:hover {
     font-weight: bold:
     color: black
 }
+
+.group-title {
+	font-weight: 600;
+	font-size: 1.6em;
+	padding-left: .3em;
+}
+
+.group-padding {
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
