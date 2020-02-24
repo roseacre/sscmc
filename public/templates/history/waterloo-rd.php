@@ -1,11 +1,15 @@
 <div class="row">
 	<div class="col-md-12">
-		<p class="general-text padded-top">1911 - Waterloo Road Wesleyan Mission opened on 24 May 1911, at Spen Corner, on the first floor of a shop
+		<h2 class="padded-top">
+    		History of Waterloo Road Methodist Church
+    	</h2>
+
+		<p class="general-text padded-top"><span class="bold">1911</span> - Waterloo Road Wesleyan Mission opened on 24 May 1911, at Spen Corner, on the first floor of a shop
 		at 195 to 199 Ansdell Road (then known as Bloomfield Road).</p>
-		<p class="general-text">1914 - An iron mission hall, on the Waterloo Road - Arnott Road junction, was purchased from the
+		<p class="general-text"><span class="bold">1914</span> - An iron mission hall, on the Waterloo Road - Arnott Road junction, was purchased from the
 		Free Christian Church on 20 January 1914. The worshippers moved into the hall immediately, referring to it as the ‘Tin Church’.</p>
 
-		<p class="general-text">In 1931, the congregation moved into a new building adjoining the old Mission Hall.</p>
+		<p class="general-text"><span class="bold">1931</span> - the congregation moved into a new building adjoining the old Mission Hall.</p>
 	</div>
 </div>
 
@@ -29,10 +33,11 @@
     		title="Interior of Waterloo Road Methodist Church">
 	</div>
     <div class="col-md-6">
-    	<p class="general-text padded-top">1956 - In September 1956, the newly-built Waterloo Road Methodist Church opened.
+    	<p class="general-text padded-top"><span class="bold">1956</span> - In September 1956, the newly-built Waterloo Road Methodist Church opened.
     	The tin hut was retained for use by church groups.</p>
-    	<p class="general-text">1996 - The 1914 hut was replaced by a brick building and six Methodist Housing Corporation homes.</p>
-        <p class="general-text">2017 – the church closed, due to falling congregation numbers, and the building was sold.</p>
+    	<p class="general-text"><span class="bold">1996</span> - The 1914 hut was replaced by a brick building and six Methodist Housing Corporation homes.</p>
+        <p class="general-text"><span class="bold">2017</span> – joined with Highfield Methodist Church and Lindale Methodist Church to
+           form South Shore Methodist Community Church. Waterloo Methodist Church closed and the building was sold.</p>
 
 	</div>
 </div>

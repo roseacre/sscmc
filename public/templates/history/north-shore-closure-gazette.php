@@ -2,7 +2,7 @@
     <div class="col-md-12">
 
         <div>
-			<p class="general-text">Blackpool Gazette, Monday, 24th September 2018</p>
+			<p class="general-text padded-top">Blackpool Gazette, Monday, 24th September 2018</p>
 
 			<p class="general-text">A prominent Blackpool church will close at the end of this month After 111 years of being a place of worship.</p>
         	<img src="../images/history/north-shore-gazette-picture1.png" class="resized-image padded"

@@ -1,4 +1,9 @@
 <div class="row">
+
+	<h2 class="padded-top">
+		History of Grosvenor Street Wesleyan Methodist Church
+	</h2>
+
 	<div class="col-md-6">
     	<img src="../images/history/grosvenor-st.png" class="resized-image padded" alt="Photograph of Grosvenor Street Methodist Church.">
 	</div>

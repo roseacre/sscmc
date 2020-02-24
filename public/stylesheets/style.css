@@ -229,6 +229,11 @@ a.footer-link:focus, a.footer-link:hover {
     padding-bottom: 1em;
 }
 
+.padding-side {
+	padding-left: 2.5em;
+	padding-right: 2.5em;
+}
+
 .padded-top {
     padding-top: 1em;
 }
@@ -401,4 +406,14 @@ a#lnk100:focus a#lnk100:hover {
 .group-padding {
 	padding-top: 1em;
 	padding-bottom: 1em;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.center {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
 }

@@ -93,4 +93,61 @@
         <priority>0.80</priority>
         <changefreq>monthly</changefreq>
     </url>
+
+    <url>
+        <loc>http://blackpoolmethodist.org.uk/pages/history-central.php</loc>
+        <priority>0.70</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://blackpoolmethodist.org.uk/pages/history-chapel-st.php</loc>
+        <priority>0.70</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://blackpoolmethodist.org.uk/pages/history-ebenezer.php</loc>
+        <priority>0.70</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://blackpoolmethodist.org.uk/pages/history-grosvenor-st.php</loc>
+        <priority>0.70</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://blackpoolmethodist.org.uk/pages/history-highfield.php</loc>
+        <priority>0.70</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://blackpoolmethodist.org.uk/pages/history-layton.php</loc>
+        <priority>0.70</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://blackpoolmethodist.org.uk/pages/history-lindale.php</loc>
+        <priority>0.70</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://blackpoolmethodist.org.uk/pages/history-marton.php</loc>
+        <priority>0.70</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://blackpoolmethodist.org.uk/pages/history-north-shore.php</loc>
+        <priority>0.70</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://blackpoolmethodist.org.uk/pages/history-raikes-parade.php</loc>
+        <priority>0.70</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://blackpoolmethodist.org.uk/pages/history-waterloo-rd.php</loc>
+        <priority>0.70</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
 </urlset>
