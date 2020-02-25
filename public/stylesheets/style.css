@@ -8,6 +8,11 @@ a:hover, a:focus {
 	background-color: #c8102e;
 }
 
+a.nav-link:hover, a.nav-link:focus {
+	color: white;
+	background-color: #c8102e;
+}
+
 body {
     font-size: .8em;
 }
@@ -94,55 +99,12 @@ a.footer-link:focus, a.footer-link:hover {
 }
 
 /*nav*/
-#navbar-link-home:hover,
-#navbardrop-about:hover,
-#navbar-link-highfield:hover,
-#navbardrop-layton:hover,
-#navbar-link-lindale:hover,
-#navbardrop-marton:hover,
-#navbardrop-newcentral:hover,
-#navbardrop-ssmcc:hover,
-#navbardrop-useful-links:hover,
-#navbar-link-contact:hover,
-#navbar-link-home:focus,
-#navbardrop-about:focus,
-#navbar-link-highfield:focus,
-#navbardrop-layton:focus,
-#navbar-link-lindale:focus,
-#navbardrop-marton:focus,
-#navbardrop-newcentral:focus,
-#navbardrop-ssmcc:focus,
-#navbardrop-useful-links:focus,
-#navbar-link-contact:focus,
-#navbar-link-home:active,
-#navbardrop-about:active,
-#navbar-link-highfield:active,
-#navbardrop-layton:active,
-#navbar-link-lindale:active,
-#navbardrop-marton:active,
-#navbardrop-newcentral:active,
-#navbardrop-ssmcc:active,
-#navbardrop-useful-links:active,
-#navbar-link-contact:active,
-{
-    color: white;
-}
 
-#navbar-link-home,
-#navbardrop-about,
-#navbar-link-highfield,
-#navbardrop-layton,
-#navbar-link-lindale,
-#navbardrop-marton,
-#navbardrop-newcentral,
-#navbardrop-ssmcc,
-#navbardrop-useful-links,
-#navbar-link-contact
-{
+.nav-link {
     color: black;
 }
 
-.nav-link {
+.link-text {
     color: black;
 }
 
@@ -157,7 +119,7 @@ a.footer-link:focus, a.footer-link:hover {
     border-radius: .4em;
 }
 
-.nav-link:active, .nav-link:hover, .nav-link:focus {
+.link-text:active, .link-text:hover, .link-text:focus {
     color: white;
 }
 
@@ -416,4 +378,59 @@ a#lnk100:focus a#lnk100:hover {
   display:block;
   margin-left:auto;
   margin-right:auto;
+}
+
+
+
+
+/* styles for the gallery */
+
+* {
+  box-sizing: border-box;
+}
+
+/* Center website */
+.main {
+  max-width: 1000px;
+  margin: auto;
+}
+
+.row {
+  margin: 8px -16px;
+}
+
+/* Add padding BETWEEN each column (if you want) */
+.row,
+.row > .column {
+  padding: 8px;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  display: none; /* Hide columns by default */
+}
+
+/* Clear floats after rows */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Content */
+.content {
+  background-color: white;
+  padding: 10px;
+}
+
+/* The "show" class is added to the filtered elements */
+.show {
+  display: block;
+}
+
+.btn-margin {
+	margin-top: .5em;
+	margin-bottom: .5em;
 }
