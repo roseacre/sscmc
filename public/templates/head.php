@@ -19,6 +19,6 @@
     <meta name="author" content="F E Evans">
 
 	<!-- Stylesheets -->
-    <link rel="stylesheet" href="stylesheets/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="stylesheets/bootstrap/bootstrap.css">
     <link rel="stylesheet" href="stylesheets/style.css">
 </head>

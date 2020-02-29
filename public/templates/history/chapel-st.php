@@ -58,9 +58,23 @@
 
 
 <div class="row">
-	<div class="col-md-12">
+    <div class="col-md-6">
+    	<img src="../images/history/chapel-st-window.jpg" class="resized-image padded"
+    		alt="stained glass Second World War memorial window"
+    		title="Second World War Memorial, Chapel Street Methodist Church">
+    </div>
+    <div class="col-md-6">
+    	<p class="general-text padded-top">There's a stained glass window, that used to be in Chapel Street Methodist Church, which is
+    	currently located on the interior rear wall of New Central Methodist Church. Details can be found on
+    	<a href="https://www.warmemorialsonline.org.uk/memorial/72241/">warmemorialsonline.org.uk</a></p>
+		<p class="general-text"> The window is a memorial to the congregation members who lost their lives in the Second World War.
+		It is in two parts. The upper comprises a vertical rectangular panel in stained glass, possibly depicting the blessing of
+		St George by an Angel. It includes a scroll bearing the words ‘Glory to God & on Earth peace’.
+		Another scroll contains the words: ‘So they passed over and all the trumpets sounded for them on the/ other side ‘.</.p>
+
+		<p class="general-text"> The lower rectangular panel contains the inscription:
+		‘In remembrance of the men associated with this Church and Sunday School who gave their lives in the Great War 1939 – 45’
+		and lists names of the fallen.</p>
 
     </div>
 </div>
-
-

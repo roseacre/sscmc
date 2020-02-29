@@ -22,4 +22,40 @@
 
 </div>
 
+<div class="row">
+    <div class="col-md-12">
+    	<p class="general-text padded-top">There's a black granite memorial tablet set into the wall of Marton Methodist Church, with details on
+    	<a href="https://www.warmemorialsonline.org.uk/memorial/51371/">warmemorialsonline.org.uk</a></p>
+		<p class="general-text">The memorial was moved when the original Methodist church closed and a new one was built.</p>
 
+    	<p class="general-text">The inscription reads: ‘This tablet was erected by subscription by the inhabitants of Marton to the
+    	perpetual memory of those brave men from this parish who fell in the European War 1914 – 1918’</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+    	<img src="../images/history/marton-tablet.jpg" class="resized-image padded"
+    		alt="Black granite tablet listing Marton’s First World War dead"
+    		title="First World War Memorial, Marton Methodist Church">
+    </div>
+    <div class="col-md-6">
+		<p class="general-text">The names are recorded on the memorial in two columns.</p>
+		<p class="general-text">On the left hand side are listed:
+		Herbert ASHWORTH, William ATKINSON, Ralph BARROW, Fred BOLTON,
+		James BLAYLOCK, William BLAYLOCK, Thomas BOARDMAN,
+		John BRAITHWAITE, Thomas BRAITHWAITE, William BRAITHWAITE,
+		Robert BROCKBANK, Louis BUCKLEY, John CARDWELL, Henry CROSS,
+		Edward Baynes DIXON,
+		James DUGDALE D.C.M, M.M., William H FITZGERALD, Thomas HILL,
+		Arthur HOBSON </p>
+
+		<p class="general-text">On the right hand side, the names are:
+		George W HILTON, William KIRKHAM, Edward LEEMING, Ralph PARKINSON,
+		Ernest PEARSON, Frank RICHARDSON, George RAWCLIFFE,
+		Richard ROSSALL, Edward SANDERSON, Thomas H SANDERSON,
+		Robert SANDERSON, John SINGLETON, William SWARBRICK,
+		Richard TOWNSEND, Arthur VASEY, Percy WARREN, John WHITESIDE,
+		William WHITESIDE, Arthur WHITELEY</p>
+    </div>
+</div>

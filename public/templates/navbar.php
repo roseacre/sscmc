@@ -2,7 +2,7 @@
 
     <div class="row">
         <div class="col-md-12">
-			<nav class="navbar navbar-expand-lg bg-light ssmcc-text" id="navigation-bar">
+			<nav class="navbar navbar-expand-lg bg-light navbar-light ssmcc-text" id="navigation-bar">
              <!-- toggler -->
 			  <button id="navbar-toggler" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
 			  	aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -12,7 +12,7 @@
 			  <div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<ul class="navbar-nav mr-auto">
 
-				  <li class="nav-item active" id="navbar-item-home">
+				  <li class="nav-item" id="navbar-item-home">
 					<a id="navbar-link-home" class="nav-link link-text" href="index.php">Home <span class="sr-only">(current)</span></a>
 				  </li>
 

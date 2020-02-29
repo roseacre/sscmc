@@ -6,11 +6,13 @@ a {
 a:hover, a:focus {
 	color: white;
 	background-color: #c8102e;
+	border-radius: .4em;
 }
 
 a.nav-link:hover, a.nav-link:focus {
 	color: white;
 	background-color: #c8102e;
+	border-radius: .4em;
 }
 
 body {
@@ -31,6 +33,10 @@ h3 {
     font-size: 1.7em;
 }
 
+img {
+	border-radius: .4em;
+}
+
 label {
     font-size: 1.4em;
 }
@@ -40,12 +46,14 @@ label {
 	width: 35%;
 	padding-bottom: .5em;
 	margin-left: -0.9em;
+	border-radius: .4em;
 }
 
 .resized-image {
 	width: 100%;
 	padding-bottom: .5em;
 	padding-top: 2em;
+	border-radius: .4em;
 }
 
 /*banner*/
@@ -147,6 +155,7 @@ a.footer-link:focus, a.footer-link:hover {
     cursor: pointer !important;
     background-color: #c8102e !important;
     padding-top: .5em;
+    border-radius: .4em;
 }
 
 .panel-heading:hover, .panel-heading:active {
@@ -303,11 +312,15 @@ a.footer-link:focus, a.footer-link:hover {
 .accessibility-link {
 	color: white;
 	text-decoration: underline;
+	padding-top: 1em;
+	padding-bottom: 1em;
 }
 
 a.accessibility-link:hover, a.accessibility-link:focus {
 	color: white;
 	background-color: black;
+	padding-top: 1em;
+    padding-bottom: 1em;
 }
 
 .large-centered {
@@ -330,6 +343,7 @@ a.accessibility-link:hover, a.accessibility-link:focus {
 
 #logo {
 	background-color: white;
+	border-radius: 0;
 }
 
 img#logo:focus,img#logo:hover {
@@ -433,4 +447,8 @@ a#lnk100:focus a#lnk100:hover {
 .btn-margin {
 	margin-top: .5em;
 	margin-bottom: .5em;
+}
+
+table {
+	border-radius: .4em;
 }

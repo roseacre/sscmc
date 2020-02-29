@@ -2,24 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e656c261-74e9-4cc3-84c1-10a39d0a0b15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/images/history/chapel-st-window.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/history/marton-tablet.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/history/north-shore-ww1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/history/old-central.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/history/raikes-memorial1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/history/raikes-memorials.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/history/raikes-roll-of-honour.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/history/raikes-ww2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/history/rawcliffe-interior.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/history/rawcliffe-memorial1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/history/rawcliffe-memorial2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/history/rawcliffe-memorial3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/javascript/gallery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/templates/gallery-script-subpage.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/templates/gallery/gallery-template.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages/gallery.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/pages/gallery.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/history/chapel-st-window.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/history/chapel-st-window.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/history/marton-tablet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/history/marton-tablet.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/bootstrap/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/bootstrap/bootstrap.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/templates/head-subpage.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/head-subpage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/templates/head.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/head.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/templates/history/chapel-st.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/history/chapel-st.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/templates/history/marton.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/history/marton.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/templates/navbar-subpage.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/navbar-subpage.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/templates/navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/navbar.php" afterDir="false" />
     </list>
@@ -161,6 +152,7 @@
     <MESSAGE value="open links in new window" />
     <MESSAGE value="amendments following 2nd review" />
     <MESSAGE value="amendments following 2nd review - reformat history" />
-    <option name="LAST_COMMIT_MESSAGE" value="amendments following 2nd review - reformat history" />
+    <MESSAGE value="amendments following 2nd review - reformat nav bar, add gallery" />
+    <option name="LAST_COMMIT_MESSAGE" value="amendments following 2nd review - reformat nav bar, add gallery" />
   </component>
 </project>
