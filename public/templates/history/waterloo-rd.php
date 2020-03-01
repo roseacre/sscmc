@@ -15,12 +15,12 @@
 
 <div class="row">
 	<div class="col-md-6">
-        <img src="../images/history/waterloo-rd1.png" class="resized-image padded"
+        <img src="../images/history/waterloo-rd1.png"
         	alt="Photograph of Waterloo Road Methodist Church"
         	title="Waterloo Road Methodist Church">
 	</div>
 	<div class="col-md-6">
-        <img src="../images/history/waterloo-rd2.png" class="resized-image padded"
+        <img src="../images/history/waterloo-rd2.png"
         	alt="Photograph of Waterloo Road Methodist Church"
         	title="Waterloo Road Methodist Church">
 	</div>
@@ -28,12 +28,12 @@
 
 <div class="row">
     <div class="col-md-6">
-    	<img src="../images/history/waterloo-rd-interior.png" class="resized-image padded"
+    	<img src="../images/history/waterloo-rd-interior.png"
     		alt="Photograph of interior of Waterloo Road Methodist Church"
     		title="Interior of Waterloo Road Methodist Church">
 	</div>
     <div class="col-md-6">
-    	<p class="general-text padded-top"><span class="bold">1956</span> - In September 1956, the newly-built Waterloo Road Methodist Church opened.
+    	<p class="general-text"><span class="bold">1956</span> - In September 1956, the newly-built Waterloo Road Methodist Church opened.
     	The tin hut was retained for use by church groups.</p>
     	<p class="general-text"><span class="bold">1996</span> - The 1914 hut was replaced by a brick building and six Methodist Housing Corporation homes.</p>
         <p class="general-text"><span class="bold">2017</span> – joined with Highfield Methodist Church and Lindale Methodist Church to
@@ -44,7 +44,7 @@
 
 <div class="row">
     <div class="col-md-6">
-    	<img src="../images/history/waterloo-rd-roll-of-honour.jpg" class="resized-image padded"
+    	<img src="../images/history/waterloo-rd-roll-of-honour.jpg"
     		alt="Framed roll of honour for Waterloo Road Methodist Mission"
     		title="Roll of honour, Waterloo Road Methodist Mission">
     </div>

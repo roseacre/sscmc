@@ -5,7 +5,8 @@
 	</h2>
 
 	<div class="col-md-6">
-    	<img src="../images/history/grosvenor-st.png" class="resized-image padded" alt="Photograph of Grosvenor Street Methodist Church.">
+    	<img src="../images/history/grosvenor-st.png" alt="Photograph of Grosvenor Street Methodist Church"
+    		title="Grosvenor Street Methodist Church">
 	</div>
 
     <div class="col-md-6">

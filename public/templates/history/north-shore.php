@@ -1,16 +1,16 @@
 <div class="row">
 
-	<h2 class="padded-top">
+	<h2 class="padded">
 		History of North Shore (Dickson Road) Methodist Church
 	</h2>
 
 	<div class="col-md-6">
-		<img src="../images/history/north-shore-exterior.png" class="resized-image padded"
+		<img src="../images/history/north-shore-exterior.png"
 			alt="Photograph of North Shore Methodist Church"
 			title="North Shore Methodist Church">
 	</div>
 	<div class="col-md-6">
-		<p class="general-text padded-top"><span class="bold">1875</span> - a Trust was formed to purchase land bounded by Dickson Road and Cocker Street</p>
+		<p class="general-text"><span class="bold">1875</span> - a Trust was formed to purchase land bounded by Dickson Road and Cocker Street</p>
         <p class="general-text"><span class="bold">1888</span> – the Mount Pleasant Wesleyan Chapel opened on 3 July 1888.</p>
 
 		<p class="general-text"><span class="bold">1895</span> - Kelly’s Directory (Lancashire), page 109, the Places of Worship section includes:
@@ -58,12 +58,12 @@
 
 <div class="row">
 	<div class="col-md-6">
-        <img src="../images/history/north-shore-window1.jpg" class="resized-image space-above"
+        <img src="../images/history/north-shore-window1.jpg"
         	alt="Photograph of stained glass window."
         	title="Stained glass window in North Shore Methodist Church">
 	</div>
 	<div class="col-md-6">
-        <img src="../images/history/north-shore-window2.jpg" class="resized-image space-above"
+        <img src="../images/history/north-shore-window2.jpg"
         	alt="Photograph of cross sihouetted in stained glass window"
         	title="Stained glass window in North Shore Methodist Church">
 	</div>
@@ -71,12 +71,12 @@
 
 <div class="row">
 	<div class="col-md-6">
-        <img src="../images/history/north-shore-interior.png" class="resized-image padded"
+        <img src="../images/history/north-shore-interior.png"
         	alt="Photograph of interior of North Shore Methodist Church"
         	title="Interior of North Shore Methodist Church">
 	</div>
 	<div class="col-md-6">
-        <img src="../images/history/north-shore-organ-pipes.jpg" class="resized-image padded"
+        <img src="../images/history/north-shore-organ-pipes.jpg"
         	alt="Photograph of organ pipes"
         	title="Organ pipes in North Shore Methodist Church">
 	</div>

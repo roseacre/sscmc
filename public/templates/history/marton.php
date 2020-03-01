@@ -35,7 +35,7 @@
 
 <div class="row">
     <div class="col-md-6">
-    	<img src="../images/history/marton-tablet.jpg" class="resized-image padded"
+    	<img src="../images/history/marton-tablet.jpg"
     		alt="Black granite tablet listing Marton’s First World War dead"
     		title="First World War Memorial, Marton Methodist Church">
     </div>

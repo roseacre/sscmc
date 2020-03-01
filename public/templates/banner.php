@@ -6,7 +6,7 @@
 			<div class="nav-brand">
 				<a href="http://www.methodist.org.uk">
 					<img alt="The Methodist Church Logo"
-						class="resized-image-35 nav-border-1" id="logo"
+						class="resized-image-35 nav-border-1 rounded-0" id="logo"
                         src="images/re_methodist_logo_lowres.gif">
                 </a>
 			</div>

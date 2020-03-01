@@ -15,7 +15,7 @@ include '../templates/head-subpage.php';
 
 
     <div class="row">
-    	<div class="col-md-1">
+    	<div class="col-md-2">
         </div>
         <div class="col-md-10">
 			<h2 class="padded-top" id="page-subheading">
@@ -29,7 +29,7 @@ include '../templates/head-subpage.php';
 		</div>
 
 		<div class="col-md-8">
-			<img src="../images/newcentral.jpg" class="resized-image"
+			<img src="../images/newcentral.jpg"
 				alt="Photograph of New Central Methodist Church"
 				title="New Central Methodist Church">
 
@@ -132,7 +132,7 @@ include '../templates/head-subpage.php';
 		<div class="col-md-8">
 			<p class="ssmcc-text indented-sub-page padded-top" id-"facebook-link-title">
 				<a href="https://www.facebook.com/newcentralblackpool" rel="noopener noreferrer" target="_blank">
-				<img src="../images/fb-icon.jpg" alt="Facebook logo">
+				<img src="../images/fb-icon.jpg" alt="Facebook logo" class="resized-image-10">
 				Find New Central Methodist Church on Facebook (opens in new window)</a>
 			</p>
 		</div>
@@ -144,7 +144,7 @@ include '../templates/head-subpage.php';
 		<div class="col-md-8">
 			<p class="ssmcc-text indented-sub-page padded-top" id-"new-central-www-link-title">
 				<a href="http://newcentralmethodistchurch.weebly.com/" rel="noopener noreferrer" target="_blank">
-				<img src="../images/browsers.jpg" alt="browser logos">
+				<img src="../images/browsers.jpg" alt="browser logos" class="resized-image-10">
 				Find New Central Methodist Church on the Internet (opens in new window)</a>
 			</p>
 		</div>

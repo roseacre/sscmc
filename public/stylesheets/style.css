@@ -34,7 +34,10 @@ h3 {
 }
 
 img {
-	border-radius: .4em;
+	border-radius: .4em !important;
+    -moz-border-radius: .4em;
+    -webkit-border-radius: .4em;
+    width: 100%;
 }
 
 label {
@@ -46,14 +49,10 @@ label {
 	width: 35%;
 	padding-bottom: .5em;
 	margin-left: -0.9em;
-	border-radius: .4em;
 }
 
-.resized-image {
-	width: 100%;
-	padding-bottom: .5em;
-	padding-top: 2em;
-	border-radius: .4em;
+.resized-image-10 {
+	width: 10%;
 }
 
 /*banner*/

@@ -15,7 +15,7 @@ include '../templates/head-subpage.php';
 
 
     <div class="row">
-    	<div class="col-md-1">
+    	<div class="col-md-2">
         </div>
         <div class="col-md-10">
 			<h2 class="padded-top" id="page-subheading">
@@ -29,7 +29,7 @@ include '../templates/head-subpage.php';
 		</div>
 
 		<div class="col-md-8">
-			<img src="../images/lindale.jpg" class="resized-image"
+			<img src="../images/lindale.jpg"
 				alt="Photograph of South Shore Methodist Community Church (Dorritt Road)"
 				title="South Shore Methodist Community Church (Dorritt Road)">
 

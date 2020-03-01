@@ -4,7 +4,8 @@
 		</h2>
 
 	<div class="col-md-6">
-        <img src="../images/history/chapel_st.jpg" class="resized-image padded" alt="Photograph of Chapel Street Primitive Methodist Church.">
+        <img src="../images/history/chapel_st.jpg" alt="Photograph of Chapel Street Primitive Methodist Church."
+        	title="Chapel Street Methodist Church">
 	</div>
 
     <div class="col-md-6">
@@ -59,12 +60,12 @@
 
 <div class="row">
     <div class="col-md-6">
-    	<img src="../images/history/chapel-st-window.jpg" class="resized-image padded"
+    	<img src="../images/history/chapel-st-window.jpg"
     		alt="stained glass Second World War memorial window"
     		title="Second World War Memorial, Chapel Street Methodist Church">
     </div>
     <div class="col-md-6">
-    	<p class="general-text padded-top">There's a stained glass window, that used to be in Chapel Street Methodist Church, which is
+    	<p class="general-text">There's a stained glass window, that used to be in Chapel Street Methodist Church, which is
     	currently located on the interior rear wall of New Central Methodist Church. Details can be found on
     	<a href="https://www.warmemorialsonline.org.uk/memorial/72241/">warmemorialsonline.org.uk</a></p>
 		<p class="general-text"> The window is a memorial to the congregation members who lost their lives in the Second World War.

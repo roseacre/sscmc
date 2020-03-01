@@ -16,13 +16,13 @@
 
 <div class="row">
 	<div class="col-md-6">
-		<img src="../images/history/adelaide_st.jpg" class="resized-image padded"
+		<img src="../images/history/adelaide_st.jpg"
 			alt="Black and white photograph of Adelaide Street Methodist Church"
 			title="Adelaide Street Methodist Church">
 	</div>
     <div class="col-md-6">
         <div>
-			<p class="general-text padded-top"><span class="bold">1861</span> - As Blackpool expanded, there was a need for a larger church. The foundation stones of a new building were laid on
+			<p class="general-text"><span class="bold">1861</span> - As Blackpool expanded, there was a need for a larger church. The foundation stones of a new building were laid on
 			November 1st 1861 and the Central Methodist Chapel was opened on the 4th July 1862.</p>
         </div>
 
@@ -31,12 +31,12 @@
 
 <div class="row">
 	<div class="col-md-6">
-		<img src="../images/history/central.jpg" class="resized-image padded"
+		<img src="../images/history/central.jpg"
 			alt="Black and white extract from a publication showing the Central Methodist Chapel"
 			title="Central Methodist Chapel">
 	</div>
     <div class="col-md-6">
-		<p class="general-text padded-top"><span class="bold">1869</span> - Slater’s Directory (Lancashire), page 95, the Places of Worship section includes:
+		<p class="general-text"><span class="bold">1869</span> - Slater’s Directory (Lancashire), page 95, the Places of Worship section includes:
 		'Methodist (United) Chapel, Adelaide St, Rev Joseph Baton' and
         'Methodist (Wesleyan) Chapel, Adelaide St, Rev James Parks'.</p>
 		<p class="general-text padded-top"><span class="bold">1895</span> - Kelly’s Directory (Lancashire), page 109, the Places of Worship section includes:

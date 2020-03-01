@@ -5,10 +5,11 @@
 		</h2>
 
 	<div class="col-md-6">
-		<img src="../images/history/ebenezer-rawcliffe-st1.png" class="resized-image padded" alt="Black and white sketch of Rawcliffe Street Methodist Church.">
+		<img src="../images/history/ebenezer-rawcliffe-st1.png" alt="Black and white sketch of Rawcliffe Street Methodist Church."
+			title="Rawcliffe Street Methodist Church">
 	</div>
 	<div class="col-md-6">
-    	<img src="../images/history/ebenezer-rawcliffe-st2.png" class="resized-image padded"
+    	<img src="../images/history/ebenezer-rawcliffe-st2.png"
     		alt="Black and white photo of interior of Rawcliffe Street Methodist Church"
     		title="Interior of Rawcliffe Street Methodist Church">
 	</div>
