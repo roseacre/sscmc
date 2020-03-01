@@ -263,6 +263,7 @@ a.footer-link:focus, a.footer-link:hover {
 /*cards*/
 .card-body {
 	padding: .5em;
+	felx: none;
 }
 
 .card-text {
@@ -297,6 +298,7 @@ a.footer-link:focus, a.footer-link:hover {
 .card {
 	padding-top: 1.5em;
 }
+
 
 /*other*/
 .form-control {

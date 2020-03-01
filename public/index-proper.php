@@ -35,17 +35,14 @@
        				</div>
        			</div>
 
-       			<div class="row space-above">
-       				<div class="col-md-1"></div>
- 					<div class="col-md-2">
- 						<div class="card">
+				<div class="row space-above text-center">
+ 					<div class="col-lg px-1">
+ 						<div class="card d-flex h-100 align-items-stretch">
  						  	<img src="images/layton.jpg" class="card-img-top"
  						  		alt="Photograph of Layton Methodist Church, taken from Talbot Road"
  						  		title="Layton Methodist Church">
  						  	<div class="card-body">
- 								<h3 class="card-title">Layton Methodist Church</h3>
- 								<br />
- 								<br />
+ 								<h3 class="card-title font-weight-bold">Layton Methodist Church</h3>
  								<p class="card-text card-sub-heading">Sunday service:</p>
  						   		<p class="card-text">10:45 am</p>
 						   		<p class="card-text card-sub-heading">Address:</p>
@@ -53,21 +50,19 @@
 								<p class="card-text card-address">Blackpool</p>
 								<p class="card-text card-address">FY3 7DZ</p>
  						  	</div>
- 						  	<div class="card-body">
- 						  		<a class="card-link btn" href="pages/layton.php?location=1">View more about Layton Methodist Church »</a>
+ 						  	<div class="card-body align-items-end">
+ 						  		<a class="card-link btn text-center w-100" href="pages/layton.php?location=1">View more about <br />Layton Methodist Church »</a>
  						  	</div>
  						</div>
  					</div>
 
-					<div class="col-md-2">
-						<div class="card">
+					<div class="col-lg px-1">
+						<div class="card d-flex h-100 align-items-stretch">
 						  	<img src="images/marton.jpg" class="card-img-top"
 						  		alt="Photograph of Marton Methodist Church"
 						  		title="Marton Methodist Church">
 						  	<div class="card-body">
-								<h3 class="card-title">Marton Methodist Church</h3>
-								<br />
-								<br />
+								<h3 class="card-title font-weight-bold">Marton Methodist Church</h3>
 						   		<p class="card-text card-sub-heading">Sunday service:</p>
 						   		<p class="card-text">10:30 am</p>
 						   		<p class="card-text card-sub-heading">Address:</p>
@@ -75,41 +70,40 @@
 								<p class="card-text card-address">Blackpool</p>
 								<p class="card-text card-address">FY4 5HL</p>
 						  	</div>
-						  	<div class="card-body">
-						  		<a class="card-link btn" href="pages/marton.php?location=1">View more about Marton Methodist Church »</a>
+						  	<div class="card-body align-items-end">
+						  		<a class="card-link btn text-center w-100" href="pages/marton.php?location=1">View more about <br />Marton Methodist Church »</a>
 						  	</div>
 						</div>
 					</div>
-
-					<div class="col-md-2">
-						<div class="card">
-						  	<img src="images/newcentral.jpg" class="card-img-top"
-						  	title="New Central Methodist Church"
-						  	alt="Photograph of New Central Methodist Church">
-						  	<div class="card-body">
-								<h3 class="card-title">New Central Methodist Church</h3>
-								<br />
-								<br />
-						   		<p class="card-text card-sub-heading">Sunday service:</p>
-						   		<p class="card-text">10:30 am</p>
-						   		<p class="card-text card-sub-heading">Address:</p>
+					<div class="col-lg px-1">
+						<div class="card d-flex h-100 align-items-stretch">
+							<img src="images/newcentral.jpg" class="card-img-top"
+								alt="Photograph of New Central Methodist Church"
+								title="New Central Methodist Church">
+							<div class="card-body">
+								<h3 class="card-title font-weight-bold">New Central Methodist Church</h3>
+								<p class="card-text card-sub-heading">Sunday service:</p>
+								<p class="card-text">10:30 am</p>
+								<p class="card-text card-sub-heading">Address:</p>
 								<p class="card-text card-address">Adelaide St West</p>
 								<p class="card-text card-address">Blackpool</p>
 								<p class="card-text card-address">FY1 4SR</p>
-						  	</div>
-						  	<div class="card-body">
-						  		<a class="card-link btn" href="pages/newcentral.php?location=1">View more about New Central Methodist Church »</a>
-						  	</div>
+							</div>
+							<div class="card-body align-items-end">
+								<a class="card-link btn text-center w-100" href="pages/newcentral.php?location=1">View more about <br /> New Central Methodist Church »</a>
+							</div>
 						</div>
 					</div>
-
-       				<div class="col-md-2">
-						<div class="card">
+       			</div>
+       			<div class="row space-above text-center">
+       			    <div class="col-lg-2"></div>
+       				<div class="col-lg-4 px-1">
+						<div class="card d-flex h-100 align-items-stretch">
 						  	<img src="images/highfield.jpg" class="card-img-top"
 						  		alt="Photograph of South Shore Methodist Community Church (Scarsdale Avenue)"
 						  		title="South Shore Methodist Community Church (Scarsdale Avenue)">
 						  	<div class="card-body">
-								<h3 class="card-title">South Shore Methodist Community Church <br />(Scarsdale Avenue)</h3>
+								<h3 class="card-title font-weight-bold">South Shore Methodist Community Church <br />(Scarsdale Avenue)</h3>
 						   		<p class="card-text card-sub-heading">Sunday service:</p>
 						   		<p class="card-text">10:30 am</p>
 						   		<p class="card-text card-sub-heading">Address:</p>
@@ -117,33 +111,32 @@
 						   		<p class="card-text card-address">Blackpool</p>
 						   		<p class="card-text card-address">FY4 2NP</p>
 						  	</div>
-						  	<div class="card-body">
-						  		<a class="card-link btn" href="pages/highfield.php?location=1">View more about SSMCC (Scarsdale Avenue) »</a>
+						  	<div class="card-body align-items-end">
+						  		<a class="card-link btn text-center w-100" href="pages/highfield.php?location=1">View more about <br />SSMCC (Scarsdale Avenue) »</a>
 						  	</div>
 						</div>
       				</div>
 
-      				<div class="col-md-2">
-						<div class="card">
+      				<div class="col-lg-4 px-1">
+						<div class="card d-flex h-100 align-items-stretch">
 						  	<img src="images/lindale.jpg" class="card-img-top"
 						  		alt="Photograph of South Shore Methodist Community Church (Dorritt Road)"
 						  		title="South Shore Methodist Community Church (Dorritt Road)">
 						  	<div class="card-body">
-								<h3 class="card-title">South Shore Methodist Community Church <br />(Dorritt Road)</h3>
+								<h3 class="card-title font-weight-bold">South Shore Methodist Community Church <br />(Dorritt Road)</h3>
 						   		<p class="card-text card-sub-heading">Sunday service:</p>
-						   		<p class="card-text">10:30 am</p>
+						   		<p class="card-text center">10:30 am</p>
 						   		<p class="card-text card-sub-heading">Address:</p>
 								<p class="card-text card-address">Dorritt Road</p>
 								<p class="card-text card-address">Blackpool</p>
 								<p class="card-text card-address">FY4 3PE</p>
 						  	</div>
-						  	<div class="card-body">
-						  		<a class="card-link btn" href="pages/lindale.php?location=1">View more about SSMCC (Dorritt Road)»</a>
+						  	<div class="card-body align-items-end">
+						  		<a class="card-link btn text-center w-100" href="pages/lindale.php?location=1">View more about <br />SSMCC (Dorritt Road) »</a>
 						  	</div>
 						</div>
        				</div>
-
-       				<div class="col-md-1"></div>
+                    <div class="col-lg-2"></div>
        			</div>
 
        			<div class="row">
