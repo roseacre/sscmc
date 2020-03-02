@@ -85,7 +85,7 @@
 					<a class="nav-link dropdown-toggle link-text" href="#" id="navbardrop-useful-links" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 					  Useful Links
 					</a>
-					<div class="dropdown-menu" aria-labelledby="navbardrop-useful-links">
+					<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbardrop-useful-links">
 					  	<a class="dropdown-item" href="pages/contact-us.php">Contact Us</a>
 					  	<div class="dropdown-divider"></div>
 						<a class="dropdown-item" href="http://www.methodist.org.uk/" rel="noopener noreferrer" target="_blank">The Methodist Church in Briain (opens in new window)</a>

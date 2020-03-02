@@ -45,10 +45,14 @@ label {
 }
 
 /*images*/
-.resized-image-35 {
-	width: 35%;
+.resized-image-40 {
+	width: 40%;
 	padding-bottom: .5em;
-	margin-left: -0.9em;
+}
+
+.resized-image-25 {
+	width: 25%;
+	padding-bottom: .5em;
 }
 
 .resized-image-10 {

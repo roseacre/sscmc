@@ -41,7 +41,7 @@ include '../templates/head-subpage.php';
 							   href="#collapse1">Announcements  ▼</a>
 						</h3>
 					</div>
-					<div id="collapse1" class="panel-collapse collapse">
+					<div id="collapse1" class="panel-collapse collapse show">
 						<div class="panel-body">
 							<?php include '../templates/marton-announcements.php'; ?>
 						</div>
