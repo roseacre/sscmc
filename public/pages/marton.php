@@ -47,6 +47,21 @@ include '../templates/head-subpage.php';
 						</div>
 					</div>
 				</div>
+
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						<h3 class="panel-title" id="panel-title-groups">
+							<a class="indented-subpage panel-title" data-toggle="collapse" data-parent="#accordion"
+							   href="#collapse3">Church groups  ▼</a>
+						</h3>
+					</div>
+					<div id="collapse3" class="panel-collapse collapse">
+						<div class="panel-body">
+							<?php include '../templates/marton-groups.php'; ?>
+						</div>
+					</div>
+				</div>
+
 			</div>
 
 		</div>

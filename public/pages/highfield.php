@@ -87,7 +87,7 @@ include '../templates/head-subpage.php';
 			<p class="ssmcc-text indented-subpage" id="address-3">FY4 2NP</p>
 			<br />
 			<p class="ssmcc-text indented-subpage padded-top" id="title-phone"> Telephone:</p>
-			<p class="ssmcc-text indented-subpage" id="telephone-1"><a href="tel:01253344789">01253 344789</a> </p>
+			<p class="ssmcc-text indented-subpage" id="telephone-1"><a href="tel:01253695527">01253 695527</a> </p>
 		</div>
 		<div class="col-md-6">
 			<div id="mapDivH" class="collapse padded">
