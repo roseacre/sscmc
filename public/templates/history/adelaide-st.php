@@ -35,7 +35,15 @@
 			alt="Black and white extract from a publication showing the Central Methodist Chapel"
 			title="Central Methodist Chapel">
 	</div>
-    <div class="col-md-6">
+	<div class="col-md-6">
+		<img src="../images/history/old-central.jpg"
+			alt="Black and white image of Central Methodist Chapel"
+			title="Central Methodist Chapel">
+	</div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
 		<p class="general-text"><span class="bold">1869</span> - Slater’s Directory (Lancashire), page 95, the Places of Worship section includes:
 		'Methodist (United) Chapel, Adelaide St, Rev Joseph Baton' and
         'Methodist (Wesleyan) Chapel, Adelaide St, Rev James Parks'.</p>

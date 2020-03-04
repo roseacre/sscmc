@@ -46,8 +46,49 @@
 
 		<p class="general-text">A memorial plaque, commemorating parishioners lost in World War 1, was discovered in 2008 – in a scrap yard
 		in Kirby Lonsdale. It is currently located in Highfield Methodist Church.</p>
-
 	</div>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+       <img src="../images/history/rawcliffe-memorial1.jpg" class="resized-image padded"
+          alt="Unpolished First World War brass memorial plaque"
+          title="First World War Memorial Plaque, Rawcliffe Street Methodist Church">
+    </div>
+    <div class="col-md-6">
+       <img src="../images/history/rawcliffe-memorial2.jpg" class="resized-image padded"
+          alt="Refurbished First World War brass memorial plaque"
+          title="First World War Memorial Plaque, Rawcliffe Street Methodist Church">
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+       <p class="general-text padded-top">Further details of the First World War memorial plaque are available on
+       <a href="https://www.warmemorialsonline.org.uk/memorial/72269/">warmemorialsonline.org.uk</a></p>
+
+      	<p class="general-text">On restoration, the inscription and names were filled with black wax. The inscription reads:
+			'To the glory of God and in loving memory of the men of this church who gave their lives in the Great War 1914 – 1919.
+			Greater love hath no man than this.'</p>
+      	<p class="general-text">The names on the plaque are as follows: BLEZARD, Thomas , DAVIES, Alan , FOTHERGILL, R Cyril ,
+        	HARRISON, Frank Valentine , LEES, William H , LITTLEMORE, Thomas , NOBLE, William Richard , WHALLEY, Norman . </p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+       <img src="../images/history/rawcliffe-memorial3.jpg" class="resized-image padded"
+          alt="Second World War memorial table"
+          title="Second World War Memorial Table, Rawcliffe Street Methodist Church">
+    </div>
+
+    <div class="col-md-6">
+       <p class="general-text padded-top">The church also contained a wooden WWII memorial table, with more details given on
+       	<a href="https://www.warmemorialsonline.org.uk/memorial/72270/">warmemorialsonline.org.uk</a>.</p>
+
+      	<p class="general-text">An inscription is carved into the large front centre panel. '1939 IN REMEMBRANCE 1945'</p>
+      	<p class="general-text">It is currently located in the  side Chapel of Highfield Methodist Church.</p>
+    </div>
 </div>
 
 
