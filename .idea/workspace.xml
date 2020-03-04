@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e656c261-74e9-4cc3-84c1-10a39d0a0b15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/images/circuit_logo.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/history/raikes-roll-of-honour.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/history/raikes-roll-of-honour.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/history/raikes-ww2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/history/raikes-ww2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/history/rawcliffe-memorial1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/history/rawcliffe-memorial1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/history/rawcliffe-memorial3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/history/rawcliffe-memorial3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/templates/history/adelaide-st.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/history/adelaide-st.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/templates/history/ebenezer.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/history/ebenezer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/templates/history/raikes-parade.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/history/raikes-parade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/history/north-shore-ww1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/history/north-shore-ww1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/templates/history/north-shore.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/history/north-shore.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

@@ -82,3 +82,42 @@
 	</div>
 </div>
 
+<div class="row">
+    <div class="col-md-6">
+    	<p class="general-text padded-top">First World War Memorial Plaque for North Shore Methodist Church, with details on
+    	<a href="https://www.warmemorialsonline.org.uk/memorial/42243/">warmemorialsonline.org.uk</a></p>
+
+		<p class="general-text">It bears the inscription: ‘to the glory of God and in honoured memory of the men of church and school
+		who served their King and Country during the Great War of 1914 - 1918'</p>
+		<p class="general-text">The following names are listed in four columns: </p>
+		<p class="general-text">Abbot, H   ; Airey, H   ; Amber, C C   ; Ambler, G   ;
+			Barclay, R   ; Bennett, A M   ; Berry, J   ; Bleasdale, J   ; Booth, R T   ; Booth, W   ;
+			Boydell, F R   ; Boydell, S H   ; Brooke, W E   ; </p>
+	</div>
+	<div class="col-md-6">
+		<img src="../images/history/north-shore-ww1.jpg" class="resized-image padded"
+			alt=" First World War bronze memorial plaque"
+			title="First World memorial plaque, North Shore Methodist Church">
+	</div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+		<p class="general-text">Clarke, H   ;
+			Davies, G   ; Dewhirst, N   ; Dewhirst, R   ;
+			Fearnhead, E   ; Fletcher, J   ;
+			Goldwin, O   ; Goodman, W   ; Graham, H   ;
+			Hall, J   ; Handy, W   ; Helm, G   ; Hoole, R   ; Howarth, F   ; Humphreys, J E   ; Hurst, H   ;
+			Kemp, C   ; King, H   ; King, W H   ;
+			Lec, J P   ; Lewtas, J   ; Lewtas, J W   ; Lewtas, R   ;
+			Marshall, F   ; Mercer, J   ; Milner, H   ; Milner, J   ; Mitchell, A   ; Mullineux, S   ;
+			Norton, T   ;
+			Owens, J E   ;
+			Parkinson, H P   ; Parkinson, H   ; Parkinson, J   ;
+			Raw, D   ; Riding, H   ; Riley, A E   ; Riley, C S   ; Riley, J A   ; Robinson, E   ; Ross, J   ; Rothwell, A   ; Row, H S   ;
+			Seddon, A   ; Seddon, A H   ; Skinner, G   ; Skinner, R E   ; Smith, A   ; Smith, J W   ; Speight, C   ;
+			Taylor, H   ; Toothill, J   ;
+			Walker, E V   ; Walker, W    Watson, A E   ; Webb, T   ; Wells, G   ; Wilson, G   ; Woodman, C   .
+    </div>
+</div>
+
