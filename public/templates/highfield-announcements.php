@@ -3,7 +3,7 @@
 			Saturday 4th July
 		</p>
 		<p class="general-text font-weight-bold">
-			1940s Musical Evening
+			1940s Musical Afternoon
 		</p>
 		<p class="general-text">
 			details to follow

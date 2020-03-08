@@ -156,7 +156,6 @@ include '../templates/head-subpage.php';
 </div>
 
 <?php include '../templates/scripts-subpage.php'; ?>
-<?php include '../templates/tables-script-subpage.php'; ?>
 <?php include '../templates/panels-script-subpage.php'; ?>
 
 </body>
