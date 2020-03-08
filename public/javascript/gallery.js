@@ -45,3 +45,25 @@ for (var i = 0; i < btns.length; i++) {
     this.className += " active";
   });
 }
+
+//invoke myGallery images to open in the modal window
+$(document).ready(function(){
+$('#myGallery img').on('click',function(){
+	var src = $(this).attr('src');
+	//Get this image and change class to img-responsive
+	var img = '<img src="' + src + '" class="img-fluid"/>';
+	var title = $(this).attr('title');
+	$('#myModal').modal();
+	$('#myModal').on('shown.bs.modal', function(){
+		//write this image into modal-body
+		$('#myModal .modal-body').html(img);
+		//write this image title into modal-footer
+		$('#myModal .modal-footer').html(title);
+	});
+	$('#myModal').on('hidden.bs.modal', function(){
+		//when hidden, empty content from both
+		$('#myModal .modal-body').html('');
+		$('#myModal .modal-footer').html('');
+	});
+});
+});

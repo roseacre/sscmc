@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e656c261-74e9-4cc3-84c1-10a39d0a0b15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/templates/marton-groups.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages/highfield.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/pages/highfield.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages/lindale.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/pages/lindale.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages/marton.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/pages/marton.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascript/gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascript/gallery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/templates/gallery/gallery-template.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/templates/gallery/gallery-template.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -147,11 +146,11 @@
     <MESSAGE value="amendments following 2nd review" />
     <MESSAGE value="amendments following 2nd review - reformat history" />
     <MESSAGE value="amendments following 2nd review - reformat nav bar, add gallery" />
-    <MESSAGE value="amendments following 3rd review" />
     <MESSAGE value="amendments following 3rd review - fix index page card alignments" />
     <MESSAGE value="amendments following 3rd review - rounded corners" />
     <MESSAGE value="amendments following 3rd review - add logo and amend links dropdown menu" />
     <MESSAGE value="amendments following 3rd review - add history" />
-    <option name="LAST_COMMIT_MESSAGE" value="amendments following 3rd review - add history" />
+    <MESSAGE value="amendments following 3rd review" />
+    <option name="LAST_COMMIT_MESSAGE" value="amendments following 3rd review" />
   </component>
 </project>
