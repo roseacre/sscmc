@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    $('#eventsDiary').dataTable({
+    $('#eventsDiary').DataTable({
         "lengthChange": false,
         "searching": false,
         "columnDefs": [{
@@ -11,6 +11,6 @@ $(document).ready(function () {
         }, {
             "targets": [2],
             "orderData": [2, 0, 1]
-         }]
+        }]
     });
 });

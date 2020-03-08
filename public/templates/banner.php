@@ -1,30 +1,33 @@
-<div class="row">
+<?php include 'snippets/skip-to-main.php'; ?>
+
+<div class="row align-items-end mb-0 pb-0">
+	<div class="col-md">
+		<div class="nav-brand">
+			<a href="http://www.methodist.org.uk">
+				<img alt="The Methodist Church Logo"
+					class="resized-image-40 nav-border-1 rounded-0" id="logo"
+					src="images/re_methodist_logo_lowres.gif">
+			</a>
+		</div>
+	</div>
+	<div class="col-md">
+		<div class="nav-brand">
+				<img alt="The Blackpool Methodist Circuit Logo"
+					class="resized-image-25 rounded-0 float-right py-0 pr-0, my-0, mr-0" id="circuit-logo"
+					src="images/circuit_logo.jpg">
+			</a>
+		</div>
+    </div>
+</div>
+
+<div class="row mt-0">
 	<div class="col-md-12">
-		<nav class="navbar" role="navigation">
-			<div>			 
-				<a class="navbar-brand" href="http://www.methodist.org.uk/">
-					<img alt="The Methodist Church Logo, featuring the words 'The Methodist Church' alongside a white cross on a red orb."
-						class="resized-image-35 nav-border-1"
-                        src="images/re_methodist_logo_lowres.gif">
-				</a>				
-			</div>
-			<form class="navbar-form search-form" role="search">
-				<div class="form-group">
-                    <label for="search">Search our site: </label>
-					<input type="text" class="form-control"  id="search"/>
-				</div> 
-				<button type="submit" class="btn btn-default">
-					Search »
-				</button>
-			</form>
-		</nav>
-					
 		<div>
 			<div class="banner">
 				<h1 class="banner-heading">
-					South Shore Methodist Community Church
+					The Blackpool Methodist Circuit
 				</h1>
-				<p class="banner-text">Two buildings, one Methodist community</p>
+				<p class="banner-text">Linking the individual churches in The Blackpool Methodist Circuit</p>
 			</div>
 		</div>
     </div>

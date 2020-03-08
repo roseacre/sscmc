@@ -2,7 +2,7 @@
 <html lang="en">
 
 <?php
-$title = "SSMCC Lindale Site";
+$title = "South Shore Methodist Community Church (Dorritt Road)";
 include '../templates/head-subpage.php';
 ?>
 
@@ -11,143 +11,150 @@ include '../templates/head-subpage.php';
 <div class="container">
 
     <?php include '../templates/banner-subpage.php'; ?>
-    <?php include '../templates/ssmcc-links-subpage.php'; ?>
+    <?php include '../templates/navbar-subpage.php'; ?>
 
 
-    <div class="panel-group" id="accordion">
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion"
-                       href="#collapse1">Sunday Worship  ▼</a>
-                </h4>
-            </div>
-            <div id="collapse1" class="panel-collapse collapse">
-                <div class="panel-body">
-                    <?php include '../templates/lindale-worship.php'; ?>
-                </div>
-            </div>
+    <div class="row">
+    	<div class="col-md-2">
         </div>
+        <div class="col-md-10">
+			<h2 class="padded-top" id="page-subheading">
+				South Shore Methodist Community Church (Dorritt Road)
+			</h2>
+		</div>
+	</div>
 
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion"
-                       href="#collapse2">Midweek Services  ▼</a>
-                </h4>
-            </div>
-            <div id="collapse2" class="panel-collapse collapse">
-                <div class="panel-body">
-                    <?php include '../templates/lindale-midweek.php'; ?>
-                </div>
-            </div>
-        </div>
+	<div class="row">
+		<div class="col-md-2">
+		</div>
 
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion"
-                       href="#collapse3">Dates for your diary  ▼</a>
-                </h4>
-            </div>
-            <div id="collapse3" class="panel-collapse collapse">
-                <div class="panel-body">
-                    <?php include '../templates/lindale-diary.php'; ?>
-                </div>
-            </div>
-        </div>
+		<div class="col-md-8">
+			<img src="../images/lindale.jpg"
+				alt="Photograph of South Shore Methodist Community Church (Dorritt Road)"
+				title="South Shore Methodist Community Church (Dorritt Road)">
 
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion"
-                       href="#collapse4">Church groups  ▼</a>
-                </h4>
-            </div>
-            <div id="collapse4" class="panel-collapse collapse">
-                <div class="panel-body">
-                    <?php include '../templates/lindale-groups.php'; ?>
-                </div>
-            </div>
-        </div>
+			<div class="panel-group space-above" id="accordion">
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						<h3 class="panel-title" id="panel-title-announcements">
+							<a class="indented-subpage panel-title" data-toggle="collapse" data-parent="#accordion"
+							   href="#collapse1">Announcements  ▼</a>
+						</h3>
+					</div>
+					<div id="collapse1" class="panel-collapse collapse">
+						<div class="panel-body">
+							<?php include '../templates/lindale-announcements.php'; ?>
+						</div>
+					</div>
+				</div>
 
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion"
-                       href="#collapse5">Announcements  ▼</a>
-                </h4>
-            </div>
-            <div id="collapse5" class="panel-collapse collapse">
-                <div class="panel-body">
-                    <?php include '../templates/lindale-announcements.php'; ?>
-                </div>
-            </div>
-        </div>
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						<h3 class="panel-title" id="panel-title-groups">
+							<a class="indented-subpage panel-title" data-toggle="collapse" data-parent="#accordion"
+							   href="#collapse3">Church groups  ▼</a>
+						</h3>
+					</div>
+					<div id="collapse3" class="panel-collapse collapse">
+						<div class="panel-body">
+							<?php include '../templates/lindale-groups.php'; ?>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion"
-                       href="#collapse6">Church history  ▼</a>
-                </h4>
-            </div>
-            <div id="collapse6" class="panel-collapse collapse">
-                <div class="panel-body">
-                    <?php include '../templates/lindale-history.php'; ?>
-                </div>
-            </div>
-        </div>
+	<div class="row space-above">
+		<div class="col-md-1">
+    	</div>
 
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion"
-                       href="#collapse7">Gallery  ▼</a>
-                </h4>
-            </div>
-            <div id="collapse7" class="panel-collapse collapse">
-                <div class="panel-body">
-                    <?php include '../templates/lindale-gallery.php'; ?>
-                </div>
-            </div>
-        </div>
+		<div class="col-md-10">
+			<div class="separator"></div>
+		</div>
+	</div>
 
-<!--        <div class="panel panel-default">-->
-<!--            <div class="panel-heading">-->
-<!--                <h4 class="panel-title">-->
-<!--                    <a data-toggle="collapse" data-parent="#accordion"-->
-<!--                       href="#collapse7">Something else  ▼</a>-->
-<!--                </h4>-->
-<!--            </div>-->
-<!--            <div id="collapse7" class="panel-collapse collapse">-->
-<!--                <div class="panel-body">-->
-<!---->
-<!---->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--        <div class="panel panel-default">-->
-<!--            <div class="panel-heading">-->
-<!--                <h4 class="panel-title">-->
-<!--                    <a data-toggle="collapse" data-parent="#accordion"-->
-<!--                       href="#collapse8">Another category  ▼</a>-->
-<!--                </h4>-->
-<!--            </div>-->
-<!--            <div id="collapse8" class="panel-collapse collapse">-->
-<!--                <div class="panel-body">-->
-<!---->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-    </div>
+	<div class="row">
+		<div class="col-md-2">
+		</div>
+
+		<div class="col-md-2">
+			<h3 class="padded-top indented-h3" id="title-contact-details">Contact Details</h3>
+			<p class="ssmcc-text indented-subpage padded-top" id="address-1">Dorritt Road</p>
+			<p class="ssmcc-text indented-subpage" id="address-2">Blackpool</p>
+			<p class="ssmcc-text indented-subpage" id="address-3">FY4 3PE</p>
+			<br />
+			<p class="ssmcc-text indented-subpage padded-top" id="title-phone"> Telephone:</p>
+			<p class="ssmcc-text indented-subpage" id="telephone-1"><a href="tel:01253695527">01253 695527</a> </p>
+		</div>
+		<div class="col-md-6">
+			<div id="mapDivH" class="collapse padded">
+				<div class="map-responsive padded">
+					<iframe width='100%' height='150%' id='mapcanvas' src='https://maps.google.com/maps?q=fy4%203pe&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=&amp;output=embed' frameborder='0' scrolling='no' marginheight='0' marginwidth='0'>
+						<div style='overflow:hidden;'>
+							<div id='gmap_canvas' style='height:100%;width:150%;'>
+							</div>
+						</div>
+					</iframe>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-md-2">
+		</div>
+		<div class="col-md-3">
+			<button id="mapButton" href="#mapDivH" class="btn padded" data-toggle="collapse">
+            	View or hide a map of <br /> South Shore Methodist Community Church (Dorritt Road)
+            </button>
+		</div>
+	</div>
+
+	<div class="row space-above">
+		<div class="col-md-1">
+    	</div>
+
+		<div class="col-md-10">
+			<div class="padded separator"></div>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-md-2">
+		</div>
+		<div class="col-md-8">
+			<h3 class="padded-top" id="title-services">Services</h3>
+			<p class="ssmcc-text padded-top">10:30 am every Sunday</p>
+			<p class="padded-top ssmcc-text">Please note that South Shore Methodist Community Church periodically celebrates joint services.
+            	You can check the Dorritt Road site events diary by clicking the Events and Services button below or the
+                <a href="../pages/highfield.php#title-services">Scarsdale Road site events diary</a> if you want to confirm service times.</p>
+
+			<div class="panel-group space-above" id="accordion2">
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						<h3 class="panel-title" id="panel-title-events">
+							<a class="indented-subpage panel-title" data-toggle="collapse" data-parent="#accordion2"
+							   href="#collapse2">Events and services  ▼</a>
+						</h3>
+					</div>
+					<div id="collapse2" class="panel-collapse collapse">
+						<div class="panel-body">
+							<?php include '../templates/lindale-diary.php'; ?>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
+
 
     <?php include '../templates/footer.php'; ?>
 
 </div>
 
 <?php include '../templates/scripts-subpage.php'; ?>
-<?php include '../templates/tables-script-subpage.php'; ?>
 <?php include '../templates/panels-script-subpage.php'; ?>
 
 </body>

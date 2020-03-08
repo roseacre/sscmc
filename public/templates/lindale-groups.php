@@ -1,15 +1,13 @@
 <div class="row">
     <div class="col-md-12">
 
-        <h2>
-            Church groups at the Lindale site of South Shore Methodist Community Church
-        </h2>
+        <div>
 
-        <div class="general-text">
+            <p class="general-text padded-top">Details about each group that meets at South Shore Methodist Community Church (Dorritt Road)
+            or is associated with the church will be presented here.</p>
 
-            <p>Details about each group that meets at Lindale or is associated with the church will be
-            presented here.</p>
         </div>
 
     </div>
 </div>
+
