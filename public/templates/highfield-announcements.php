@@ -1,9 +1,11 @@
-<div class="row">
-    <div class="col-md-12">
-
-        <div>
-            <p class="general-text padded">Announcements for South Shore Methodist Community Church (Scarsdale Avenue) will be displayed here.</p>
-        </div>
-
-    </div>
-</div>
+	<div class="text-center">
+		<p class="general-text padded-top font-weight-bold">
+			Saturday 4th July
+		</p>
+		<p class="general-text font-weight-bold">
+			1940s Musical Evening
+		</p>
+		<p class="general-text">
+			details to follow
+		</p>
+	</div>

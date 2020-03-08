@@ -279,13 +279,6 @@
   </div>
   <div class="column ebenezer">
     <div class="content">
-      <img src="../images/history/rawcliffe-interior.jpg" alt="Interior of Rawcliffe Street Methodist Church"
-      	title="Interior of Rawcliffe Street Methodist Church" class="resized-image-100">
-      <p class="ssmcc-text">Interior of Rawcliffe Street Methodist Church</p>
-    </div>
-  </div>
-  <div class="column ebenezer">
-    <div class="content">
       <img src="../images/history/rawcliffe-memorial1.jpg" alt="War memorial"
       	title="War memorial, Rawcliffe Street Methodist Church" class="resized-image-100">
       <p class="ssmcc-text">War memorial, Rawcliffe Street Methodist Church</p>
